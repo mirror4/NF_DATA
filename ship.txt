@@ -1,0 +1,6888 @@
+Total Ships: 574
+Name: Frigate-01
+	Size: 99L x 16W x 7H
+	Support Slot: 1
+	Require Level: 1
+	DP: 4800
+	Displacement: 1600
+	Turning: 38
+	OverHeat Ratio: 77
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 100
+
+Name: Frigate-02
+	Size: 99L x 16W x 7H
+	Support Slot: 0
+	Require Level: 3
+	DP: 4200
+	Displacement: 1650
+	Turning: 41
+	OverHeat Ratio: 115
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 200
+
+Name: Destroyer-01
+	Size: 111L x 17W x 7H
+	Support Slot: 2
+	Require Level: 5
+	DP: 5600
+	Displacement: 2230
+	Turning: 34
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2000
+
+Name: O Class
+	Size: 116L x 20W x 9H
+	Support Slot: 3
+	Require Level: 12
+	DP: 6400
+	Displacement: 2150
+	Turning: 29
+	OverHeat Ratio: 65
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 32760
+
+Name: Fletcher
+	Size: 136L x 20W x 9H
+	Support Slot: 2
+	Require Level: 12
+	DP: 6700
+	Displacement: 2750
+	Turning: 30
+	OverHeat Ratio: 63
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 36504
+
+Name: Z1 Class
+	Size: 145L x 24W x 10H
+	Support Slot: 2
+	Require Level: 12
+	DP: 6800
+	Displacement: 2950
+	Turning: 29
+	OverHeat Ratio: 80
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 37440
+
+Name: Kagero
+	Size: 144L x 20W x 8H
+	Support Slot: 2
+	Require Level: 12
+	DP: 6700
+	Displacement: 2700
+	Turning: 33
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 35100
+
+Name: Gearing
+	Size: 141L x 24W x 13H
+	Support Slot: 2
+	Require Level: 17
+	DP: 7500
+	Displacement: 3380
+	Turning: 27
+	OverHeat Ratio: 48
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 47880
+
+Name: Tribal
+	Size: 129L x 24W x 8H
+	Support Slot: 3
+	Require Level: 19
+	DP: 7300
+	Displacement: 2700
+	Turning: 24
+	OverHeat Ratio: 58
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 45360
+
+Name: Akitsuki
+	Size: 150L x 24W x 8H
+	Support Slot: 2
+	Require Level: 16
+	DP: 7200
+	Displacement: 3350
+	Turning: 30
+	OverHeat Ratio: 33
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 51240
+
+Name: Z31 Class
+	Size: 148L x 24W x 10H
+	Support Slot: 2
+	Require Level: 17
+	DP: 7400
+	Displacement: 3350
+	Turning: 26
+	OverHeat Ratio: 63
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 50400
+
+Name: Fubuki
+	Size: 140L x 20W x 7H
+	Support Slot: 2
+	Require Level: 19
+	DP: 6700
+	Displacement: 2400
+	Turning: 34
+	OverHeat Ratio: 78
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 49880
+
+Name: Simakaze
+	Size: 147L x 24W x 8H
+	Support Slot: 2
+	Require Level: 32
+	DP: 7700
+	Displacement: 3300
+	Turning: 28
+	OverHeat Ratio: 90
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 249600
+
+Name: Dido
+	Size: 160L x 26W x 9H
+	Support Slot: 4
+	Require Level: 28
+	DP: 8300
+	Displacement: 6850
+	Turning: 22
+	OverHeat Ratio: 53
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 133000
+
+Name: Agano
+	Size: 188L x 27W x 12H
+	Support Slot: 3
+	Require Level: 28
+	DP: 8500
+	Displacement: 8000
+	Turning: 27
+	OverHeat Ratio: 73
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 157500
+
+Name: Koenigsberg
+	Size: 188L x 25W x 14H
+	Support Slot: 3
+	Require Level: 30
+	DP: 8400
+	Displacement: 8137
+	Turning: 24
+	OverHeat Ratio: 55
+	Launchable Aircraft: 1
+	Aircraft Space: 100
+	ValueDefault: 161000
+
+Name: Atlanta
+	Size: 171L x 28W x 13H
+	Support Slot: 3
+	Require Level: 30
+	DP: 8400
+	Displacement: 8000
+	Turning: 25
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 175000
+
+Name: Edinburgh
+	Size: 210L x 33W x 11H
+	Support Slot: 4
+	Require Level: 35
+	DP: 9500
+	Displacement: 11896
+	Turning: 22
+	OverHeat Ratio: 55
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 350000
+
+Name: Kuma
+	Size: 175L x 26W x 10H
+	Support Slot: 3
+	Require Level: 38
+	DP: 8000
+	Displacement: 6600
+	Turning: 26
+	OverHeat Ratio: 80
+	Launchable Aircraft: 1
+	Aircraft Space: 80
+	ValueDefault: 280000
+
+Name: Northampton
+	Size: 201L x 32W x 12H
+	Support Slot: 4
+	Require Level: 38
+	DP: 12300
+	Displacement: 10872
+	Turning: 24
+	OverHeat Ratio: 61
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 591500
+
+Name: County
+	Size: 214L x 30W x 11H
+	Support Slot: 5
+	Require Level: 43
+	DP: 12900
+	Displacement: 11856
+	Turning: 19
+	OverHeat Ratio: 60
+	Launchable Aircraft: 1
+	Aircraft Space: 100
+	ValueDefault: 605500
+
+Name: Portland
+	Size: 201L x 32W x 12H
+	Support Slot: 4
+	Require Level: 45
+	DP: 13100
+	Displacement: 14490
+	Turning: 24
+	OverHeat Ratio: 61
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 630000
+
+Name: Deutschland
+	Size: 208L x 29W x 12H
+	Support Slot: 4
+	Require Level: 47
+	DP: 14000
+	Displacement: 14000
+	Turning: 20
+	OverHeat Ratio: 49
+	Launchable Aircraft: 1
+	Aircraft Space: 200
+	ValueDefault: 616000
+
+Name: New Orleans
+	Size: 201L x 37W x 14H
+	Support Slot: 4
+	Require Level: 46
+	DP: 13200
+	Displacement: 12580
+	Turning: 24
+	OverHeat Ratio: 63
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 644000
+
+Name: Myoko
+	Size: 230L x 28W x 13H
+	Support Slot: 4
+	Require Level: 47
+	DP: 12500
+	Displacement: 15076
+	Turning: 25
+	OverHeat Ratio: 67
+	Launchable Aircraft: 2
+	Aircraft Space: 100
+	ValueDefault: 602000
+
+Name: Admiral Hipper
+	Size: 220L x 32W x 12H
+	Support Slot: 4
+	Require Level: 45
+	DP: 13400
+	Displacement: 15956
+	Turning: 21
+	OverHeat Ratio: 61
+	Launchable Aircraft: 1
+	Aircraft Space: 160
+	ValueDefault: 784000
+
+Name: Kongo
+	Size: 240L x 38W x 12H
+	Support Slot: 5
+	Require Level: 59
+	DP: 16800
+	Displacement: 36658
+	Turning: 20
+	OverHeat Ratio: 59
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 1001000
+
+Name: Scharnhorst
+	Size: 252L x 40W x 14H
+	Support Slot: 5
+	Require Level: 60
+	DP: 17500
+	Displacement: 39005
+	Turning: 18
+	OverHeat Ratio: 49
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 1260000
+
+Name: Bogue
+	Size: 158L x 42W x 16H
+	Support Slot: 5
+	Require Level: 50
+	DP: 9100
+	Displacement: 15400
+	Turning: 27
+	OverHeat Ratio: 8
+	Launchable Aircraft: 6
+	Aircraft Space: 1850
+	ValueDefault: 1372000
+
+Name: Attacker
+	Size: 158L x 42W x 16H
+	Support Slot: 5
+	Require Level: 50
+	DP: 9400
+	Displacement: 15400
+	Turning: 25
+	OverHeat Ratio: 8
+	Launchable Aircraft: 6
+	Aircraft Space: 2100
+	ValueDefault: 1372000
+
+Name: Hosho
+	Size: 161L x 28W x 12H
+	Support Slot: 5
+	Require Level: 46
+	DP: 9100
+	Displacement: 11200
+	Turning: 30
+	OverHeat Ratio: 63
+	Launchable Aircraft: 6
+	Aircraft Space: 1600
+	ValueDefault: 1411200
+
+Name: Gearing DDR
+	Size: 144L x 24W x 9H
+	Support Slot: 2
+	Require Level: 22
+	DP: 8300
+	Displacement: 3480
+	Turning: 27
+	OverHeat Ratio: 48
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 52700
+
+Name: Timmerman
+	Size: 141L x 24W x 9H
+	Support Slot: 3
+	Require Level: 24
+	DP: 7200
+	Displacement: 3480
+	Turning: 30
+	OverHeat Ratio: 78
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 59850
+
+Name: Akitsuki-Kai
+	Size: 150L x 24W x 8H
+	Support Slot: 2
+	Require Level: 22
+	DP: 7000
+	Displacement: 3350
+	Turning: 33
+	OverHeat Ratio: 65
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 58900
+
+Name: Z46 class
+	Size: 148L x 24W x 10H
+	Support Slot: 2
+	Require Level: 22
+	DP: 7400
+	Displacement: 3436
+	Turning: 26
+	OverHeat Ratio: 73
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 55400
+
+Name: Z52 class
+	Size: 148L x 24W x 10H
+	Support Slot: 2
+	Require Level: 23
+	DP: 7400
+	Displacement: 3618
+	Turning: 30
+	OverHeat Ratio: 73
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 55400
+
+Name: Somers
+	Size: 136L x 24W x 7H
+	Support Slot: 2
+	Require Level: 19
+	DP: 7400
+	Displacement: 2838
+	Turning: 27
+	OverHeat Ratio: 68
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 72000
+
+Name: Mogami(1938)
+	Size: 228L x 30W x 16H
+	Support Slot: 3
+	Require Level: 39
+	DP: 9000
+	Displacement: 11169
+	Turning: 26
+	OverHeat Ratio: 32
+	Launchable Aircraft: 2
+	Aircraft Space: 165
+	ValueDefault: 550000
+
+Name: Mogami(1941)
+	Size: 228L x 30W x 16H
+	Support Slot: 4
+	Require Level: 51
+	DP: 12700
+	Displacement: 14146
+	Turning: 26
+	OverHeat Ratio: 43
+	Launchable Aircraft: 2
+	Aircraft Space: 165
+	ValueDefault: 823200
+
+Name: Mogami(1944)
+	Size: 228L x 30W x 16H
+	Support Slot: 5
+	Require Level: 50
+	DP: 11400
+	Displacement: 14142
+	Turning: 25
+	OverHeat Ratio: 43
+	Launchable Aircraft: 5
+	Aircraft Space: 1450
+	ValueDefault: 999600
+
+Name: Revenge
+	Size: 217L x 35W x 11H
+	Support Slot: 6
+	Require Level: 56
+	DP: 16200
+	Displacement: 33000
+	Turning: 17
+	OverHeat Ratio: 38
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 910000
+
+Name: Oakland
+	Size: 171L x 28W x 13H
+	Support Slot: 3
+	Require Level: 34
+	DP: 8900
+	Displacement: 8000
+	Turning: 25
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 227500
+
+Name: Juneau II
+	Size: 170L x 26W x 12H
+	Support Slot: 5
+	Require Level: 33
+	DP: 9150
+	Displacement: 8000
+	Turning: 25
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 227500
+
+Name: Sirius
+	Size: 160L x 26W x 9H
+	Support Slot: 4
+	Require Level: 34
+	DP: 8700
+	Displacement: 6850
+	Turning: 22
+	OverHeat Ratio: 53
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 172900
+
+Name: Kitakami
+	Size: 170L x 20W x 11H
+	Support Slot: 3
+	Require Level: 52
+	DP: 8500
+	Displacement: 6600
+	Turning: 26
+	OverHeat Ratio: 80
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 476000
+
+Name: Nevada
+	Size: 201L x 40W x 12H
+	Support Slot: 5
+	Require Level: 57
+	DP: 16100
+	Displacement: 33901
+	Turning: 17
+	OverHeat Ratio: 33
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 945000
+
+Name: Frigate-01 M1
+	Size: 99L x 16W x 7H
+	Support Slot: 1
+	Require Level: 2
+	DP: 4300
+	Displacement: 1600
+	Turning: 38
+	OverHeat Ratio: 77
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150
+
+Name: Frigate-01 M2
+	Size: 99L x 16W x 7H
+	Support Slot: 1
+	Require Level: 2
+	DP: 5300
+	Displacement: 1600
+	Turning: 30
+	OverHeat Ratio: 38
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 151
+
+Name: Frigate-01 M3
+	Size: 99L x 16W x 7H
+	Support Slot: 1
+	Require Level: 2
+	DP: 4800
+	Displacement: 1600
+	Turning: 46
+	OverHeat Ratio: 115
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 152
+
+Name: Frigate-02 M1
+	Size: 99L x 16W x 7H
+	Support Slot: 0
+	Require Level: 4
+	DP: 3800
+	Displacement: 1650
+	Turning: 41
+	OverHeat Ratio: 115
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 250
+
+Name: Frigate-02 M2
+	Size: 99L x 16W x 7H
+	Support Slot: 0
+	Require Level: 4
+	DP: 4700
+	Displacement: 1650
+	Turning: 33
+	OverHeat Ratio: 77
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 251
+
+Name: Frigate-02 M3
+	Size: 99L x 16W x 7H
+	Support Slot: 0
+	Require Level: 4
+	DP: 4200
+	Displacement: 1650
+	Turning: 49
+	OverHeat Ratio: 154
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 252
+
+Name: Destroyer-01 M1
+	Size: 111L x 17W x 7H
+	Support Slot: 2
+	Require Level: 6
+	DP: 5100
+	Displacement: 2230
+	Turning: 34
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2500
+
+Name: Destroyer-01 M2
+	Size: 111L x 17W x 7H
+	Support Slot: 2
+	Require Level: 6
+	DP: 6200
+	Displacement: 2230
+	Turning: 27
+	OverHeat Ratio: 58
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2600
+
+Name: Destroyer-01 M3
+	Size: 111L x 17W x 7H
+	Support Slot: 2
+	Require Level: 6
+	DP: 5600
+	Displacement: 2230
+	Turning: 41
+	OverHeat Ratio: 113
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2700
+
+Name: Destroyer-02
+	Size: 134L x 24W x 6H
+	Support Slot: 2
+	Require Level: 9
+	DP: 6000
+	Displacement: 2350
+	Turning: 31
+	OverHeat Ratio: 68
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4000
+
+Name: Destroyer-02 M1
+	Size: 134L x 24W x 6H
+	Support Slot: 2
+	Require Level: 10
+	DP: 5400
+	Displacement: 2350
+	Turning: 31
+	OverHeat Ratio: 68
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4500
+
+Name: Destroyer-02 M2
+	Size: 134L x 24W x 6H
+	Support Slot: 2
+	Require Level: 10
+	DP: 6600
+	Displacement: 2350
+	Turning: 25
+	OverHeat Ratio: 40
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4600
+
+Name: Destroyer-02 M3
+	Size: 134L x 24W x 6H
+	Support Slot: 2
+	Require Level: 10
+	DP: 6000
+	Displacement: 2350
+	Turning: 37
+	OverHeat Ratio: 93
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4700
+
+Name: Spaehkreuzer(D38)
+	Size: 159L x 29W x 12H
+	Support Slot: 3
+	Require Level: 20
+	DP: 7900
+	Displacement: 5950
+	Turning: 25
+	OverHeat Ratio: 42
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 70000
+
+Name: Spaehkreuzer(D40)
+	Size: 159L x 29W x 12H
+	Support Slot: 3
+	Require Level: 27
+	DP: 8200
+	Displacement: 7737
+	Turning: 25
+	OverHeat Ratio: 82
+	Launchable Aircraft: 1
+	Aircraft Space: 80
+	ValueDefault: 100000
+
+Name: M Project
+	Size: 204L x 28W x 10H
+	Support Slot: 3
+	Require Level: 37
+	DP: 9600
+	Displacement: 10803
+	Turning: 23
+	OverHeat Ratio: 55
+	Launchable Aircraft: 1
+	Aircraft Space: 100
+	ValueDefault: 225000
+
+Name: Brooklyn
+	Size: 201L x 31W x 18H
+	Support Slot: 3
+	Require Level: 38
+	DP: 10600
+	Displacement: 12207
+	Turning: 23
+	OverHeat Ratio: 55
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 385000
+
+Name: Colossus
+	Size: 222L x 32W x 18H
+	Support Slot: 6
+	Require Level: 55
+	DP: 14800
+	Displacement: 18200
+	Turning: 30
+	OverHeat Ratio: 20
+	Launchable Aircraft: 7
+	Aircraft Space: 3720
+	ValueDefault: 2479400
+
+Name: Independence
+	Size: 215L x 39W x 16H
+	Support Slot: 6
+	Require Level: 55
+	DP: 12800
+	Displacement: 15200
+	Turning: 28
+	OverHeat Ratio: 54
+	Launchable Aircraft: 7
+	Aircraft Space: 3780
+	ValueDefault: 2254000
+
+Name: Ryujo
+	Size: 197L x 31W x 17H
+	Support Slot: 6
+	Require Level: 53
+	DP: 12400
+	Displacement: 13500
+	Turning: 34
+	OverHeat Ratio: 39
+	Launchable Aircraft: 7
+	Aircraft Space: 3760
+	ValueDefault: 2125620
+
+Name: Frigate-X
+	Size: 99L x 16W x 7H
+	Support Slot: 2
+	Require Level: 22
+	DP: 5300
+	Displacement: 2050
+	Turning: 36
+	OverHeat Ratio: 35
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 35200
+
+Name: Frigate-Y
+	Size: 99L x 16W x 7H
+	Support Slot: 2
+	Require Level: 24
+	DP: 4500
+	Displacement: 2200
+	Turning: 34
+	OverHeat Ratio: 77
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 42000
+
+Name: Cleveland
+	Size: 203L x 30W x 20H
+	Support Slot: 3
+	Require Level: 43
+	DP: 11900
+	Displacement: 14131
+	Turning: 23
+	OverHeat Ratio: 58
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 574000
+
+Name: Queen Elizabeth
+	Size: 222L x 40W x 12H
+	Support Slot: 6
+	Require Level: 65
+	DP: 18700
+	Displacement: 36300
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1312500
+
+Name: Seydlitz
+	Size: 220L x 40W x 14H
+	Support Slot: 6
+	Require Level: 55
+	DP: 14000
+	Displacement: 25500
+	Turning: 25
+	OverHeat Ratio: 49
+	Launchable Aircraft: 7
+	Aircraft Space: 3700
+	ValueDefault: 2450000
+
+Name: York
+	Size: 190L x 28W x 13H
+	Support Slot: 5
+	Require Level: 40
+	DP: 10800
+	Displacement: 10500
+	Turning: 20
+	OverHeat Ratio: 60
+	Launchable Aircraft: 1
+	Aircraft Space: 100
+	ValueDefault: 540500
+
+Name: Pennsylvania(1930)
+	Size: 200L x 38W x 11H
+	Support Slot: 5
+	Require Level: 65
+	DP: 16900
+	Displacement: 40605
+	Turning: 17
+	OverHeat Ratio: 26
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 1356000
+
+Name: Pennsylvania(1943)
+	Size: 200L x 38W x 11H
+	Support Slot: 6
+	Require Level: 69
+	DP: 18500
+	Displacement: 40605
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1695300
+
+Name: Renown
+	Size: 270L x 41W x 13H
+	Support Slot: 6
+	Require Level: 54
+	DP: 15600
+	Displacement: 38945
+	Turning: 17
+	OverHeat Ratio: 43
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 854000
+
+Name: Nelson
+	Size: 235L x 40W x 13H
+	Support Slot: 7
+	Require Level: 79
+	DP: 23000
+	Displacement: 40000
+	Turning: 18
+	OverHeat Ratio: 41
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1501500
+
+Name: Kuma-Kai
+	Size: 175L x 26W x 10H
+	Support Slot: 3
+	Require Level: 42
+	DP: 8300
+	Displacement: 6600
+	Turning: 28
+	OverHeat Ratio: 80
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 364000
+
+Name: Fuso
+	Size: 236L x 37W x 11H
+	Support Slot: 6
+	Require Level: 68
+	DP: 18800
+	Displacement: 39154
+	Turning: 17
+	OverHeat Ratio: 52
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1460500
+
+Name: Surrey
+	Size: 195L x 30W x 10H
+	Support Slot: 5
+	Require Level: 44
+	DP: 13200
+	Displacement: 12500
+	Turning: 20
+	OverHeat Ratio: 51
+	Launchable Aircraft: 1
+	Aircraft Space: 100
+	ValueDefault: 621600
+
+Name: P Project
+	Size: 237L x 35W x 11H
+	Support Slot: 4
+	Require Level: 54
+	DP: 15600
+	Displacement: 24600
+	Turning: 20
+	OverHeat Ratio: 63
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 896000
+
+Name: P Project II
+	Size: 237L x 35W x 11H
+	Support Slot: 5
+	Require Level: 59
+	DP: 18000
+	Displacement: 26100
+	Turning: 20
+	OverHeat Ratio: 70
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 1250000
+
+Name: Baltimore
+	Size: 221L x 30W x 15H
+	Support Slot: 4
+	Require Level: 48
+	DP: 14000
+	Displacement: 17031
+	Turning: 21
+	OverHeat Ratio: 64
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 756000
+
+Name: Frigate-11
+	Size: 99L x 16W x 7H
+	Support Slot: 2
+	Require Level: 14
+	DP: 5400
+	Displacement: 1900
+	Turning: 36
+	OverHeat Ratio: 28
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 5800
+
+Name: Frigate-21
+	Size: 99L x 16W x 7H
+	Support Slot: 2
+	Require Level: 21
+	DP: 4600
+	Displacement: 2000
+	Turning: 34
+	OverHeat Ratio: 54
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 6400
+
+Name: Oyodo
+	Size: 209L x 30W x 10H
+	Support Slot: 4
+	Require Level: 38
+	DP: 8500
+	Displacement: 11433
+	Turning: 25
+	OverHeat Ratio: 73
+	Launchable Aircraft: 5
+	Aircraft Space: 1250
+	ValueDefault: 252000
+
+Name: O Project
+	Size: 276L x 34W x 13H
+	Support Slot: 6
+	Require Level: 69
+	DP: 21600
+	Displacement: 43600
+	Turning: 17
+	OverHeat Ratio: 36
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1540000
+
+Name: Alaska
+	Size: 279L x 39W x 11H
+	Support Slot: 5
+	Require Level: 54
+	DP: 15700
+	Displacement: 34253
+	Turning: 17
+	OverHeat Ratio: 61
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 910000
+
+Name: Courageous
+	Size: 266L x 38W x 12H
+	Support Slot: 7
+	Require Level: 63
+	DP: 18200
+	Displacement: 28600
+	Turning: 29
+	OverHeat Ratio: 49
+	Launchable Aircraft: 8
+	Aircraft Space: 4700
+	ValueDefault: 3430000
+
+Name: Ise(1937)
+	Size: 232L x 43W x 15H
+	Support Slot: 6
+	Require Level: 67
+	DP: 18200
+	Displacement: 40169
+	Turning: 17
+	OverHeat Ratio: 54
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1487400
+
+Name: Ise(1943)
+	Size: 232L x 39W x 15H
+	Support Slot: 6
+	Require Level: 73
+	DP: 14400
+	Displacement: 38676
+	Turning: 17
+	OverHeat Ratio: 54
+	Launchable Aircraft: 6
+	Aircraft Space: 2000
+	ValueDefault: 1859200
+
+Name: Tennessee(1941)
+	Size: 213L x 39W x 9H
+	Support Slot: 5
+	Require Level: 66
+	DP: 16700
+	Displacement: 36455
+	Turning: 17
+	OverHeat Ratio: 26
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 1400000
+
+Name: Tennessee(1945)
+	Size: 213L x 42W x 9H
+	Support Slot: 6
+	Require Level: 70
+	DP: 18600
+	Displacement: 40950
+	Turning: 17
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1750000
+
+Name: Hood
+	Size: 308L x 40W x 13H
+	Support Slot: 7
+	Require Level: 81
+	DP: 24500
+	Displacement: 48360
+	Turning: 21
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 1487500
+
+Name: Prinz Eugen
+	Size: 220L x 32W x 12H
+	Support Slot: 4
+	Require Level: 53
+	DP: 15000
+	Displacement: 18200
+	Turning: 21
+	OverHeat Ratio: 61
+	Launchable Aircraft: 1
+	Aircraft Space: 160
+	ValueDefault: 1000000
+
+Name: New Mexico(1930)
+	Size: 215L x 38W x 13H
+	Support Slot: 5
+	Require Level: 65
+	DP: 17200
+	Displacement: 40181
+	Turning: 17
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 1470000
+
+Name: New Mexico(1945)
+	Size: 215L x 38W x 13H
+	Support Slot: 6
+	Require Level: 70
+	DP: 18100
+	Displacement: 40181
+	Turning: 17
+	OverHeat Ratio: 38
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1890000
+
+Name: Nagato
+	Size: 241L x 44W x 13H
+	Support Slot: 6
+	Require Level: 77
+	DP: 23000
+	Displacement: 43580
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 2307500
+
+Name: Guam
+	Size: 279L x 39W x 11H
+	Support Slot: 5
+	Require Level: 59
+	DP: 16500
+	Displacement: 34253
+	Turning: 17
+	OverHeat Ratio: 45
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 1211000
+
+Name: Repulse
+	Size: 270L x 41W x 11H
+	Support Slot: 6
+	Require Level: 66
+	DP: 17800
+	Displacement: 38945
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1190000
+
+Name: Gneisenau
+	Size: 261L x 40W x 14H
+	Support Slot: 6
+	Require Level: 68
+	DP: 20000
+	Displacement: 43000
+	Turning: 18
+	OverHeat Ratio: 49
+	Launchable Aircraft: 2
+	Aircraft Space: 175
+	ValueDefault: 1610000
+
+Name: King George V
+	Size: 244L x 42W x 15H
+	Support Slot: 6
+	Require Level: 72
+	DP: 19800
+	Displacement: 45360
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1520000
+
+Name: Q Class
+	Size: 116L x 17W x 12H
+	Support Slot: 3
+	Require Level: 16
+	DP: 7000
+	Displacement: 2424
+	Turning: 30
+	OverHeat Ratio: 60
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 44460
+
+Name: Yorktown
+	Size: 279L x 39W x 26H
+	Support Slot: 6
+	Require Level: 65
+	DP: 16100
+	Displacement: 24500
+	Turning: 28
+	OverHeat Ratio: 43
+	Launchable Aircraft: 8
+	Aircraft Space: 5860
+	ValueDefault: 3356000
+
+Name: Hiryu
+	Size: 228L x 42W x 10H
+	Support Slot: 6
+	Require Level: 66
+	DP: 16300
+	Displacement: 24500
+	Turning: 28
+	OverHeat Ratio: 38
+	Launchable Aircraft: 8
+	Aircraft Space: 5700
+	ValueDefault: 3263400
+
+Name: Graf Zeppelin
+	Size: 280L x 42W x 20H
+	Support Slot: 6
+	Require Level: 67
+	DP: 17500
+	Displacement: 34500
+	Turning: 29
+	OverHeat Ratio: 49
+	Launchable Aircraft: 8
+	Aircraft Space: 5200
+	ValueDefault: 3726000
+
+Name: North Carolina
+	Size: 242L x 40W x 13H
+	Support Slot: 6
+	Require Level: 78
+	DP: 22000
+	Displacement: 49240
+	Turning: 17
+	OverHeat Ratio: 26
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 2000000
+
+Name: Destroyer MP
+	Size: 134L x 22W x 5H
+	Support Slot: 2
+	Require Level: 9
+	DP: 6200
+	Displacement: 4813
+	Turning: 37
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Colorado
+	Size: 216L x 42W x 12H
+	Support Slot: 6
+	Require Level: 70
+	DP: 18700
+	Displacement: 40800
+	Turning: 18
+	OverHeat Ratio: 36
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1825000
+
+Name: South Dakota
+	Size: 228L x 42W x 15H
+	Support Slot: 6
+	Require Level: 79
+	DP: 21000
+	Displacement: 46218
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 2100000
+
+Name: Junyo
+	Size: 227L x 41W x 14H
+	Support Slot: 6
+	Require Level: 60
+	DP: 14200
+	Displacement: 27500
+	Turning: 33
+	OverHeat Ratio: 48
+	Launchable Aircraft: 7
+	Aircraft Space: 4540
+	ValueDefault: 2691000
+
+Name: Unryu
+	Size: 242L x 36W x 19H
+	Support Slot: 6
+	Require Level: 72
+	DP: 17800
+	Displacement: 24400
+	Turning: 30
+	OverHeat Ratio: 44
+	Launchable Aircraft: 8
+	Aircraft Space: 6100
+	ValueDefault: 3825000
+
+Name: Initial 'B'
+	Size: 267L x 44W x 12H
+	Support Slot: 10
+	Require Level: 105
+	DP: 70000
+	Displacement: 51000
+	Turning: 20
+	OverHeat Ratio: 49
+	Launchable Aircraft: 14
+	Aircraft Space: 9350
+	ValueDefault: 100000000
+
+Name: Essex
+	Size: 306L x 55W x 24H
+	Support Slot: 7
+	Require Level: 79
+	DP: 20340
+	Displacement: 35750
+	Turning: 24
+	OverHeat Ratio: 29
+	Launchable Aircraft: 9
+	Aircraft Space: 8200
+	ValueDefault: 4898800
+
+Name: Illustrious
+	Size: 242L x 36W x 19H
+	Support Slot: 6
+	Require Level: 73
+	DP: 19500
+	Displacement: 31000
+	Turning: 31
+	OverHeat Ratio: 31
+	Launchable Aircraft: 8
+	Aircraft Space: 5980
+	ValueDefault: 4261750
+
+Name: Akagi(1927)
+	Size: 304L x 45W x 24H
+	Support Slot: 7
+	Require Level: 75
+	DP: 19490
+	Displacement: 35500
+	Turning: 24
+	OverHeat Ratio: 25
+	Launchable Aircraft: 8
+	Aircraft Space: 7320
+	ValueDefault: 4157370
+
+Name: Taiho
+	Size: 299L x 39W x 25H
+	Support Slot: 7
+	Require Level: 78
+	DP: 21500
+	Displacement: 40600
+	Turning: 25
+	OverHeat Ratio: 30
+	Launchable Aircraft: 9
+	Aircraft Space: 7380
+	ValueDefault: 4864500
+
+Name: Bismarck
+	Size: 267L x 44W x 12H
+	Support Slot: 6
+	Require Level: 80
+	DP: 24000
+	Displacement: 51000
+	Turning: 18
+	OverHeat Ratio: 31
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 2350000
+
+Name: O Project II
+	Size: 290L x 40W x 13H
+	Support Slot: 7
+	Require Level: 80
+	DP: 25150
+	Displacement: 48500
+	Turning: 19
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 2325000
+
+Name: Vanguard
+	Size: 264L x 42W x 13H
+	Support Slot: 8
+	Require Level: 89
+	DP: 25700
+	Displacement: 59500
+	Turning: 19
+	OverHeat Ratio: 27
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 2475000
+
+Name: Iowa
+	Size: 311L x 39W x 10H
+	Support Slot: 7
+	Require Level: 89
+	DP: 25850
+	Displacement: 57540
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 2510000
+
+Name: Lion I
+	Size: 269L x 45W x 12H
+	Support Slot: 8
+	Require Level: 89
+	DP: 26550
+	Displacement: 54050
+	Turning: 20
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 2500000
+
+Name: Yamato
+	Size: 300L x 49W x 14H
+	Support Slot: 7
+	Require Level: 89
+	DP: 26300
+	Displacement: 72800
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 280
+	ValueDefault: 2766000
+
+Name: H39 Class
+	Size: 318L x 44W x 17H
+	Support Slot: 7
+	Require Level: 89
+	DP: 26000
+	Displacement: 69000
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 195
+	ValueDefault: 2686000
+
+Name: Akagi(1938)
+	Size: 308L x 47W x 24H
+	Support Slot: 7
+	Require Level: 81
+	DP: 21000
+	Displacement: 41300
+	Turning: 25
+	OverHeat Ratio: 25
+	Launchable Aircraft: 9
+	Aircraft Space: 7620
+	ValueDefault: 5196690
+
+Name: Ark Royal
+	Size: 272L x 38W x 22H
+	Support Slot: 7
+	Require Level: 82
+	DP: 23250
+	Displacement: 27900
+	Turning: 24
+	OverHeat Ratio: 27
+	Launchable Aircraft: 9
+	Aircraft Space: 7900
+	ValueDefault: 5271250
+
+Name: Graf Zeppelin II
+	Size: 288L x 44W x 22H
+	Support Slot: 7
+	Require Level: 80
+	DP: 19700
+	Displacement: 37500
+	Turning: 24
+	OverHeat Ratio: 28
+	Launchable Aircraft: 9
+	Aircraft Space: 7400
+	ValueDefault: 4522500
+
+Name: Kaga(1928)
+	Size: 280L x 41W x 14H
+	Support Slot: 7
+	Require Level: 86
+	DP: 22750
+	Displacement: 33700
+	Turning: 25
+	OverHeat Ratio: 28
+	Launchable Aircraft: 9
+	Aircraft Space: 8200
+	ValueDefault: 5400000
+
+Name: Shokaku
+	Size: 297L x 37W x 19H
+	Support Slot: 8
+	Require Level: 95
+	DP: 23000
+	Displacement: 37100
+	Turning: 24
+	OverHeat Ratio: 30
+	Launchable Aircraft: 10
+	Aircraft Space: 9600
+	ValueDefault: 5467500
+
+Name: Prince Of Wales
+	Size: 244L x 42W x 15H
+	Support Slot: 7
+	Require Level: 82
+	DP: 23500
+	Displacement: 46000
+	Turning: 18
+	OverHeat Ratio: 40
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 1700000
+
+Name: Tsukikei
+	Size: 156L x 26W x 14H
+	Support Slot: 3
+	Require Level: 24
+	DP: 7300
+	Displacement: 3970
+	Turning: 30
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 65000
+
+Name: DDX Project
+	Size: 136L x 24W x 9H
+	Support Slot: 3
+	Require Level: 26
+	DP: 7500
+	Displacement: 3600
+	Turning: 29
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 73000
+
+Name: L Class
+	Size: 130L x 22W x 13H
+	Support Slot: 4
+	Require Level: 24
+	DP: 7300
+	Displacement: 3700
+	Turning: 27
+	OverHeat Ratio: 65
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 67000
+
+Name: Tatsuda
+	Size: 158L x 26W x 10H
+	Support Slot: 2
+	Require Level: 25
+	DP: 7000
+	Displacement: 3550
+	Turning: 30
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 80000
+
+Name: Z99 Class
+	Size: 148L x 23W x 12H
+	Support Slot: 2
+	Require Level: 25
+	DP: 7600
+	Displacement: 4000
+	Turning: 27
+	OverHeat Ratio: 73
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 60000
+
+Name: Randall_MissionShip
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 90
+	DP: 9000
+	Displacement: 100000
+	Turning: 24
+	OverHeat Ratio: 27
+	Launchable Aircraft: 100
+	Aircraft Space: 0
+	ValueDefault: 90000
+
+Name: Texas
+	Size: 97L x 19W x 8H
+	Support Slot: 5
+	Require Level: 36
+	DP: 9600
+	Displacement: 7175
+	Turning: 27
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Tiger
+	Size: 120L x 21W x 15H
+	Support Slot: 6
+	Require Level: 32
+	DP: 8900
+	Displacement: 7600
+	Turning: 27
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Dhonburi
+	Size: 97L x 23W x 7H
+	Support Slot: 5
+	Require Level: 33
+	DP: 8400
+	Displacement: 9534
+	Turning: 27
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Bayern
+	Size: 130L x 22W x 7H
+	Support Slot: 5
+	Require Level: 38
+	DP: 8500
+	Displacement: 9286
+	Turning: 27
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Pensacola
+	Size: 192L x 28W x 11H
+	Support Slot: 5
+	Require Level: 51
+	DP: 13150
+	Displacement: 20450
+	Turning: 25
+	OverHeat Ratio: 43
+	Launchable Aircraft: 2
+	Aircraft Space: 160
+	ValueDefault: 0
+
+Name: Furious
+	Size: 272L x 34W x 12H
+	Support Slot: 6
+	Require Level: 48
+	DP: 12300
+	Displacement: 25300
+	Turning: 25
+	OverHeat Ratio: 43
+	Launchable Aircraft: 2
+	Aircraft Space: 160
+	ValueDefault: 0
+
+Name: Asama
+	Size: 232L x 36W x 15H
+	Support Slot: 5
+	Require Level: 52
+	DP: 13000
+	Displacement: 17900
+	Turning: 25
+	OverHeat Ratio: 46
+	Launchable Aircraft: 2
+	Aircraft Space: 160
+	ValueDefault: 0
+
+Name: Moltke
+	Size: 215L x 30W x 13H
+	Support Slot: 5
+	Require Level: 55
+	DP: 15200
+	Displacement: 24250
+	Turning: 25
+	OverHeat Ratio: 46
+	Launchable Aircraft: 2
+	Aircraft Space: 160
+	ValueDefault: 0
+
+Name: Lexington_MissionShip
+	Size: 312L x 38W x 16H
+	Support Slot: 8
+	Require Level: 95
+	DP: 35000
+	Displacement: 43400
+	Turning: 33
+	OverHeat Ratio: 30
+	Launchable Aircraft: 10
+	Aircraft Space: 12000
+	ValueDefault: 6000000
+
+Name: FordBase
+	Size: 158L x 42W x 16H
+	Support Slot: 10
+	Require Level: 100
+	DP: 100000
+	Displacement: 50000
+	Turning: 0
+	OverHeat Ratio: 8
+	Launchable Aircraft: 10
+	Aircraft Space: 34464
+	ValueDefault: 8500000
+
+Name: MS_PE
+	Size: 220L x 32W x 12H
+	Support Slot: 10
+	Require Level: 100
+	DP: 30000
+	Displacement: 18200
+	Turning: 25
+	OverHeat Ratio: 61
+	Launchable Aircraft: 0
+	Aircraft Space: 200
+	ValueDefault: 8000000
+
+Name: MS_GS
+	Size: 208L x 29W x 12H
+	Support Slot: 10
+	Require Level: 100
+	DP: 50000
+	Displacement: 14000
+	Turning: 0
+	OverHeat Ratio: 49
+	Launchable Aircraft: 0
+	Aircraft Space: 100
+	ValueDefault: 8000000
+
+Name: Omaha
+	Size: 195L x 32W x 18H
+	Support Slot: 3
+	Require Level: 26
+	DP: 8200
+	Displacement: 10240
+	Turning: 27
+	OverHeat Ratio: 20
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 110000
+
+Name: Emerald
+	Size: 184L x 27W x 25H
+	Support Slot: 4
+	Require Level: 26
+	DP: 8200
+	Displacement: 9000
+	Turning: 27
+	OverHeat Ratio: 36
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 100000
+
+Name: Yubari
+	Size: 176L x 23W x 30H
+	Support Slot: 3
+	Require Level: 23
+	DP: 7500
+	Displacement: 6850
+	Turning: 27
+	OverHeat Ratio: 36
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 70000
+
+Name: Emden
+	Size: 178L x 27W x 22H
+	Support Slot: 4
+	Require Level: 28
+	DP: 8000
+	Displacement: 7102
+	Turning: 27
+	OverHeat Ratio: 20
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 90000
+
+Name: Montana
+	Size: 320L x 46W x 15H
+	Support Slot: 8
+	Require Level: 103
+	DP: 32500
+	Displacement: 73500
+	Turning: 19
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 275
+	ValueDefault: 4312500
+
+Name: Lion II
+	Size: 275L x 44W x 13H
+	Support Slot: 9
+	Require Level: 103
+	DP: 32000
+	Displacement: 67500
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 4125000
+
+Name: Super Yamato
+	Size: 300L x 49W x 14H
+	Support Slot: 8
+	Require Level: 103
+	DP: 32200
+	Displacement: 82500
+	Turning: 19
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 4500000
+
+Name: H44 Class
+	Size: 320L x 48W x 14H
+	Support Slot: 8
+	Require Level: 103
+	DP: 32500
+	Displacement: 118000
+	Turning: 20
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 4432500
+
+Name: Lexington
+	Size: 312L x 38W x 16H
+	Support Slot: 8
+	Require Level: 97
+	DP: 22000
+	Displacement: 43400
+	Turning: 23
+	OverHeat Ratio: 28
+	Launchable Aircraft: 10
+	Aircraft Space: 9840
+	ValueDefault: 6642000
+
+Name: Malta Project
+	Size: 320L x 48W x 19H
+	Support Slot: 8
+	Require Level: 98
+	DP: 24500
+	Displacement: 57900
+	Turning: 23
+	OverHeat Ratio: 28
+	Launchable Aircraft: 10
+	Aircraft Space: 9700
+	ValueDefault: 6986000
+
+Name: Kaga(1935)
+	Size: 284L x 40W x 24H
+	Support Slot: 8
+	Require Level: 97
+	DP: 25500
+	Displacement: 44000
+	Turning: 23
+	OverHeat Ratio: 28
+	Launchable Aircraft: 10
+	Aircraft Space: 9800
+	ValueDefault: 6417000
+
+Name: Shinano.CV
+	Size: 305L x 52W x 21H
+	Support Slot: 9
+	Require Level: 103
+	DP: 27500
+	Displacement: 74000
+	Turning: 24
+	OverHeat Ratio: 28
+	Launchable Aircraft: 10
+	Aircraft Space: 10900
+	ValueDefault: 6615000
+
+Name: Europa
+	Size: 333L x 42W x 15H
+	Support Slot: 8
+	Require Level: 96
+	DP: 21300
+	Displacement: 56500
+	Turning: 24
+	OverHeat Ratio: 28
+	Launchable Aircraft: 10
+	Aircraft Space: 9600
+	ValueDefault: 6174500
+
+Name: Nevada
+	Size: 201L x 40W x 12H
+	Support Slot: 5
+	Require Level: 40
+	DP: 22000
+	Displacement: 33901
+	Turning: 18
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 350000
+
+Name: Colorado
+	Size: 216L x 42W x 12H
+	Support Slot: 6
+	Require Level: 40
+	DP: 24000
+	Displacement: 37500
+	Turning: 19
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 420000
+
+Name: New Mexico(1945)
+	Size: 215L x 38W x 13H
+	Support Slot: 7
+	Require Level: 40
+	DP: 26000
+	Displacement: 40181
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 580000
+
+Name: North Carolina
+	Size: 242L x 40W x 13H
+	Support Slot: 8
+	Require Level: 40
+	DP: 28000
+	Displacement: 44500
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 690000
+
+Name: Massachusetts
+	Size: 228L x 42W x 15H
+	Support Slot: 7
+	Require Level: 40
+	DP: 30000
+	Displacement: 46218
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 690000
+
+Name: Iowa
+	Size: 311L x 39W x 10H
+	Support Slot: 6
+	Require Level: 40
+	DP: 32000
+	Displacement: 57540
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 850000
+
+Name: Montana
+	Size: 320L x 46W x 30H
+	Support Slot: 5
+	Require Level: 40
+	DP: 34000
+	Displacement: 73500
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 960000
+
+Name: Randall
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: Revenge
+	Size: 217L x 35W x 11H
+	Support Slot: 5
+	Require Level: 40
+	DP: 22000
+	Displacement: 33000
+	Turning: 18
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 320000
+
+Name: Queen Elizabeth
+	Size: 222L x 40W x 12H
+	Support Slot: 6
+	Require Level: 40
+	DP: 24000
+	Displacement: 36300
+	Turning: 18
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 470000
+
+Name: Hood
+	Size: 308L x 40W x 13H
+	Support Slot: 7
+	Require Level: 40
+	DP: 26000
+	Displacement: 48360
+	Turning: 22
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 570000
+
+Name: King George V
+	Size: 244L x 42W x 15H
+	Support Slot: 8
+	Require Level: 40
+	DP: 28000
+	Displacement: 45360
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 680000
+
+Name: Rodney
+	Size: 235L x 40W x 13H
+	Support Slot: 7
+	Require Level: 40
+	DP: 30000
+	Displacement: 38000
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 680000
+
+Name: Vanguard
+	Size: 264L x 42W x 13H
+	Support Slot: 6
+	Require Level: 40
+	DP: 32000
+	Displacement: 51420
+	Turning: 21
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 820000
+
+Name: Lion II
+	Size: 275L x 44W x 13H
+	Support Slot: 5
+	Require Level: 40
+	DP: 34000
+	Displacement: 55000
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 980000
+
+Name: Pitt
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: Kongo
+	Size: 240L x 38W x 12H
+	Support Slot: 5
+	Require Level: 40
+	DP: 22000
+	Displacement: 36800
+	Turning: 21
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 310000
+
+Name: Ise (1937)
+	Size: 232L x 43W x 15H
+	Support Slot: 6
+	Require Level: 40
+	DP: 24000
+	Displacement: 40169
+	Turning: 18
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 450000
+
+Name: Fuso
+	Size: 236L x 37W x 11H
+	Support Slot: 7
+	Require Level: 40
+	DP: 26000
+	Displacement: 39154
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 610000
+
+Name: Nagato
+	Size: 241L x 44W x 13H
+	Support Slot: 8
+	Require Level: 40
+	DP: 28000
+	Displacement: 43580
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 720000
+
+Name: Mutsu
+	Size: 241L x 44W x 13H
+	Support Slot: 7
+	Require Level: 40
+	DP: 30000
+	Displacement: 43580
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 720000
+
+Name: Yamato
+	Size: 300L x 49W x 14H
+	Support Slot: 6
+	Require Level: 40
+	DP: 32000
+	Displacement: 72800
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 860000
+
+Name: Super Yamato
+	Size: 300L x 49W x 14H
+	Support Slot: 5
+	Require Level: 40
+	DP: 34000
+	Displacement: 82500
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 940000
+
+Name: Shinshumaru
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: Scharnhorst
+	Size: 252L x 40W x 14H
+	Support Slot: 5
+	Require Level: 40
+	DP: 22000
+	Displacement: 38700
+	Turning: 19
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 330000
+
+Name: Gneisenau
+	Size: 261L x 40W x 14H
+	Support Slot: 6
+	Require Level: 40
+	DP: 24000
+	Displacement: 43000
+	Turning: 19
+	OverHeat Ratio: 3
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 480000
+
+Name: O Project II
+	Size: 276L x 34W x 13H
+	Support Slot: 7
+	Require Level: 40
+	DP: 26000
+	Displacement: 51800
+	Turning: 20
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 550000
+
+Name: Bismarck
+	Size: 267L x 44W x 12H
+	Support Slot: 8
+	Require Level: 40
+	DP: 28000
+	Displacement: 51000
+	Turning: 19
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 730000
+
+Name: Tirpitz
+	Size: 267L x 44W x 12H
+	Support Slot: 7
+	Require Level: 40
+	DP: 30000
+	Displacement: 51000
+	Turning: 19
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 730000
+
+Name: H39 Class
+	Size: 318L x 44W x 17H
+	Support Slot: 6
+	Require Level: 40
+	DP: 32000
+	Displacement: 69000
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 840000
+
+Name: H44 Class
+	Size: 320L x 48W x 14H
+	Support Slot: 5
+	Require Level: 40
+	DP: 34000
+	Displacement: 118000
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 950000
+
+Name: Atlantis
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: Omaha Minelayer
+	Size: 195L x 32W x 18H
+	Support Slot: 5
+	Require Level: 32
+	DP: 8900
+	Displacement: 10540
+	Turning: 27
+	OverHeat Ratio: 18
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 100000
+
+Name: Emerald Minelayer
+	Size: 184L x 27W x 25H
+	Support Slot: 6
+	Require Level: 31
+	DP: 8900
+	Displacement: 9450
+	Turning: 27
+	OverHeat Ratio: 15
+	Launchable Aircraft: 1
+	Aircraft Space: 80
+	ValueDefault: 100000
+
+Name: Yubari Minelayer
+	Size: 176L x 23W x 30H
+	Support Slot: 5
+	Require Level: 32
+	DP: 8000
+	Displacement: 7069
+	Turning: 27
+	OverHeat Ratio: 8
+	Launchable Aircraft: 1
+	Aircraft Space: 80
+	ValueDefault: 100000
+
+Name: Emden Minelayer
+	Size: 178L x 27W x 22H
+	Support Slot: 5
+	Require Level: 33
+	DP: 8800
+	Displacement: 7610
+	Turning: 27
+	OverHeat Ratio: 15
+	Launchable Aircraft: 1
+	Aircraft Space: 80
+	ValueDefault: 100000
+
+Name: USN_Sevastopol
+	Size: 219L x 36W x 12H
+	Support Slot: 7
+	Require Level: 61
+	DP: 20100
+	Displacement: 29000
+	Turning: 21
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: RN_Dunkerque
+	Size: 242L x 44W x 13H
+	Support Slot: 8
+	Require Level: 61
+	DP: 20800
+	Displacement: 30000
+	Turning: 21
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: B65 Project
+	Size: 276L x 47W x 11H
+	Support Slot: 7
+	Require Level: 63
+	DP: 21100
+	Displacement: 34950
+	Turning: 21
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: KM_Andrea Doria
+	Size: 214L x 36W x 11H
+	Support Slot: 7
+	Require Level: 65
+	DP: 20000
+	Displacement: 28229
+	Turning: 21
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Turtle Ship 
+	Size: 125L x 34W x 34H
+	Support Slot: 0
+	Require Level: 1
+	DP: 8000
+	Displacement: 2350
+	Turning: 35
+	OverHeat Ratio: 93
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: New York
+	Size: 201L x 36W x 22H
+	Support Slot: 6
+	Require Level: 57
+	DP: 17700
+	Displacement: 32000
+	Turning: 24
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 0
+
+Name: Dreadnought
+	Size: 184L x 30W x 22H
+	Support Slot: 6
+	Require Level: 57
+	DP: 18000
+	Displacement: 21850
+	Turning: 22
+	OverHeat Ratio: 43
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 0
+
+Name: Mikasa
+	Size: 158L x 34W x 10H
+	Support Slot: 6
+	Require Level: 59
+	DP: 19500
+	Displacement: 20000
+	Turning: 18
+	OverHeat Ratio: 43
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 0
+
+Name: Nassau
+	Size: 165L x 38W x 11H
+	Support Slot: 6
+	Require Level: 59
+	DP: 19000
+	Displacement: 21360
+	Turning: 22
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 0
+
+Name: Nebraska
+	Size: 321L x 43W x 14H
+	Support Slot: 9
+	Require Level: 120
+	DP: 40400
+	Displacement: 130000
+	Turning: 18
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 50000000
+
+Name: Queen Victoria
+	Size: 310L x 41W x 13H
+	Support Slot: 9
+	Require Level: 120
+	DP: 40800
+	Displacement: 120000
+	Turning: 19
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 50000000
+
+Name: Amagi
+	Size: 319L x 44W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 38800
+	Displacement: 160000
+	Turning: 20
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 385
+	ValueDefault: 50000000
+
+Name: Kaiser
+	Size: 321L x 42W x 17H
+	Support Slot: 9
+	Require Level: 120
+	DP: 39200
+	Displacement: 155000
+	Turning: 18
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 290
+	ValueDefault: 50000000
+
+Name: Midway
+	Size: 326L x 47W x 20H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 55000
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: Midway
+	Size: 326L x 47W x 20H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 55000
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: De Grasse
+	Size: 337L x 42W x 22H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 56000
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: De Grasse
+	Size: 337L x 42W x 22H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 56000
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: Super Yamato.M
+	Size: 300L x 49W x 14H
+	Support Slot: 4
+	Require Level: 1
+	DP: 34000
+	Displacement: 82500
+	Turning: 19
+	OverHeat Ratio: 22
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 10
+
+Name: O Type
+	Size: 115L x 22W x 8H
+	Support Slot: 2
+	Require Level: 38
+	DP: 9540
+	Displacement: 629
+	Turning: 23
+	OverHeat Ratio: 53
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 462000
+
+Name: H Type
+	Size: 113L x 23W x 6H
+	Support Slot: 3
+	Require Level: 37
+	DP: 9050
+	Displacement: 510
+	Turning: 25
+	OverHeat Ratio: 60
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 420000
+
+Name: Vickers L3
+	Size: 120L x 24W x 6H
+	Support Slot: 3
+	Require Level: 38
+	DP: 8950
+	Displacement: 1322
+	Turning: 20
+	OverHeat Ratio: 28
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 336000
+
+Name: Type - II
+	Size: 97L x 18W x 4H
+	Support Slot: 2
+	Require Level: 37
+	DP: 9140
+	Displacement: 364
+	Turning: 27
+	OverHeat Ratio: 35
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 270000
+
+Name: S Type
+	Size: 137L x 22W x 7H
+	Support Slot: 3
+	Require Level: 48
+	DP: 13500
+	Displacement: 1062
+	Turning: 24
+	OverHeat Ratio: 56
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 726000
+
+Name: Oberon
+	Size: 131L x 24W x 6H
+	Support Slot: 3
+	Require Level: 47
+	DP: 13000
+	Displacement: 1831
+	Turning: 22
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 746000
+
+Name: Junsen Type - I
+	Size: 152L x 22W x 9H
+	Support Slot: 3
+	Require Level: 49
+	DP: 12850
+	Displacement: 2790
+	Turning: 19
+	OverHeat Ratio: 43
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 790000
+
+Name: Type - VIIA
+	Size: 131L x 20W x 6H
+	Support Slot: 3
+	Require Level: 46
+	DP: 13100
+	Displacement: 745
+	Turning: 25
+	OverHeat Ratio: 46
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 650000
+
+Name: Barracuda
+	Size: 151L x 22W x 11H
+	Support Slot: 3
+	Require Level: 61
+	DP: 16100
+	Displacement: 2506
+	Turning: 21
+	OverHeat Ratio: 59
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1163000
+
+Name: P Type
+	Size: 135L x 24W x 5H
+	Support Slot: 3
+	Require Level: 60
+	DP: 15550
+	Displacement: 2040
+	Turning: 23
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1260000
+
+Name: Kaidai - VIA
+	Size: 161L x 23W x 8H
+	Support Slot: 4
+	Require Level: 62
+	DP: 15200
+	Displacement: 2440
+	Turning: 20
+	OverHeat Ratio: 45
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1420000
+
+Name: Type - VIIC
+	Size: 135L x 20W x 7H
+	Support Slot: 3
+	Require Level: 59
+	DP: 15780
+	Displacement: 871
+	Turning: 24
+	OverHeat Ratio: 49
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1200000
+
+Name: Ticonderoga
+	Size: 310L x 44W x 20H
+	Support Slot: 9
+	Require Level: 104
+	DP: 28000
+	Displacement: 43400
+	Turning: 25
+	OverHeat Ratio: 40
+	Launchable Aircraft: 11
+	Aircraft Space: 11800
+	ValueDefault: 0
+
+Name: Implacable
+	Size: 267L x 47W x 16H
+	Support Slot: 9
+	Require Level: 105
+	DP: 27000
+	Displacement: 57900
+	Turning: 24
+	OverHeat Ratio: 40
+	Launchable Aircraft: 11
+	Aircraft Space: 11650
+	ValueDefault: 0
+
+Name: Zuikaku
+	Size: 293L x 38W x 17H
+	Support Slot: 9
+	Require Level: 106
+	DP: 29000
+	Displacement: 44000
+	Turning: 25
+	OverHeat Ratio: 40
+	Launchable Aircraft: 11
+	Aircraft Space: 12000
+	ValueDefault: 0
+
+Name: Hindenburg
+	Size: 289L x 40W x 20H
+	Support Slot: 9
+	Require Level: 103
+	DP: 26000
+	Displacement: 56500
+	Turning: 27
+	OverHeat Ratio: 40
+	Launchable Aircraft: 11
+	Aircraft Space: 11500
+	ValueDefault: 0
+
+Name: Jaguar
+	Size: 133L x 22W x 10H
+	Support Slot: 2
+	Require Level: 12
+	DP: 6700
+	Displacement: 2700
+	Turning: 28
+	OverHeat Ratio: 64
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 37000
+
+Name: L'Adroit
+	Size: 113L x 20W x 14H
+	Support Slot: 2
+	Require Level: 19
+	DP: 7400
+	Displacement: 2150
+	Turning: 30
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 53000
+
+Name: Le Fantasque
+	Size: 140L x 26W x 12H
+	Support Slot: 2
+	Require Level: 17
+	DP: 7200
+	Displacement: 3380
+	Turning: 28
+	OverHeat Ratio: 71
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 41000
+
+Name: Mogador
+	Size: 145L x 24W x 12H
+	Support Slot: 2
+	Require Level: 24
+	DP: 8300
+	Displacement: 4018
+	Turning: 31
+	OverHeat Ratio: 69
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 60000
+
+Name: Pluton
+	Size: 152L x 24W x 11H
+	Support Slot: 3
+	Require Level: 27
+	DP: 8400
+	Displacement: 8800
+	Turning: 25
+	OverHeat Ratio: 52
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 145000
+
+Name: Duguay Trouin
+	Size: 191L x 26W x 16H
+	Support Slot: 3
+	Require Level: 31
+	DP: 8500
+	Displacement: 10100
+	Turning: 24
+	OverHeat Ratio: 54
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 178000
+
+Name: Jeanne D' Arc
+	Size: 179L x 26W x 13H
+	Support Slot: 3
+	Require Level: 33
+	DP: 8600
+	Displacement: 9200
+	Turning: 24
+	OverHeat Ratio: 62
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 211000
+
+Name: Emile Bertin
+	Size: 186L x 32W x 17H
+	Support Slot: 3
+	Require Level: 35
+	DP: 9200
+	Displacement: 8480
+	Turning: 25
+	OverHeat Ratio: 52
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 309000
+
+Name: La Galissonniere
+	Size: 188L x 28W x 11H
+	Support Slot: 4
+	Require Level: 42
+	DP: 9900
+	Displacement: 10850
+	Turning: 24
+	OverHeat Ratio: 52
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 407000
+
+Name: Suffren
+	Size: 206L x 31W x 14H
+	Support Slot: 4
+	Require Level: 40
+	DP: 12650
+	Displacement: 14400
+	Turning: 23
+	OverHeat Ratio: 48
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 420000
+
+Name: Algerie
+	Size: 194L x 34W x 11H
+	Support Slot: 5
+	Require Level: 47
+	DP: 14150
+	Displacement: 13900
+	Turning: 21
+	OverHeat Ratio: 52
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 680000
+
+Name: Tourville
+	Size: 202L x 28W x 13H
+	Support Slot: 4
+	Require Level: 49
+	DP: 11900
+	Displacement: 13400
+	Turning: 23
+	OverHeat Ratio: 48
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 633000
+
+Name: Bretagne
+	Size: 175L x 39W x 11H
+	Support Slot: 5
+	Require Level: 56
+	DP: 15500
+	Displacement: 35000
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 1006250
+
+Name: Courbet
+	Size: 175L x 40W x 14H
+	Support Slot: 5
+	Require Level: 54
+	DP: 17550
+	Displacement: 36000
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 1439450
+
+Name: Normandie
+	Size: 179L x 28W x 10H
+	Support Slot: 6
+	Require Level: 65
+	DP: 17925
+	Displacement: 40000
+	Turning: 17
+	OverHeat Ratio: 45
+	Launchable Aircraft: 2
+	Aircraft Space: 175
+	ValueDefault: 1124375
+
+Name: Lyon
+	Size: 203L x 32W x 10H
+	Support Slot: 6
+	Require Level: 63
+	DP: 18850
+	Displacement: 40000
+	Turning: 17
+	OverHeat Ratio: 45
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1483125
+
+Name: Lorraine
+	Size: 175L x 34W x 11H
+	Support Slot: 6
+	Require Level: 71
+	DP: 17950
+	Displacement: 40000
+	Turning: 18
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 175
+	ValueDefault: 1610600
+
+Name: Paris
+	Size: 202L x 38W x 12H
+	Support Slot: 6
+	Require Level: 69
+	DP: 21050
+	Displacement: 42000
+	Turning: 18
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 175
+	ValueDefault: 1877625
+
+Name: StrasBourg
+	Size: 228L x 34W x 11H
+	Support Slot: 7
+	Require Level: 79
+	DP: 20500
+	Displacement: 48400
+	Turning: 19
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 2301875
+
+Name: Richelieu
+	Size: 261L x 44W x 15H
+	Support Slot: 7
+	Require Level: 89
+	DP: 25863
+	Displacement: 58548
+	Turning: 19
+	OverHeat Ratio: 29
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 2615500
+
+Name: Alsace
+	Size: 265L x 44W x 16H
+	Support Slot: 8
+	Require Level: 103
+	DP: 31500
+	Displacement: 70000
+	Turning: 19
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 4200000
+
+Name: Dixmude
+	Size: 151L x 31W x 15H
+	Support Slot: 5
+	Require Level: 50
+	DP: 11125
+	Displacement: 14500
+	Turning: 27
+	OverHeat Ratio: 8
+	Launchable Aircraft: 6
+	Aircraft Space: 1980
+	ValueDefault: 1764000
+
+Name: Bearn
+	Size: 194L x 39W x 17H
+	Support Slot: 6
+	Require Level: 62
+	DP: 16000
+	Displacement: 28400
+	Turning: 33
+	OverHeat Ratio: 32
+	Launchable Aircraft: 7
+	Aircraft Space: 4340
+	ValueDefault: 3118925
+
+Name: Joffre
+	Size: 249L x 37W x 15H
+	Support Slot: 7
+	Require Level: 79
+	DP: 20481
+	Displacement: 30506
+	Turning: 25
+	OverHeat Ratio: 28
+	Launchable Aircraft: 9
+	Aircraft Space: 7800
+	ValueDefault: 4797625
+
+Name: Arromanches
+	Size: 223L x 46W x 15H
+	Support Slot: 8
+	Require Level: 97
+	DP: 23825
+	Displacement: 24990
+	Turning: 23
+	OverHeat Ratio: 36
+	Launchable Aircraft: 10
+	Aircraft Space: 9900
+	ValueDefault: 6788125
+
+Name: Belfort
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: Sirene
+	Size: 116L x 14W x 6H
+	Support Slot: 2
+	Require Level: 38
+	DP: 9170
+	Displacement: 757
+	Turning: 24
+	OverHeat Ratio: 49
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 372000
+
+Name: Requin
+	Size: 141L x 22W x 5H
+	Support Slot: 3
+	Require Level: 48
+	DP: 13113
+	Displacement: 1441
+	Turning: 21
+	OverHeat Ratio: 49
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 728000
+
+Name: Redoutable
+	Size: 166L x 17W x 9H
+	Support Slot: 4
+	Require Level: 61
+	DP: 15658
+	Displacement: 2098
+	Turning: 20
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1260750
+
+Name: Cachalot
+	Size: 139L x 19W x 10H
+	Support Slot: 4
+	Require Level: 76
+	DP: 19300
+	Displacement: 1650
+	Turning: 20
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1630000
+
+Name: R Type
+	Size: 149L x 22W x 7H
+	Support Slot: 4
+	Require Level: 75
+	DP: 18700
+	Displacement: 2030
+	Turning: 22
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1765000
+
+Name: HEI Type I
+	Size: 158L x 22W x 9H
+	Support Slot: 5
+	Require Level: 77
+	DP: 18300
+	Displacement: 3561
+	Turning: 20
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1990000
+
+Name: MN_Dunkerque
+	Size: 242L x 44W x 13H
+	Support Slot: 8
+	Require Level: 61
+	DP: 20800
+	Displacement: 30000
+	Turning: 21
+	OverHeat Ratio: 43
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Type U - Flak I
+	Size: 135L x 21W x 6H
+	Support Slot: 3
+	Require Level: 74
+	DP: 18900
+	Displacement: 1181
+	Turning: 23
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1680000
+
+Name: Argonaute
+	Size: 119L x 18W x 5H
+	Support Slot: 4
+	Require Level: 76
+	DP: 18800
+	Displacement: 1057
+	Turning: 23
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1765000
+
+Name: Mississippi
+	Size: 215L x 38W x 13H
+	Support Slot: 6
+	Require Level: 67
+	DP: 19780
+	Displacement: 44199
+	Turning: 17
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 0
+
+Name: Resolution
+	Size: 217L x 35W x 11H
+	Support Slot: 7
+	Require Level: 64
+	DP: 18630
+	Displacement: 36300
+	Turning: 17
+	OverHeat Ratio: 38
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 0
+
+Name: Haruna
+	Size: 240L x 38W x 12H
+	Support Slot: 6
+	Require Level: 66
+	DP: 19320
+	Displacement: 40323
+	Turning: 20
+	OverHeat Ratio: 59
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 0
+
+Name: Gneisenau (1943)
+	Size: 261L x 40W x 14H
+	Support Slot: 7
+	Require Level: 73
+	DP: 23000
+	Displacement: 47300
+	Turning: 18
+	OverHeat Ratio: 49
+	Launchable Aircraft: 2
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Le Havre
+	Size: 203L x 32W x 10H
+	Support Slot: 7
+	Require Level: 74
+	DP: 23125
+	Displacement: 45000
+	Turning: 17
+	OverHeat Ratio: 45
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Reynaud
+	Size: 178L x 27W x 22H
+	Support Slot: 4
+	Require Level: 25
+	DP: 8000
+	Displacement: 7102
+	Turning: 27
+	OverHeat Ratio: 52
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 120000
+
+Name: Gamelin
+	Size: 103L x 22W x 7H
+	Support Slot: 5
+	Require Level: 38
+	DP: 8500
+	Displacement: 9268
+	Turning: 27
+	OverHeat Ratio: 52
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Mandel
+	Size: 215L x 30W x 13H
+	Support Slot: 5
+	Require Level: 53
+	DP: 15200
+	Displacement: 24250
+	Turning: 25
+	OverHeat Ratio: 48
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 0
+
+Name: Daladier
+	Size: 289L x 40W x 20H
+	Support Slot: 9
+	Require Level: 103
+	DP: 25800
+	Displacement: 46883
+	Turning: 26
+	OverHeat Ratio: 36
+	Launchable Aircraft: 11
+	Aircraft Space: 12020
+	ValueDefault: 0
+
+Name: Charlemagne
+	Size: 310L x 48W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 38400
+	Displacement: 141000
+	Turning: 19
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 385
+	ValueDefault: 50000000
+
+Name: Liberte
+	Size: 311L x 51W x 24H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 55500
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: Maryland
+	Size: 216L x 42W x 12H
+	Support Slot: 7
+	Require Level: 77
+	DP: 21505
+	Displacement: 44880
+	Turning: 18
+	OverHeat Ratio: 36
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Valiant
+	Size: 222L x 40W x 12H
+	Support Slot: 7
+	Require Level: 78
+	DP: 21650
+	Displacement: 39930
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Hyuga
+	Size: 232L x 43W x 15H
+	Support Slot: 7
+	Require Level: 84
+	DP: 24500
+	Displacement: 60500
+	Turning: 17
+	OverHeat Ratio: 54
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: O Project II (1942)
+	Size: 290L x 40W x 13H
+	Support Slot: 8
+	Require Level: 87
+	DP: 25800
+	Displacement: 63300
+	Turning: 19
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Storozevoj
+	Size: 120L x 20W x 11H
+	Support Slot: 2
+	Require Level: 12
+	DP: 6600
+	Displacement: 2400
+	Turning: 29
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 37000
+
+Name: Gnevnyj
+	Size: 119L x 18W x 8H
+	Support Slot: 2
+	Require Level: 18
+	DP: 7300
+	Displacement: 2775
+	Turning: 29
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 45100
+
+Name: Leningrad
+	Size: 134L x 20W x 10H
+	Support Slot: 2
+	Require Level: 24
+	DP: 7800
+	Displacement: 2693
+	Turning: 30
+	OverHeat Ratio: 65
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 60000
+
+Name: Tashkent
+	Size: 148L x 22W x 11H
+	Support Slot: 2
+	Require Level: 26
+	DP: 8100
+	Displacement: 3422
+	Turning: 29
+	OverHeat Ratio: 65
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 66000
+
+Name: Bogatyr
+	Size: 142L x 24W x 10H
+	Support Slot: 3
+	Require Level: 32
+	DP: 8500
+	Displacement: 6650
+	Turning: 27
+	OverHeat Ratio: 60
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 159500
+
+Name: Svetlana
+	Size: 167L x 28W x 12H
+	Support Slot: 3
+	Require Level: 34
+	DP: 8800
+	Displacement: 8000
+	Turning: 26
+	OverHeat Ratio: 60
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 195800
+
+Name: Pallada
+	Size: 129L x 24W x 11H
+	Support Slot: 3
+	Require Level: 38
+	DP: 9400
+	Displacement: 10000
+	Turning: 27
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 284700
+
+Name: Krasny Kavkaz
+	Size: 180L x 24W x 11H
+	Support Slot: 4
+	Require Level: 42
+	DP: 11200
+	Displacement: 11000
+	Turning: 20
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 500000
+
+Name: Rurik
+	Size: 134L x 24W x 10H
+	Support Slot: 4
+	Require Level: 44
+	DP: 12300
+	Displacement: 18000
+	Turning: 23
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 550000
+
+Name: Kirov
+	Size: 201L x 26W x 11H
+	Support Slot: 4
+	Require Level: 48
+	DP: 13280
+	Displacement: 12000
+	Turning: 19
+	OverHeat Ratio: 45
+	Launchable Aircraft: 1
+	Aircraft Space: 170
+	ValueDefault: 650000
+
+Name: Maxim Gorki
+	Size: 202L x 24W x 11H
+	Support Slot: 5
+	Require Level: 54
+	DP: 14300
+	Displacement: 12500
+	Turning: 18
+	OverHeat Ratio: 45
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 900000
+
+Name: Andrei Pervozvanny
+	Size: 152L x 34W x 12H
+	Support Slot: 5
+	Require Level: 58
+	DP: 16900
+	Displacement: 38333
+	Turning: 20
+	OverHeat Ratio: 45
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 972500
+
+Name: Gangut
+	Size: 193L x 38W x 11H
+	Support Slot: 6
+	Require Level: 65
+	DP: 19500
+	Displacement: 40000
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1597200
+
+Name: Izmail
+	Size: 237L x 40W x 16H
+	Support Slot: 6
+	Require Level: 66
+	DP: 18500
+	Displacement: 41600
+	Turning: 18
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1872400
+
+Name: Imperatritsa Mariya
+	Size: 180L x 32W x 8H
+	Support Slot: 6
+	Require Level: 78
+	DP: 22400
+	Displacement: 50000
+	Turning: 16
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 2047300
+
+Name: Kronshtadt
+	Size: 263L x 38W x 10H
+	Support Slot: 6
+	Require Level: 79
+	DP: 21600
+	Displacement: 45000
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 2237500
+
+Name: Stalingrad
+	Size: 291L x 38W x 17H
+	Support Slot: 7
+	Require Level: 89
+	DP: 25400
+	Displacement: 63330
+	Turning: 18
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 195
+	ValueDefault: 2532000
+
+Name: Sovietsky Soyuz
+	Size: 285L x 44W x 18H
+	Support Slot: 8
+	Require Level: 103
+	DP: 32000
+	Displacement: 75000
+	Turning: 18
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 4375000
+
+Name: Project 24
+	Size: 297L x 46W x 20H
+	Support Slot: 9
+	Require Level: 120
+	DP: 40000
+	Displacement: 90000
+	Turning: 17
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 290
+	ValueDefault: 50000000
+
+Name: Komsomolets
+	Size: 189L x 40W x 20H
+	Support Slot: 6
+	Require Level: 55
+	DP: 12900
+	Displacement: 22000
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 7
+	Aircraft Space: 3700
+	ValueDefault: 1852200
+
+Name: Project 71
+	Size: 205L x 36W x 16H
+	Support Slot: 6
+	Require Level: 67
+	DP: 16900
+	Displacement: 32500
+	Turning: 29
+	OverHeat Ratio: 30
+	Launchable Aircraft: 8
+	Aircraft Space: 5440
+	ValueDefault: 3274800
+
+Name: Project 72
+	Size: 239L x 47W x 18H
+	Support Slot: 7
+	Require Level: 84
+	DP: 21130
+	Displacement: 39708
+	Turning: 28
+	OverHeat Ratio: 30
+	Launchable Aircraft: 9
+	Aircraft Space: 7800
+	ValueDefault: 5037500
+
+Name: Kosrtomitinova
+	Size: 276L x 52W x 20H
+	Support Slot: 8
+	Require Level: 97
+	DP: 24100
+	Displacement: 49707
+	Turning: 25
+	OverHeat Ratio: 30
+	Launchable Aircraft: 10
+	Aircraft Space: 9700
+	ValueDefault: 7127500
+
+Name: Tsar
+	Size: 300L x 50W x 18H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 55000
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: Type "LCT"
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: Shch
+	Size: 119L x 25W x 7H
+	Support Slot: 2
+	Require Level: 39
+	DP: 9200
+	Displacement: 704
+	Turning: 23
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 473000
+
+Name: L
+	Size: 142L x 20W x 9H
+	Support Slot: 3
+	Require Level: 49
+	DP: 13200
+	Displacement: 1335
+	Turning: 21
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 784000
+
+Name: P
+	Size: 171L x 20W x 10H
+	Support Slot: 3
+	Require Level: 62
+	DP: 15300
+	Displacement: 1870
+	Turning: 20
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1325000
+
+Name: S
+	Size: 147L x 18W x 6H
+	Support Slot: 4
+	Require Level: 77
+	DP: 18500
+	Displacement: 1100
+	Turning: 21
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1830000
+
+Name: D
+	Size: 119L x 16W x 7H
+	Support Slot: 5
+	Require Level: 98
+	DP: 22000
+	Displacement: 1500
+	Turning: 21
+	OverHeat Ratio: 52
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2745000
+
+Name: K
+	Size: 143L x 17W x 15H
+	Support Slot: 5
+	Require Level: 105
+	DP: 26400
+	Displacement: 2095
+	Turning: 18
+	OverHeat Ratio: 52
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4117500
+
+Name: Chapayev
+	Size: 211L x 27W x 11H
+	Support Slot: 4
+	Require Level: 29
+	DP: 8000
+	Displacement: 14100
+	Turning: 27
+	OverHeat Ratio: 55
+	Launchable Aircraft: 1
+	Aircraft Space: 130
+	ValueDefault: 130000
+
+Name: -
+	Size: 0L x 0W x 0H
+	Support Slot: 0
+	Require Level: 0
+	DP: 0
+	Displacement: 0
+	Turning: 27
+	OverHeat Ratio: 0
+	Launchable Aircraft: 0
+	Aircraft Space: 120
+	ValueDefault: 300000
+
+Name: Petropavlovsk
+	Size: 212L x 32W x 13H
+	Support Slot: 5
+	Require Level: 53
+	DP: 15000
+	Displacement: 22500
+	Turning: 25
+	OverHeat Ratio: 45
+	Launchable Aircraft: 1
+	Aircraft Space: 140
+	ValueDefault: 0
+
+Name: Project 69AV
+	Size: 255L x 54W x 23H
+	Support Slot: 9
+	Require Level: 104
+	DP: 27000
+	Displacement: 46883
+	Turning: 27
+	OverHeat Ratio: 40
+	Launchable Aircraft: 11
+	Aircraft Space: 11700
+	ValueDefault: 0
+
+Name: SN_Sevastopol
+	Size: 219L x 36W x 12H
+	Support Slot: 7
+	Require Level: 61
+	DP: 20100
+	Displacement: 29000
+	Turning: 20
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Borodino
+	Size: 129L x 28W x 23H
+	Support Slot: 6
+	Require Level: 58
+	DP: 19000
+	Displacement: 23624
+	Turning: 19
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 0
+
+Name: Danton
+	Size: 168L x 35W x 13H
+	Support Slot: 6
+	Require Level: 59
+	DP: 18500
+	Displacement: 21250
+	Turning: 22
+	OverHeat Ratio: 42
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 0
+
+Name: Baram[GM]
+	Size: 303L x 30W x 13H
+	Support Slot: 10
+	Require Level: 120
+	DP: 1800000
+	Displacement: 550000
+	Turning: 45
+	OverHeat Ratio: 99
+	Launchable Aircraft: 16
+	Aircraft Space: 25600
+	ValueDefault: 10000000
+
+Name: Gato
+	Size: 142L x 20W x 8H
+	Support Slot: 5
+	Require Level: 97
+	DP: 23100
+	Displacement: 2410
+	Turning: 19
+	OverHeat Ratio: 52
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2524000
+
+Name: M Type
+	Size: 140L x 16W x 4H
+	Support Slot: 6
+	Require Level: 96
+	DP: 22300
+	Displacement: 1977
+	Turning: 20
+	OverHeat Ratio: 51
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 2824000
+
+Name: Kai-Kou Type
+	Size: 172L x 25W x 11H
+	Support Slot: 7
+	Require Level: 98
+	DP: 21800
+	Displacement: 4762
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 3
+	Aircraft Space: 800
+	ValueDefault: 3184000
+
+Name: Type - IX D2
+	Size: 133L x 14W x 7H
+	Support Slot: 5
+	Require Level: 95
+	DP: 22600
+	Displacement: 1950
+	Turning: 21
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2856000
+
+Name: Surcouf
+	Size: 158L x 20W x 6H
+	Support Slot: 5
+	Require Level: 97
+	DP: 22400
+	Displacement: 4390
+	Turning: 18
+	OverHeat Ratio: 51
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 2647500
+
+Name: Leone
+	Size: 119L x 18W x 9H
+	Support Slot: 2
+	Require Level: 12
+	DP: 6600
+	Displacement: 2690
+	Turning: 30
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 37000
+
+Name: Turbine
+	Size: 99L x 18W x 10H
+	Support Slot: 2
+	Require Level: 17
+	DP: 6900
+	Displacement: 2350
+	Turning: 22
+	OverHeat Ratio: 67
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 48100
+
+Name: Navigatori
+	Size: 112L x 20W x 11H
+	Support Slot: 2
+	Require Level: 18
+	DP: 7300
+	Displacement: 2650
+	Turning: 25
+	OverHeat Ratio: 67
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 62550
+
+Name: Oriani
+	Size: 112L x 20W x 11H
+	Support Slot: 2
+	Require Level: 24
+	DP: 7700
+	Displacement: 2742
+	Turning: 25
+	OverHeat Ratio: 64
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 81300
+
+Name: Soldati I
+	Size: 114L x 20W x 11H
+	Support Slot: 3
+	Require Level: 28
+	DP: 8100
+	Displacement: 2937
+	Turning: 26
+	OverHeat Ratio: 61
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 105700
+
+Name: Soldati II
+	Size: 113L x 18W x 10H
+	Support Slot: 3
+	Require Level: 31
+	DP: 8500
+	Displacement: 3240
+	Turning: 25
+	OverHeat Ratio: 61
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 137500
+
+Name: Di Giussano
+	Size: 178L x 26W x 12H
+	Support Slot: 3
+	Require Level: 32
+	DP: 10200
+	Displacement: 6954
+	Turning: 21
+	OverHeat Ratio: 58
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 207000
+
+Name: Montecuccoli
+	Size: 205L x 28W x 11H
+	Support Slot: 3
+	Require Level: 34
+	DP: 10800
+	Displacement: 8994
+	Turning: 29
+	OverHeat Ratio: 55
+	Launchable Aircraft: 1
+	Aircraft Space: 95
+	ValueDefault: 269500
+
+Name: Duca d'Aosta
+	Size: 197L x 24W x 10H
+	Support Slot: 3
+	Require Level: 37
+	DP: 11400
+	Displacement: 10539
+	Turning: 26
+	OverHeat Ratio: 55
+	Launchable Aircraft: 1
+	Aircraft Space: 95
+	ValueDefault: 350000
+
+Name: Capitani Romani
+	Size: 151L x 25W x 12H
+	Support Slot: 4
+	Require Level: 40
+	DP: 12400
+	Displacement: 11745
+	Turning: 25
+	OverHeat Ratio: 52
+	Launchable Aircraft: 1
+	Aircraft Space: 95
+	ValueDefault: 455500
+
+Name: Trento
+	Size: 208L x 34W x 13H
+	Support Slot: 4
+	Require Level: 48
+	DP: 14300
+	Displacement: 14600
+	Turning: 23
+	OverHeat Ratio: 49
+	Launchable Aircraft: 1
+	Aircraft Space: 95
+	ValueDefault: 683500
+
+Name: Bolzano(1942)
+	Size: 208L x 36W x 11H
+	Support Slot: 5
+	Require Level: 53
+	DP: 15000
+	Displacement: 14600
+	Turning: 23
+	OverHeat Ratio: 46
+	Launchable Aircraft: 1
+	Aircraft Space: 95
+	ValueDefault: 888500
+
+Name: Regina Margherita
+	Size: 146L x 30W x 12H
+	Support Slot: 5
+	Require Level: 57
+	DP: 17000
+	Displacement: 32000
+	Turning: 19
+	OverHeat Ratio: 43
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1333000
+
+Name: Ammiraglio di Saint bon
+	Size: 128L x 33W x 9H
+	Support Slot: 5
+	Require Level: 59
+	DP: 17600
+	Displacement: 34000
+	Turning: 20
+	OverHeat Ratio: 43
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1467000
+
+Name: Dante Alighieri
+	Size: 177L x 32W x 14H
+	Support Slot: 6
+	Require Level: 68
+	DP: 18900
+	Displacement: 39000
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1614000
+
+Name: Regina Elena
+	Size: 157L x 36W x 17H
+	Support Slot: 6
+	Require Level: 69
+	DP: 20000
+	Displacement: 38000
+	Turning: 18
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1776000
+
+Name: Caio Duilio (1915)
+	Size: 179L x 54W x 13H
+	Support Slot: 6
+	Require Level: 76
+	DP: 20800
+	Displacement: 44000
+	Turning: 18
+	OverHeat Ratio: 37
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 1954000
+
+Name: Conte di Cavour (1915)
+	Size: 206L x 42W x 10H
+	Support Slot: 6
+	Require Level: 77
+	DP: 21300
+	Displacement: 43000
+	Turning: 18
+	OverHeat Ratio: 37
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 2150000
+
+Name: Caracciolo
+	Size: 224L x 45W x 14H
+	Support Slot: 7
+	Require Level: 82
+	DP: 22000
+	Displacement: 46000
+	Turning: 18
+	OverHeat Ratio: 34
+	Launchable Aircraft: 2
+	Aircraft Space: 180
+	ValueDefault: 2365000
+
+Name: Caio Duilio (1937)
+	Size: 260L x 42W x 14H
+	Support Slot: 7
+	Require Level: 89
+	DP: 25400
+	Displacement: 59000
+	Turning: 19
+	OverHeat Ratio: 31
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 2600000
+
+Name: Conte di Cavour (1940)
+	Size: 252L x 42W x 14H
+	Support Slot: 7
+	Require Level: 89
+	DP: 25800
+	Displacement: 58000
+	Turning: 19
+	OverHeat Ratio: 31
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 2860000
+
+Name: Vittorio Veneto
+	Size: 251L x 46W x 12H
+	Support Slot: 8
+	Require Level: 103
+	DP: 31500
+	Displacement: 72000
+	Turning: 21
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 4275000
+
+Name: Progetto UP41
+	Size: 326L x 44W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 39600
+	Displacement: 95000
+	Turning: 21
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 50000000
+
+Name: Bolzano(1943)
+	Size: 208L x 40W x 10H
+	Support Slot: 6
+	Require Level: 57
+	DP: 12700
+	Displacement: 13885
+	Turning: 26
+	OverHeat Ratio: 46
+	Launchable Aircraft: 7
+	Aircraft Space: 3500
+	ValueDefault: 1687000
+
+Name: Rota
+	Size: 191L x 36W x 19H
+	Support Slot: 6
+	Require Level: 69
+	DP: 16500
+	Displacement: 16000
+	Turning: 25
+	OverHeat Ratio: 27
+	Launchable Aircraft: 8
+	Aircraft Space: 5200
+	ValueDefault: 2780000
+
+Name: Sparviero
+	Size: 215L x 28W x 21H
+	Support Slot: 7
+	Require Level: 82
+	DP: 21400
+	Displacement: 23550
+	Turning: 24
+	OverHeat Ratio: 35
+	Launchable Aircraft: 9
+	Aircraft Space: 7500
+	ValueDefault: 4587000
+
+Name: Aquila
+	Size: 246L x 51W x 17H
+	Support Slot: 8
+	Require Level: 97
+	DP: 26800
+	Displacement: 27800
+	Turning: 23
+	OverHeat Ratio: 30
+	Launchable Aircraft: 10
+	Aircraft Space: 9500
+	ValueDefault: 7560000
+
+Name: Bonfiglietti
+	Size: 290L x 47W x 15H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 44500
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: San Giorgio
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: Bragadin
+	Size: 133L x 18W x 9H
+	Support Slot: 2
+	Require Level: 39
+	DP: 9150
+	Displacement: 1068
+	Turning: 22
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 390000
+
+Name: Perla
+	Size: 113L x 12W x 6H
+	Support Slot: 3
+	Require Level: 49
+	DP: 13100
+	Displacement: 962
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 740000
+
+Name: Argo
+	Size: 119L x 16W x 8H
+	Support Slot: 3
+	Require Level: 61
+	DP: 15000
+	Displacement: 1085
+	Turning: 18
+	OverHeat Ratio: 60
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1275000
+
+Name: Brin
+	Size: 136L x 14W x 5H
+	Support Slot: 4
+	Require Level: 77
+	DP: 18200
+	Displacement: 1266
+	Turning: 24
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1780000
+
+Name: Marcello
+	Size: 149L x 18W x 8H
+	Support Slot: 5
+	Require Level: 97
+	DP: 21900
+	Displacement: 1433
+	Turning: 24
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2796750
+
+Name: Re Umberto
+	Size: 132L x 32W x 6H
+	Support Slot: 6
+	Require Level: 57
+	DP: 18700
+	Displacement: 15454
+	Turning: 20
+	OverHeat Ratio: 45
+	Launchable Aircraft: 1
+	Aircraft Space: 120
+	ValueDefault: 0
+
+Name: Duca degli Abruzzi
+	Size: 198L x 30W x 12H
+	Support Slot: 4
+	Require Level: 25
+	DP: 8500
+	Displacement: 11735
+	Turning: 30
+	OverHeat Ratio: 55
+	Launchable Aircraft: 1
+	Aircraft Space: 95
+	ValueDefault: 0
+
+Name: Zara
+	Size: 204L x 36W x 12H
+	Support Slot: 5
+	Require Level: 53
+	DP: 14800
+	Displacement: 19500
+	Turning: 25
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 160
+	ValueDefault: 0
+
+Name: RM_Andrea Doria
+	Size: 214L x 36W x 11H
+	Support Slot: 7
+	Require Level: 65
+	DP: 20000
+	Displacement: 28229
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Progetto Gagnotto
+	Size: 247L x 38W x 13H
+	Support Slot: 9
+	Require Level: 103
+	DP: 27400
+	Displacement: 30200
+	Turning: 27
+	OverHeat Ratio: 35
+	Launchable Aircraft: 11
+	Aircraft Space: 11500
+	ValueDefault: 0
+
+Name: Indiana
+	Size: 228L x 42W x 15H
+	Support Slot: 7
+	Require Level: 83
+	DP: 23000
+	Displacement: 57700
+	Turning: 18
+	OverHeat Ratio: 34
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Missouri
+	Size: 311L x 39W x 10H
+	Support Slot: 7
+	Require Level: 99
+	DP: 32000
+	Displacement: 75000
+	Turning: 19
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: Enterprise
+	Size: 279L x 39W x 26H
+	Support Slot: 7
+	Require Level: 72
+	DP: 18220
+	Displacement: 24500
+	Turning: 28
+	OverHeat Ratio: 43
+	Launchable Aircraft: 8
+	Aircraft Space: 7030
+	ValueDefault: 0
+
+Name: Hood (1939)
+	Size: 308L x 40W x 13H
+	Support Slot: 8
+	Require Level: 86
+	DP: 25100
+	Displacement: 50850
+	Turning: 20
+	OverHeat Ratio: 34
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Victorious
+	Size: 242L x 36W x 19H
+	Support Slot: 7
+	Require Level: 77
+	DP: 21125
+	Displacement: 31000
+	Turning: 31
+	OverHeat Ratio: 31
+	Launchable Aircraft: 8
+	Aircraft Space: 6940
+	ValueDefault: 0
+
+Name: Mutsu
+	Size: 241L x 44W x 13H
+	Support Slot: 7
+	Require Level: 79
+	DP: 23250
+	Displacement: 47300
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Katsuragi
+	Size: 242L x 36W x 19H
+	Support Slot: 7
+	Require Level: 74
+	DP: 18650
+	Displacement: 24400
+	Turning: 30
+	OverHeat Ratio: 44
+	Launchable Aircraft: 8
+	Aircraft Space: 6660
+	ValueDefault: 0
+
+Name: Bismarck (1943)
+	Size: 267L x 44W x 12H
+	Support Slot: 7
+	Require Level: 82
+	DP: 24600
+	Displacement: 52000
+	Turning: 18
+	OverHeat Ratio: 26
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: H41 Project
+	Size: 318L x 44W x 17H
+	Support Slot: 8
+	Require Level: 96
+	DP: 28600
+	Displacement: 66200
+	Turning: 19
+	OverHeat Ratio: 26
+	Launchable Aircraft: 2
+	Aircraft Space: 195
+	ValueDefault: 0
+
+Name: Alvensleben
+	Size: 220L x 40W x 14H
+	Support Slot: 7
+	Require Level: 61
+	DP: 15800
+	Displacement: 25500
+	Turning: 25
+	OverHeat Ratio: 49
+	Launchable Aircraft: 7
+	Aircraft Space: 4600
+	ValueDefault: 0
+
+Name: Richthofen
+	Size: 280L x 42W x 20H
+	Support Slot: 7
+	Require Level: 74
+	DP: 18240
+	Displacement: 34500
+	Turning: 29
+	OverHeat Ratio: 49
+	Launchable Aircraft: 8
+	Aircraft Space: 6300
+	ValueDefault: 0
+
+Name: Bearn (1944)
+	Size: 194L x 39W x 17H
+	Support Slot: 7
+	Require Level: 71
+	DP: 18240
+	Displacement: 28400
+	Turning: 33
+	OverHeat Ratio: 32
+	Launchable Aircraft: 8
+	Aircraft Space: 6070
+	ValueDefault: 0
+
+Name: Joffre (1943)
+	Size: 249L x 37W x 15H
+	Support Slot: 8
+	Require Level: 87
+	DP: 22530
+	Displacement: 30506
+	Turning: 25
+	OverHeat Ratio: 28
+	Launchable Aircraft: 9
+	Aircraft Space: 8800
+	ValueDefault: 0
+
+Name: Bretagne
+	Size: 175L x 39W x 11H
+	Support Slot: 5
+	Require Level: 40
+	DP: 22000
+	Displacement: 25000
+	Turning: 17
+	OverHeat Ratio: 5
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 340000
+
+Name: Normandie
+	Size: 179L x 28W x 10H
+	Support Slot: 6
+	Require Level: 40
+	DP: 24000
+	Displacement: 29150
+	Turning: 17
+	OverHeat Ratio: 5
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 440000
+
+Name: Lorraine
+	Size: 175L x 34W x 11H
+	Support Slot: 7
+	Require Level: 40
+	DP: 26000
+	Displacement: 28180
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 560000
+
+Name: StrasBourg
+	Size: 228L x 34W x 11H
+	Support Slot: 9
+	Require Level: 40
+	DP: 28000
+	Displacement: 37500
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 710000
+
+Name: StrasBourg (1944)
+	Size: 228L x 34W x 11H
+	Support Slot: 8
+	Require Level: 40
+	DP: 30000
+	Displacement: 37500
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 710000
+
+Name: Richelieu
+	Size: 261L x 44W x 15H
+	Support Slot: 6
+	Require Level: 40
+	DP: 32000
+	Displacement: 50548
+	Turning: 19
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 810000
+
+Name: Alsace
+	Size: 265L x 44W x 16H
+	Support Slot: 5
+	Require Level: 40
+	DP: 34000
+	Displacement: 66690
+	Turning: 19
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 1000000
+
+Name: Andrei Pervozvanny
+	Size: 152L x 34W x 12H
+	Support Slot: 5
+	Require Level: 40
+	DP: 22000
+	Displacement: 18590
+	Turning: 20
+	OverHeat Ratio: 5
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 290000
+
+Name: Izmail
+	Size: 237L x 40W x 16H
+	Support Slot: 6
+	Require Level: 40
+	DP: 24000
+	Displacement: 36646
+	Turning: 21
+	OverHeat Ratio: 5
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 430000
+
+Name: Imperatritsa Mariya
+	Size: 180L x 32W x 8H
+	Support Slot: 7
+	Require Level: 40
+	DP: 26000
+	Displacement: 25789
+	Turning: 19
+	OverHeat Ratio: 7
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 590000
+
+Name: Kronshtadt
+	Size: 263L x 38W x 10H
+	Support Slot: 8
+	Require Level: 40
+	DP: 28000
+	Displacement: 42831
+	Turning: 19
+	OverHeat Ratio: 7
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 700000
+
+Name: Kronshtadt (1942)
+	Size: 263L x 38W x 10H
+	Support Slot: 7
+	Require Level: 40
+	DP: 30000
+	Displacement: 42831
+	Turning: 19
+	OverHeat Ratio: 7
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 700000
+
+Name: Stalingrad
+	Size: 291L x 38W x 17H
+	Support Slot: 6
+	Require Level: 40
+	DP: 32000
+	Displacement: 42300
+	Turning: 19
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 870000
+
+Name: Sovietsky Soyuz
+	Size: 285L x 44W x 18H
+	Support Slot: 5
+	Require Level: 40
+	DP: 34000
+	Displacement: 58000
+	Turning: 19
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 990000
+
+Name: Regina Margherita
+	Size: 146L x 30W x 12H
+	Support Slot: 5
+	Require Level: 40
+	DP: 22000
+	Displacement: 17574
+	Turning: 19
+	OverHeat Ratio: 5
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 300000
+
+Name: Dante Alighieri
+	Size: 177L x 32W x 14H
+	Support Slot: 6
+	Require Level: 40
+	DP: 24000
+	Displacement: 21600
+	Turning: 20
+	OverHeat Ratio: 5
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 460000
+
+Name: Caio Duilio (1915)
+	Size: 179L x 54W x 13H
+	Support Slot: 7
+	Require Level: 40
+	DP: 26000
+	Displacement: 24729
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 600000
+
+Name: Caracciolo
+	Size: 224L x 45W x 14H
+	Support Slot: 8
+	Require Level: 40
+	DP: 28000
+	Displacement: 34000
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 740000
+
+Name: Caracciolo (1943)
+	Size: 224L x 45W x 14H
+	Support Slot: 7
+	Require Level: 40
+	DP: 30000
+	Displacement: 34000
+	Turning: 18
+	OverHeat Ratio: 7
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 740000
+
+Name: Caio Duilio (1937)
+	Size: 260L x 42W x 14H
+	Support Slot: 6
+	Require Level: 40
+	DP: 32000
+	Displacement: 29390
+	Turning: 19
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 830000
+
+Name: Vittorio Veneto
+	Size: 251L x 46W x 12H
+	Support Slot: 5
+	Require Level: 40
+	DP: 34000
+	Displacement: 45750
+	Turning: 20
+	OverHeat Ratio: 11
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 970000
+
+Name: Poltava
+	Size: 193L x 38W x 11H
+	Support Slot: 6
+	Require Level: 73
+	DP: 20400
+	Displacement: 39200
+	Turning: 18
+	OverHeat Ratio: 34
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Komsomolets(1927)
+	Size: 189L x 40W x 20H
+	Support Slot: 7
+	Require Level: 61
+	DP: 15510
+	Displacement: 22000
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 7
+	Aircraft Space: 4600
+	ValueDefault: 0
+
+Name: Project 71C
+	Size: 205L x 36W x 16H
+	Support Slot: 7
+	Require Level: 76
+	DP: 19690
+	Displacement: 32500
+	Turning: 29
+	OverHeat Ratio: 30
+	Launchable Aircraft: 8
+	Aircraft Space: 6440
+	ValueDefault: 0
+
+Name: Dante Alighieri(1914)
+	Size: 205L x 37W x 15H
+	Support Slot: 6
+	Require Level: 72
+	DP: 19440
+	Displacement: 37850
+	Turning: 17
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Rota(1925)
+	Size: 191L x 36W x 19H
+	Support Slot: 7
+	Require Level: 75
+	DP: 18150
+	Displacement: 16000
+	Turning: 25
+	OverHeat Ratio: 31
+	Launchable Aircraft: 8
+	Aircraft Space: 6200
+	ValueDefault: 0
+
+Name: Sparviero(1943)
+	Size: 218L x 28W x 18H
+	Support Slot: 8
+	Require Level: 88
+	DP: 22880
+	Displacement: 23550
+	Turning: 24
+	OverHeat Ratio: 35
+	Launchable Aircraft: 9
+	Aircraft Space: 8500
+	ValueDefault: 0
+
+Name: Provence
+	Size: 201L x 42W x 11H
+	Support Slot: 7
+	Require Level: 75
+	DP: 22200
+	Displacement: 42300
+	Turning: 18
+	OverHeat Ratio: 31
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: StrasBourg(1938)
+	Size: 228L x 34W x 11H
+	Support Slot: 8
+	Require Level: 84
+	DP: 23860
+	Displacement: 59800
+	Turning: 18
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Clemenceau
+	Size: 261L x 44W x 15H
+	Support Slot: 8
+	Require Level: 96
+	DP: 27920
+	Displacement: 58650
+	Turning: 19
+	OverHeat Ratio: 29
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: Izmail(1916)
+	Size: 237L x 40W x 16H
+	Support Slot: 7
+	Require Level: 74
+	DP: 23740
+	Displacement: 46850
+	Turning: 19
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Kronshtadt(1940)
+	Size: 263L x 38W x 10H
+	Support Slot: 7
+	Require Level: 85
+	DP: 24660
+	Displacement: 62650
+	Turning: 18
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Stalingrad(1953)
+	Size: 291L x 38W x 17H
+	Support Slot: 8
+	Require Level: 96
+	DP: 28800
+	Displacement: 63800
+	Turning: 18
+	OverHeat Ratio: 33
+	Launchable Aircraft: 2
+	Aircraft Space: 195
+	ValueDefault: 0
+
+Name: Giulio Cesare(1914)
+	Size: 206L x 42W x 10H
+	Support Slot: 7
+	Require Level: 80
+	DP: 24510
+	Displacement: 45700
+	Turning: 19
+	OverHeat Ratio: 37
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Caracciolo(1919)
+	Size: 248L x 46W x 14H
+	Support Slot: 8
+	Require Level: 86
+	DP: 25400
+	Displacement: 61150
+	Turning: 19
+	OverHeat Ratio: 34
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Giulio Cesare(1940)
+	Size: 252L x 42W x 14H
+	Support Slot: 8
+	Require Level: 96
+	DP: 28150
+	Displacement: 61850
+	Turning: 20
+	OverHeat Ratio: 31
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: Belleau Wood
+	Size: 215L x 39W x 16H
+	Support Slot: 7
+	Require Level: 60
+	DP: 14780
+	Displacement: 15200
+	Turning: 28
+	OverHeat Ratio: 54
+	Launchable Aircraft: 7
+	Aircraft Space: 4720
+	ValueDefault: 0
+
+Name: Vanguard(1946)
+	Size: 264L x 42W x 13H
+	Support Slot: 8
+	Require Level: 96
+	DP: 27800
+	Displacement: 56500
+	Turning: 19
+	OverHeat Ratio: 27
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: Warrior
+	Size: 222L x 32W x 18H
+	Support Slot: 7
+	Require Level: 59
+	DP: 17020
+	Displacement: 18200
+	Turning: 30
+	OverHeat Ratio: 20
+	Launchable Aircraft: 7
+	Aircraft Space: 4660
+	ValueDefault: 0
+
+Name: Musashi
+	Size: 300L x 49W x 14H
+	Support Slot: 8
+	Require Level: 96
+	DP: 29200
+	Displacement: 67800
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 280
+	ValueDefault: 0
+
+Name: Hiyo
+	Size: 227L x 41W x 14H
+	Support Slot: 7
+	Require Level: 62
+	DP: 15620
+	Displacement: 27500
+	Turning: 33
+	OverHeat Ratio: 48
+	Launchable Aircraft: 7
+	Aircraft Space: 4850
+	ValueDefault: 0
+
+Name: Temeraire
+	Size: 269L x 45W x 12H
+	Support Slot: 8
+	Require Level: 99
+	DP: 31500
+	Displacement: 75000
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 0
+
+Name: Balao
+	Size: 141L x 18W x 12H
+	Support Slot: 6
+	Require Level: 105
+	DP: 27720
+	Displacement: 2415
+	Turning: 18
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 3786000
+
+Name: A Type
+	Size: 142L x 17W x 14H
+	Support Slot: 6
+	Require Level: 105
+	DP: 26760
+	Displacement: 1620
+	Turning: 17
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4236000
+
+Name: I 400
+	Size: 172L x 21W x 17H
+	Support Slot: 8
+	Require Level: 105
+	DP: 26160
+	Displacement: 6560
+	Turning: 20
+	OverHeat Ratio: 55
+	Launchable Aircraft: 4
+	Aircraft Space: 1200
+	ValueDefault: 4457600
+
+Name: Type - XXI
+	Size: 118L x 15W x 14H
+	Support Slot: 7
+	Require Level: 105
+	DP: 27120
+	Displacement: 1819
+	Turning: 21
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4284000
+
+Name: L'Aurore
+	Size: 121L x 15W x 11H
+	Support Slot: 6
+	Require Level: 105
+	DP: 26880
+	Displacement: 1905
+	Turning: 18
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 3971250
+
+Name: Ammiraglio Cagni
+	Size: 132L x 15W x 16H
+	Support Slot: 6
+	Require Level: 105
+	DP: 26880
+	Displacement: 2170
+	Turning: 15
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4195125
+
+Name: Washington
+	Size: 242L x 40W x 13H
+	Support Slot: 8
+	Require Level: 96
+	DP: 28400
+	Displacement: 60500
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: Shinano
+	Size: 300L x 49W x 14H
+	Support Slot: 7
+	Require Level: 99
+	DP: 32000
+	Displacement: 75000
+	Turning: 19
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 275
+	ValueDefault: 0
+
+Name: J39 Class
+	Size: 318L x 44W x 17H
+	Support Slot: 7
+	Require Level: 99
+	DP: 32200
+	Displacement: 75000
+	Turning: 20
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 0
+
+Name: Jean Bart
+	Size: 261L x 44W x 15H
+	Support Slot: 7
+	Require Level: 99
+	DP: 31000
+	Displacement: 75000
+	Turning: 21
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: Arkhangelsk
+	Size: 217L x 35W x 11H
+	Support Slot: 6
+	Require Level: 64
+	DP: 18400
+	Displacement: 37200
+	Turning: 17
+	OverHeat Ratio: 38
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 0
+
+Name: Leonardo da Vinci
+	Size: 252L x 42W x 14H
+	Support Slot: 8
+	Require Level: 98
+	DP: 29350
+	Displacement: 71400
+	Turning: 19
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: California
+	Size: 310L x 48W x 19H
+	Support Slot: 9
+	Require Level: 113
+	DP: 34680
+	Displacement: 77070
+	Turning: 19
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 275
+	ValueDefault: 0
+
+Name: Duke of Edinburgh
+	Size: 274L x 49W x 17H
+	Support Slot: 9
+	Require Level: 113
+	DP: 34000
+	Displacement: 80000
+	Turning: 19
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: Mikawa
+	Size: 310L x 51W x 13H
+	Support Slot: 9
+	Require Level: 113
+	DP: 34200
+	Displacement: 82500
+	Turning: 19
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 0
+
+Name: Stresemann
+	Size: 310L x 51W x 16H
+	Support Slot: 9
+	Require Level: 113
+	DP: 34680
+	Displacement: 118000
+	Turning: 20
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: Thermidor
+	Size: 288L x 45W x 11H
+	Support Slot: 9
+	Require Level: 113
+	DP: 33500
+	Displacement: 83500
+	Turning: 19
+	OverHeat Ratio: 21
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 0
+
+Name: Proletariat
+	Size: 291L x 45W x 18H
+	Support Slot: 9
+	Require Level: 113
+	DP: 34000
+	Displacement: 75000
+	Turning: 18
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: Cesare Borgia
+	Size: 267L x 49W x 12H
+	Support Slot: 9
+	Require Level: 113
+	DP: 33840
+	Displacement: 79000
+	Turning: 21
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: Georgia
+	Size: 271L x 41W x 26H
+	Support Slot: 8
+	Require Level: 114
+	DP: 26150
+	Displacement: 49200
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 12
+	Aircraft Space: 11800
+	ValueDefault: 0
+
+Name: Adventurous
+	Size: 269L x 43W x 27H
+	Support Slot: 8
+	Require Level: 115
+	DP: 26400
+	Displacement: 56450
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 12
+	Aircraft Space: 11650
+	ValueDefault: 0
+
+Name: Izumi
+	Size: 287L x 49W x 26H
+	Support Slot: 8
+	Require Level: 115
+	DP: 27900
+	Displacement: 63945
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 12
+	Aircraft Space: 12000
+	ValueDefault: 0
+
+Name: Franz
+	Size: 271L x 40W x 25H
+	Support Slot: 8
+	Require Level: 113
+	DP: 26150
+	Displacement: 56250
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 12
+	Aircraft Space: 11500
+	ValueDefault: 0
+
+Name: Truguet
+	Size: 270L x 41W x 23H
+	Support Slot: 8
+	Require Level: 110
+	DP: 26062
+	Displacement: 40245
+	Turning: 23
+	OverHeat Ratio: 33
+	Launchable Aircraft: 12
+	Aircraft Space: 12020
+	ValueDefault: 0
+
+Name: Project 73
+	Size: 272L x 40W x 23H
+	Support Slot: 8
+	Require Level: 114
+	DP: 26800
+	Displacement: 52353
+	Turning: 23
+	OverHeat Ratio: 30
+	Launchable Aircraft: 12
+	Aircraft Space: 11700
+	ValueDefault: 0
+
+Name: Storione
+	Size: 270L x 36W x 47H
+	Support Slot: 8
+	Require Level: 113
+	DP: 25975
+	Displacement: 36150
+	Turning: 23
+	OverHeat Ratio: 30
+	Launchable Aircraft: 12
+	Aircraft Space: 11500
+	ValueDefault: 0
+
+Name: New Jersey
+	Size: 321L x 43W x 14H
+	Support Slot: 9
+	Require Level: 120
+	DP: 41200
+	Displacement: 130000
+	Turning: 18
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 0
+
+Name: Thunderer
+	Size: 310L x 41W x 13H
+	Support Slot: 9
+	Require Level: 120
+	DP: 42000
+	Displacement: 120000
+	Turning: 19
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 0
+
+Name: Atago
+	Size: 319L x 44W x 16H
+	Support Slot: 10
+	Require Level: 120
+	DP: 37200
+	Displacement: 155000
+	Turning: 18
+	OverHeat Ratio: 23
+	Launchable Aircraft: 8
+	Aircraft Space: 6500
+	ValueDefault: 0
+
+Name: Koenig Albert
+	Size: 321L x 42W x 17H
+	Support Slot: 9
+	Require Level: 120
+	DP: 38800
+	Displacement: 155000
+	Turning: 18
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 290
+	ValueDefault: 0
+
+Name: Clemenceau (1943)
+	Size: 310L x 48W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 38000
+	Displacement: 141000
+	Turning: 19
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 385
+	ValueDefault: 0
+
+Name: Project 25
+	Size: 297L x 46W x 20H
+	Support Slot: 9
+	Require Level: 120
+	DP: 40400
+	Displacement: 90000
+	Turning: 17
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 290
+	ValueDefault: 0
+
+Name: Roma
+	Size: 326L x 44W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 39600
+	Displacement: 95000
+	Turning: 21
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 0
+
+Name: Kerberos[GM]
+	Size: 303L x 30W x 13H
+	Support Slot: 10
+	Require Level: 120
+	DP: 900000
+	Displacement: 550000
+	Turning: 38
+	OverHeat Ratio: 99
+	Launchable Aircraft: 16
+	Aircraft Space: 25600
+	ValueDefault: 10000000
+
+Name: Project X-D
+	Size: 165L x 38W x 11H
+	Support Slot: 6
+	Require Level: 1
+	DP: 16200
+	Displacement: 15000
+	Turning: 45
+	OverHeat Ratio: 20
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Project X-G[GM]
+	Size: 165L x 38W x 11H
+	Support Slot: 6
+	Require Level: 100
+	DP: 500000
+	Displacement: 15000
+	Turning: 55
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1000000
+
+Name: Project X[GM]
+	Size: 303L x 30W x 13H
+	Support Slot: 10
+	Require Level: 120
+	DP: 900000
+	Displacement: 550000
+	Turning: 38
+	OverHeat Ratio: 99
+	Launchable Aircraft: 16
+	Aircraft Space: 25600
+	ValueDefault: 10000000
+
+Name: Project AYM[GM]
+	Size: 303L x 30W x 13H
+	Support Slot: 10
+	Require Level: 120
+	DP: 99999
+	Displacement: 550000
+	Turning: 38
+	OverHeat Ratio: 99
+	Launchable Aircraft: 16
+	Aircraft Space: 25600
+	ValueDefault: 10000000
+
+Name: Tambor
+	Size: 140L x 18W x 15H
+	Support Slot: 5
+	Require Level: 96
+	DP: 25410
+	Displacement: 2370
+	Turning: 22
+	OverHeat Ratio: 57
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Safari
+	Size: 129L x 18W x 15H
+	Support Slot: 6
+	Require Level: 95
+	DP: 24530
+	Displacement: 1890
+	Turning: 25
+	OverHeat Ratio: 56
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: I 54
+	Size: 156L x 18W x 18H
+	Support Slot: 7
+	Require Level: 97
+	DP: 23980
+	Displacement: 3688
+	Turning: 20
+	OverHeat Ratio: 55
+	Launchable Aircraft: 3
+	Aircraft Space: 1000
+	ValueDefault: 0
+
+Name: Type - IX C/40
+	Size: 137L x 16W x 15H
+	Support Slot: 5
+	Require Level: 95
+	DP: 24860
+	Displacement: 1632
+	Turning: 23
+	OverHeat Ratio: 56
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Minerve
+	Size: 159L x 21W x 16H
+	Support Slot: 5
+	Require Level: 96
+	DP: 24640
+	Displacement: 2156
+	Turning: 22
+	OverHeat Ratio: 56
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: L XI
+	Size: 130L x 16W x 15H
+	Support Slot: 5
+	Require Level: 97
+	DP: 24200
+	Displacement: 1500
+	Turning: 22
+	OverHeat Ratio: 57
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Liuzzi
+	Size: 160L x 30W x 18H
+	Support Slot: 6
+	Require Level: 97
+	DP: 24640
+	Displacement: 1484
+	Turning: 23
+	OverHeat Ratio: 55
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Oklahoma
+	Size: 320L x 46W x 15H
+	Support Slot: 9
+	Require Level: 120
+	DP: 38400
+	Displacement: 79500
+	Turning: 20
+	OverHeat Ratio: 23
+	Launchable Aircraft: 2
+	Aircraft Space: 286
+	ValueDefault: 0
+
+Name: Conqueror
+	Size: 275L x 44W x 13H
+	Support Slot: 9
+	Require Level: 120
+	DP: 38700
+	Displacement: 73010
+	Turning: 22
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 286
+	ValueDefault: 0
+
+Name: Yamato (1945)
+	Size: 300L x 49W x 14H
+	Support Slot: 9
+	Require Level: 120
+	DP: 36900
+	Displacement: 78740
+	Turning: 21
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 291
+	ValueDefault: 0
+
+Name: J44 Class
+	Size: 320L x 48W x 14H
+	Support Slot: 9
+	Require Level: 120
+	DP: 37200
+	Displacement: 127630
+	Turning: 20
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 254
+	ValueDefault: 0
+
+Name: Bourgogne
+	Size: 265L x 44W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 36400
+	Displacement: 75710
+	Turning: 21
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 343
+	ValueDefault: 0
+
+Name: Sovietsky Spiral
+	Size: 285L x 44W x 18H
+	Support Slot: 9
+	Require Level: 120
+	DP: 38000
+	Displacement: 81120
+	Turning: 20
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 254
+	ValueDefault: 0
+
+Name: Impero
+	Size: 251L x 46W x 12H
+	Support Slot: 9
+	Require Level: 120
+	DP: 37600
+	Displacement: 77880
+	Turning: 23
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 286
+	ValueDefault: 0
+
+Name: Saratoga
+	Size: 312L x 38W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 28810
+	Displacement: 43400
+	Turning: 23
+	OverHeat Ratio: 31
+	Launchable Aircraft: 15
+	Aircraft Space: 14170
+	ValueDefault: 0
+
+Name: Indefatigable
+	Size: 267L x 47W x 16H
+	Support Slot: 9
+	Require Level: 120
+	DP: 29090
+	Displacement: 41070
+	Turning: 24
+	OverHeat Ratio: 33
+	Launchable Aircraft: 15
+	Aircraft Space: 14000
+	ValueDefault: 0
+
+Name: Tosa
+	Size: 284L x 40W x 24H
+	Support Slot: 9
+	Require Level: 120
+	DP: 30900
+	Displacement: 44000
+	Turning: 23
+	OverHeat Ratio: 31
+	Launchable Aircraft: 15
+	Aircraft Space: 14120
+	ValueDefault: 0
+
+Name: Eurasien
+	Size: 333L x 42W x 15H
+	Support Slot: 9
+	Require Level: 120
+	DP: 26770
+	Displacement: 56500
+	Turning: 24
+	OverHeat Ratio: 31
+	Launchable Aircraft: 15
+	Aircraft Space: 13830
+	ValueDefault: 0
+
+Name: Calais
+	Size: 223L x 46W x 15H
+	Support Slot: 9
+	Require Level: 120
+	DP: 28870
+	Displacement: 24990
+	Turning: 23
+	OverHeat Ratio: 39
+	Launchable Aircraft: 15
+	Aircraft Space: 14260
+	ValueDefault: 0
+
+Name: Fevral
+	Size: 276L x 52W x 20H
+	Support Slot: 9
+	Require Level: 120
+	DP: 29210
+	Displacement: 49707
+	Turning: 25
+	OverHeat Ratio: 33
+	Launchable Aircraft: 15
+	Aircraft Space: 13970
+	ValueDefault: 0
+
+Name: Falco
+	Size: 246L x 51W x 17H
+	Support Slot: 9
+	Require Level: 120
+	DP: 31300
+	Displacement: 27800
+	Turning: 23
+	OverHeat Ratio: 33
+	Launchable Aircraft: 15
+	Aircraft Space: 13680
+	ValueDefault: 0
+
+Name: Connecticut
+	Size: 321L x 43W x 14H
+	Support Slot: 10
+	Require Level: 125
+	DP: 41700
+	Displacement: 133900
+	Turning: 20
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 340
+	ValueDefault: 0
+
+Name: King George VI
+	Size: 310L x 41W x 13H
+	Support Slot: 10
+	Require Level: 125
+	DP: 42100
+	Displacement: 123600
+	Turning: 22
+	OverHeat Ratio: 21
+	Launchable Aircraft: 2
+	Aircraft Space: 340
+	ValueDefault: 0
+
+Name: Izmi
+	Size: 319L x 44W x 16H
+	Support Slot: 10
+	Require Level: 125
+	DP: 40000
+	Displacement: 164800
+	Turning: 23
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 396
+	ValueDefault: 0
+
+Name: Admiral Scheer
+	Size: 321L x 42W x 17H
+	Support Slot: 10
+	Require Level: 125
+	DP: 40400
+	Displacement: 159650
+	Turning: 20
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 298
+	ValueDefault: 0
+
+Name: Versailles
+	Size: 310L x 48W x 16H
+	Support Slot: 10
+	Require Level: 125
+	DP: 39600
+	Displacement: 145230
+	Turning: 22
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 396
+	ValueDefault: 0
+
+Name: Krasnaya ploshchad
+	Size: 297L x 46W x 20H
+	Support Slot: 10
+	Require Level: 125
+	DP: 41200
+	Displacement: 92700
+	Turning: 20
+	OverHeat Ratio: 22
+	Launchable Aircraft: 2
+	Aircraft Space: 298
+	ValueDefault: 0
+
+Name: Italia
+	Size: 326L x 44W x 16H
+	Support Slot: 10
+	Require Level: 125
+	DP: 40800
+	Displacement: 97850
+	Turning: 24
+	OverHeat Ratio: 24
+	Launchable Aircraft: 2
+	Aircraft Space: 339
+	ValueDefault: 0
+
+Name: Franklin D. Roosevelt
+	Size: 326L x 47W x 20H
+	Support Slot: 10
+	Require Level: 125
+	DP: 34000
+	Displacement: 56650
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Queen Mother
+	Size: 326L x 47W x 20H
+	Support Slot: 10
+	Require Level: 125
+	DP: 34000
+	Displacement: 56650
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Gawachi
+	Size: 337L x 42W x 22H
+	Support Slot: 10
+	Require Level: 125
+	DP: 34000
+	Displacement: 57680
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Clausewitz
+	Size: 337L x 42W x 22H
+	Support Slot: 10
+	Require Level: 125
+	DP: 34000
+	Displacement: 57680
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Egalite
+	Size: 311L x 51W x 24H
+	Support Slot: 10
+	Require Level: 125
+	DP: 34000
+	Displacement: 57170
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Oktyabrya
+	Size: 300L x 50W x 18H
+	Support Slot: 10
+	Require Level: 125
+	DP: 34000
+	Displacement: 56650
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Garibaldi
+	Size: 290L x 47W x 15H
+	Support Slot: 10
+	Require Level: 125
+	DP: 34000
+	Displacement: 45840
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Black Pearl
+	Size: 125L x 34W x 34H
+	Support Slot: 0
+	Require Level: 1
+	DP: 16000
+	Displacement: 3470
+	Turning: 35
+	OverHeat Ratio: 93
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Pirate King[GM]
+	Size: 165L x 38W x 11H
+	Support Slot: 6
+	Require Level: 100
+	DP: 800000
+	Displacement: 21000
+	Turning: 55
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1000000
+
+Name: Varyag
+	Size: 330L x 21W x 33H
+	Support Slot: 10
+	Require Level: 125
+	DP: 37500
+	Displacement: 58000
+	Turning: 23
+	OverHeat Ratio: 26
+	Launchable Aircraft: 17
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Kuznetsov
+	Size: 330L x 21W x 33H
+	Support Slot: 11
+	Require Level: 125
+	DP: 38500
+	Displacement: 59400
+	Turning: 23
+	OverHeat Ratio: 28
+	Launchable Aircraft: 18
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: LiaoNing
+	Size: 330L x 21W x 33H
+	Support Slot: 12
+	Require Level: 125
+	DP: 36500
+	Displacement: 56650
+	Turning: 23
+	OverHeat Ratio: 29
+	Launchable Aircraft: 18
+	Aircraft Space: 17440
+	ValueDefault: 0
+
+Name: Moon Cake[GM]
+	Size: 99L x 16W x 7H
+	Support Slot: 8
+	Require Level: 100
+	DP: 200000
+	Displacement: 50000
+	Turning: 55
+	OverHeat Ratio: 120
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Boxer
+	Size: 310L x 44W x 20H
+	Support Slot: 9
+	Require Level: 110
+	DP: 28500
+	Displacement: 43900
+	Turning: 25
+	OverHeat Ratio: 35
+	Launchable Aircraft: 12
+	Aircraft Space: 11300
+	ValueDefault: 0
+
+Name: Aberdeen
+	Size: 267L x 47W x 16H
+	Support Slot: 9
+	Require Level: 110
+	DP: 27500
+	Displacement: 58400
+	Turning: 24
+	OverHeat Ratio: 35
+	Launchable Aircraft: 12
+	Aircraft Space: 11300
+	ValueDefault: 0
+
+Name: Hirakaku
+	Size: 293L x 38W x 17H
+	Support Slot: 9
+	Require Level: 110
+	DP: 29500
+	Displacement: 44500
+	Turning: 25
+	OverHeat Ratio: 35
+	Launchable Aircraft: 12
+	Aircraft Space: 11580
+	ValueDefault: 0
+
+Name: Scheidemann
+	Size: 289L x 40W x 20H
+	Support Slot: 9
+	Require Level: 110
+	DP: 26500
+	Displacement: 57000
+	Turning: 27
+	OverHeat Ratio: 35
+	Launchable Aircraft: 12
+	Aircraft Space: 11350
+	ValueDefault: 0
+
+Name: La Fayett
+	Size: 289L x 40W x 20H
+	Support Slot: 9
+	Require Level: 110
+	DP: 26300
+	Displacement: 47383
+	Turning: 26
+	OverHeat Ratio: 31
+	Launchable Aircraft: 12
+	Aircraft Space: 11820
+	ValueDefault: 0
+
+Name: Bryansk
+	Size: 255L x 54W x 23H
+	Support Slot: 9
+	Require Level: 110
+	DP: 27500
+	Displacement: 47383
+	Turning: 27
+	OverHeat Ratio: 35
+	Launchable Aircraft: 12
+	Aircraft Space: 11620
+	ValueDefault: 0
+
+Name: Castagnito
+	Size: 247L x 38W x 13H
+	Support Slot: 9
+	Require Level: 110
+	DP: 27900
+	Displacement: 30700
+	Turning: 27
+	OverHeat Ratio: 30
+	Launchable Aircraft: 12
+	Aircraft Space: 11420
+	ValueDefault: 0
+
+Name: Xmas Rodney
+	Size: 235L x 40W x 13H
+	Support Slot: 8
+	Require Level: 85
+	DP: 31500
+	Displacement: 50000
+	Turning: 18
+	OverHeat Ratio: 20
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 880000
+
+Name: Xmas Ship
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 1
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Xmas Ship[GM]
+	Size: 155L x 26W x 20H
+	Support Slot: 8
+	Require Level: 1
+	DP: 800000
+	Displacement: 54000
+	Turning: 27
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1000000
+
+Name: Illinois
+	Size: 311L x 39W x 10H
+	Support Slot: 10
+	Require Level: 110
+	DP: 35000
+	Displacement: 75020
+	Turning: 20
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 275
+	ValueDefault: 0
+
+Name: Duke of Cornwall
+	Size: 269L x 45W x 12H
+	Support Slot: 10
+	Require Level: 110
+	DP: 34700
+	Displacement: 80500
+	Turning: 20
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: Izumo
+	Size: 300L x 49W x 14H
+	Support Slot: 10
+	Require Level: 110
+	DP: 34700
+	Displacement: 80570
+	Turning: 20
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 0
+
+Name: K39 Class
+	Size: 318L x 44W x 17H
+	Support Slot: 10
+	Require Level: 110
+	DP: 35000
+	Displacement: 119760
+	Turning: 21
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: Gascogne
+	Size: 261L x 44W x 15H
+	Support Slot: 10
+	Require Level: 110
+	DP: 34200
+	Displacement: 95720
+	Turning: 21
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 0
+
+Name: Moskva
+	Size: 291L x 38W x 17H
+	Support Slot: 10
+	Require Level: 110
+	DP: 34500
+	Displacement: 77360
+	Turning: 18
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: Gaius Duilius
+	Size: 260L x 42W x 14H
+	Support Slot: 10
+	Require Level: 110
+	DP: 34400
+	Displacement: 82500
+	Turning: 22
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 250
+	ValueDefault: 0
+
+Name: TITANIC[GM]
+	Size: 263L x 37W x 15H
+	Support Slot: 10
+	Require Level: 100
+	DP: 200000
+	Displacement: 120000
+	Turning: 25
+	OverHeat Ratio: 22
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Britannic[GM]
+	Size: 263L x 37W x 15H
+	Support Slot: 10
+	Require Level: 100
+	DP: 200000
+	Displacement: 120000
+	Turning: 25
+	OverHeat Ratio: 22
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Bismarck(1945)
+	Size: 267L x 44W x 12H
+	Support Slot: 9
+	Require Level: 90
+	DP: 31250
+	Displacement: 57400
+	Turning: 18
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 188
+	ValueDefault: 0
+
+Name: Hood(1943)
+	Size: 308L x 40W x 13H
+	Support Slot: 9
+	Require Level: 90
+	DP: 30570
+	Displacement: 50960
+	Turning: 21
+	OverHeat Ratio: 32
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 0
+
+Name: West Virginia
+	Size: 216L x 42W x 10H
+	Support Slot: 8
+	Require Level: 85
+	DP: 19200
+	Displacement: 40335
+	Turning: 17
+	OverHeat Ratio: 38
+	Launchable Aircraft: 2
+	Aircraft Space: 175
+	ValueDefault: 2573500
+
+Name: Arizona(1941)
+	Size: 200L x 38W x 11H
+	Support Slot: 9
+	Require Level: 90
+	DP: 31250
+	Displacement: 45605
+	Turning: 17
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 275
+	ValueDefault: 0
+
+Name: Richelieu(1951)
+	Size: 261L x 45W x 13H
+	Support Slot: 9
+	Require Level: 90
+	DP: 32063
+	Displacement: 67613
+	Turning: 20
+	OverHeat Ratio: 28
+	Launchable Aircraft: 2
+	Aircraft Space: 240
+	ValueDefault: 0
+
+Name: Kirishima
+	Size: 240L x 38W x 12H
+	Support Slot: 8
+	Require Level: 85
+	DP: 16800
+	Displacement: 36658
+	Turning: 20
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 2573500
+
+Name: ChongQing[Memorial ship]
+	Size: 162L x 26W x 12H
+	Support Slot: 8
+	Require Level: 38
+	DP: 13500
+	Displacement: 7200
+	Turning: 32
+	OverHeat Ratio: 53
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: Project 69SE
+	Size: 290L x 46W x 12H
+	Support Slot: 9
+	Require Level: 90
+	DP: 31250
+	Displacement: 47000
+	Turning: 20
+	OverHeat Ratio: 25
+	Launchable Aircraft: 7
+	Aircraft Space: 2500
+	ValueDefault: 0
+
+Name: Italy Project41-B
+	Size: 216L x 28W x 11H
+	Support Slot: 9
+	Require Level: 90
+	DP: 31250
+	Displacement: 57400
+	Turning: 18
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 188
+	ValueDefault: 0
+
+Name: Hiraga Project
+	Size: 314L x 43W x 12H
+	Support Slot: 9
+	Require Level: 90
+	DP: 33570
+	Displacement: 58500
+	Turning: 20
+	OverHeat Ratio: 35
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 0
+
+Name: Monster"Nian"[GM]
+	Size: 165L x 38W x 11H
+	Support Slot: 8
+	Require Level: 120
+	DP: 800000
+	Displacement: 85000
+	Turning: 55
+	OverHeat Ratio: 85
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1000000
+
+Name: XianNing
+	Size: 147L x 23W x 9H
+	Support Slot: 6
+	Require Level: 12
+	DP: 7500
+	Displacement: 4180
+	Turning: 30
+	OverHeat Ratio: 80
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 55790
+
+Name: YongSui
+	Size: 146L x 23W x 11H
+	Support Slot: 6
+	Require Level: 18
+	DP: 8500
+	Displacement: 5500
+	Turning: 29
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 62950
+
+Name: MinQuan
+	Size: 152L x 24W x 10H
+	Support Slot: 6
+	Require Level: 25
+	DP: 9600
+	Displacement: 6800
+	Turning: 28
+	OverHeat Ratio: 75
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 64500
+
+Name: FuWei
+	Size: 228L x 32W x 16H
+	Support Slot: 7
+	Require Level: 65
+	DP: 20000
+	Displacement: 33000
+	Turning: 28
+	OverHeat Ratio: 50
+	Launchable Aircraft: 8
+	Aircraft Space: 6000
+	ValueDefault: 335590
+
+Name: DingYuan[Memorial ship]
+	Size: 157L x 31W x 11H
+	Support Slot: 8
+	Require Level: 45
+	DP: 12000
+	Displacement: 33695
+	Turning: 30
+	OverHeat Ratio: 70
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 0
+
+Name: MinSheng
+	Size: 152L x 24W x 11H
+	Support Slot: 6
+	Require Level: 28
+	DP: 11250
+	Displacement: 8000
+	Turning: 28
+	OverHeat Ratio: 75
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 75600
+
+Name: ChongQing
+	Size: 162L x 26W x 12H
+	Support Slot: 8
+	Require Level: 38
+	DP: 13500
+	Displacement: 10000
+	Turning: 32
+	OverHeat Ratio: 53
+	Launchable Aircraft: 1
+	Aircraft Space: 100
+	ValueDefault: 87500
+
+Name: ZhongShan[Memorial ship]
+	Size: 145L x 24W x 10H
+	Support Slot: 8
+	Require Level: 35
+	DP: 13500
+	Displacement: 10000
+	Turning: 35
+	OverHeat Ratio: 53
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 87500
+
+Name: Greyhound[Memorial ship]
+	Size: 148L x 19W x 10H
+	Support Slot: 3
+	Require Level: 18
+	DP: 7500
+	Displacement: 3350
+	Turning: 30
+	OverHeat Ratio: 65
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 36504
+
+Name: Anson
+	Size: 244L x 42W x 15H
+	Support Slot: 8
+	Require Level: 80
+	DP: 24300
+	Displacement: 46090
+	Turning: 18
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 3000000
+
+Name: Spearhead
+	Size: 264L x 42W x 13H
+	Support Slot: 8
+	Require Level: 85
+	DP: 25700
+	Displacement: 51420
+	Turning: 21
+	OverHeat Ratio: 35
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 2800000
+
+Name: Ashitaka
+	Size: 264L x 39W x 9H
+	Support Slot: 7
+	Require Level: 80
+	DP: 24400
+	Displacement: 47000
+	Turning: 18
+	OverHeat Ratio: 39
+	Launchable Aircraft: 1
+	Aircraft Space: 200
+	ValueDefault: 3000000
+
+Name: Kii
+	Size: 264L x 39W x 9H
+	Support Slot: 7
+	Require Level: 85
+	DP: 24700
+	Displacement: 48500
+	Turning: 18
+	OverHeat Ratio: 38
+	Launchable Aircraft: 1
+	Aircraft Space: 200
+	ValueDefault: 2800000
+
+Name: YiXian
+	Size: 156L x 24W x 13H
+	Support Slot: 7
+	Require Level: 38
+	DP: 12000
+	Displacement: 10000
+	Turning: 35
+	OverHeat Ratio: 53
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 87500
+
+Name: PingHai
+	Size: 160L x 24W x 13H
+	Support Slot: 7
+	Require Level: 40
+	DP: 13700
+	Displacement: 15400
+	Turning: 30
+	OverHeat Ratio: 50
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 88600
+
+Name: NingHai
+	Size: 160L x 24W x 13H
+	Support Slot: 7
+	Require Level: 43
+	DP: 13960
+	Displacement: 17000
+	Turning: 30
+	OverHeat Ratio: 45
+	Launchable Aircraft: 1
+	Aircraft Space: 150
+	ValueDefault: 91300
+
+Name: HaiGou
+	Size: 97L x 18W x 4H
+	Support Slot: 2
+	Require Level: 40
+	DP: 9140
+	Displacement: 364
+	Turning: 27
+	OverHeat Ratio: 35
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 270000
+
+Name: CN Kiev
+	Size: 240L x 45W x 17H
+	Support Slot: 7
+	Require Level: 80
+	DP: 20330
+	Displacement: 38400
+	Turning: 29
+	OverHeat Ratio: 35
+	Launchable Aircraft: 9
+	Aircraft Space: 7650
+	ValueDefault: 5137200
+
+Name: CN Minsk[Memorial ship]
+	Size: 240L x 45W x 17H
+	Support Slot: 9
+	Require Level: 103
+	DP: 22363
+	Displacement: 42240
+	Turning: 29
+	OverHeat Ratio: 35
+	Launchable Aircraft: 11
+	Aircraft Space: 11350
+	ValueDefault: 0
+
+Name: Jiguang
+	Size: 230L x 27W x 16H
+	Support Slot: 6
+	Require Level: 48
+	DP: 12500
+	Displacement: 15076
+	Turning: 25
+	OverHeat Ratio: 67
+	Launchable Aircraft: 2
+	Aircraft Space: 100
+	ValueDefault: 602000
+
+Name: Gaoxiong
+	Size: 230L x 27W x 16H
+	Support Slot: 7
+	Require Level: 50
+	DP: 12500
+	Displacement: 15076
+	Turning: 25
+	OverHeat Ratio: 67
+	Launchable Aircraft: 2
+	Aircraft Space: 100
+	ValueDefault: 602000
+
+Name: Yuanpei
+	Size: 201L x 32W x 12H
+	Support Slot: 7
+	Require Level: 55
+	DP: 13100
+	Displacement: 14490
+	Turning: 24
+	OverHeat Ratio: 61
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 630000
+
+Name: ShiLang
+	Size: 239L x 47W x 18H
+	Support Slot: 8
+	Require Level: 95
+	DP: 21130
+	Displacement: 42500
+	Turning: 28
+	OverHeat Ratio: 30
+	Launchable Aircraft: 10
+	Aircraft Space: 10000
+	ValueDefault: 5037500
+
+Name: ChengGong
+	Size: 300L x 50W x 18H
+	Support Slot: 9
+	Require Level: 120
+	DP: 33000
+	Displacement: 55000
+	Turning: 22
+	OverHeat Ratio: 30
+	Launchable Aircraft: 14
+	Aircraft Space: 16000
+	ValueDefault: 50000000
+
+Name: 033-Type[Memorial ship]
+	Size: 155L x 19W x 30H
+	Support Slot: 7
+	Require Level: 105
+	DP: 27120
+	Displacement: 1819
+	Turning: 23
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4284000
+
+Name: John Rabe[Memorial ship]
+	Size: 215L x 30W x 13H
+	Support Slot: 5
+	Require Level: 55
+	DP: 15200
+	Displacement: 24250
+	Turning: 25
+	OverHeat Ratio: 46
+	Launchable Aircraft: 2
+	Aircraft Space: 160
+	ValueDefault: 0
+
+Name: ShangZhi
+	Size: 222L x 40W x 12H
+	Support Slot: 6
+	Require Level: 60
+	DP: 18000
+	Displacement: 36300
+	Turning: 17
+	OverHeat Ratio: 50
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1312500
+
+Name: ZhongXiang
+	Size: 216L x 42W x 12H
+	Support Slot: 6
+	Require Level: 70
+	DP: 18700
+	Displacement: 40800
+	Turning: 18
+	OverHeat Ratio: 36
+	Launchable Aircraft: 1
+	Aircraft Space: 175
+	ValueDefault: 1825000
+
+Name: HanQing
+	Size: 180L x 32W x 8H
+	Support Slot: 7
+	Require Level: 78
+	DP: 22400
+	Displacement: 50000
+	Turning: 16
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 2047300
+
+Name: YanGong
+	Size: 269L x 45W x 12H
+	Support Slot: 8
+	Require Level: 89
+	DP: 26550
+	Displacement: 55000
+	Turning: 20
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 220
+	ValueDefault: 2500000
+
+Name: MingZhao
+	Size: 265L x 44W x 16H
+	Support Slot: 8
+	Require Level: 103
+	DP: 30500
+	Displacement: 70000
+	Turning: 19
+	OverHeat Ratio: 25
+	Launchable Aircraft: 2
+	Aircraft Space: 330
+	ValueDefault: 4200000
+
+Name: MaAnShan
+	Size: 155L x 26W x 20H
+	Support Slot: 6
+	Require Level: 30
+	DP: 13000
+	Displacement: 14830
+	Turning: 27
+	OverHeat Ratio: 27
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 150000
+
+Name: HaiLang
+	Size: 116L x 14W x 6H
+	Support Slot: 2
+	Require Level: 48
+	DP: 9170
+	Displacement: 757
+	Turning: 24
+	OverHeat Ratio: 49
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 372000
+
+Name: HaiBao
+	Size: 135L x 20W x 7H
+	Support Slot: 3
+	Require Level: 62
+	DP: 15780
+	Displacement: 871
+	Turning: 24
+	OverHeat Ratio: 49
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1200000
+
+Name: HaiShi
+	Size: 139L x 19W x 10H
+	Support Slot: 4
+	Require Level: 78
+	DP: 19300
+	Displacement: 1650
+	Turning: 20
+	OverHeat Ratio: 51
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 1630000
+
+Name: HaiXiang
+	Size: 142L x 20W x 8H
+	Support Slot: 5
+	Require Level: 97
+	DP: 23100
+	Displacement: 2410
+	Turning: 19
+	OverHeat Ratio: 52
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 2524000
+
+Name: HaiLong
+	Size: 143L x 17W x 15H
+	Support Slot: 7
+	Require Level: 103
+	DP: 26400
+	Displacement: 2350
+	Turning: 19
+	OverHeat Ratio: 52
+	Launchable Aircraft: 0
+	Aircraft Space: 0
+	ValueDefault: 4117500
+
+Name: S-H44 Class[GM]
+	Size: 343L x 59W x 17H
+	Support Slot: 10
+	Require Level: 119
+	DP: 88888
+	Displacement: 218000
+	Turning: 19
+	OverHeat Ratio: 20
+	Launchable Aircraft: 2
+	Aircraft Space: 300
+	ValueDefault: 0
+
+Name: Xmas JingHaiHou
+	Size: 219L x 36W x 12H
+	Support Slot: 8
+	Require Level: 85
+	DP: 25100
+	Displacement: 51000
+	Turning: 20
+	OverHeat Ratio: 30
+	Launchable Aircraft: 1
+	Aircraft Space: 185
+	ValueDefault: 880000
+
+Name: Lyon(1943)
+	Size: 204L x 32W x 11H
+	Support Slot: 7
+	Require Level: 80
+	DP: 24000
+	Displacement: 36550
+	Turning: 18
+	OverHeat Ratio: 40
+	Launchable Aircraft: 1
+	Aircraft Space: 200
+	ValueDefault: 3000000
+
+Name: Gascogne(1941)
+	Size: 258L x 40W x 23H
+	Support Slot: 7
+	Require Level: 85
+	DP: 25800
+	Displacement: 50288
+	Turning: 19
+	OverHeat Ratio: 29
+	Launchable Aircraft: 1
+	Aircraft Space: 240
+	ValueDefault: 2800000
+
+Name: Scharnhorst(1942)
+	Size: 252L x 40W x 14H
+	Support Slot: 7
+	Require Level: 85
+	DP: 26000
+	Displacement: 53500
+	Turning: 21
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 200
+	ValueDefault: 0
+
+Name: Prinz Eugen (1942)
+	Size: 220L x 32W x 12H
+	Support Slot: 7
+	Require Level: 80
+	DP: 25000
+	Displacement: 42500
+	Turning: 19
+	OverHeat Ratio: 30
+	Launchable Aircraft: 2
+	Aircraft Space: 150
+	ValueDefault: 0
+
+Name: Novorossiysk
+	Size: 263L x 44W x 15H
+	Support Slot: 7
+	Require Level: 80
+	DP: 24200
+	Displacement: 41700
+	Turning: 20
+	OverHeat Ratio: 38
+	Launchable Aircraft: 1
+	Aircraft Space: 180
+	ValueDefault: 0
+
+Name: Project 21
+	Size: 261L x 44W x 13H
+	Support Slot: 8
+	Require Level: 85
+	DP: 24200
+	Displacement: 44150
+	Turning: 20
+	OverHeat Ratio: 38
+	Launchable Aircraft: 1
+	Aircraft Space: 200
+	ValueDefault: 0
+
+Name: Fr.Morosini
+	Size: 248L x 46W x 14H
+	Support Slot: 7
+	Require Level: 80
+	DP: 24100
+	Displacement: 41000
+	Turning: 18
+	OverHeat Ratio: 35
+	Launchable Aircraft: 1
+	Aircraft Space: 170
+	ValueDefault: 0
+
+Name: Caracciolo(1939)
+	Size: 248L x 46W x 14H
+	Support Slot: 7
+	Require Level: 85
+	DP: 24000
+	Displacement: 40150
+	Turning: 17
+	OverHeat Ratio: 35
+	Launchable Aircraft: 1
+	Aircraft Space: 170
+	ValueDefault: 0
