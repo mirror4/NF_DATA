@@ -9,7 +9,7 @@ Name: Frigate-01
 	OverHeat Ratio: 77
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 100
+	Cost: 100
 
 Name: Frigate-02
 	Size: 99L x 16W x 7H
@@ -21,7 +21,7 @@ Name: Frigate-02
 	OverHeat Ratio: 115
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 200
+	Cost: 200
 
 Name: Destroyer-01
 	Size: 111L x 17W x 7H
@@ -33,7 +33,7 @@ Name: Destroyer-01
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2000
+	Cost: 2000
 
 Name: O Class
 	Size: 116L x 20W x 9H
@@ -45,7 +45,7 @@ Name: O Class
 	OverHeat Ratio: 65
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 32760
+	Cost: 32760
 
 Name: Fletcher
 	Size: 136L x 20W x 9H
@@ -57,7 +57,7 @@ Name: Fletcher
 	OverHeat Ratio: 63
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 36504
+	Cost: 36504
 
 Name: Z1 Class
 	Size: 145L x 24W x 10H
@@ -69,7 +69,7 @@ Name: Z1 Class
 	OverHeat Ratio: 80
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 37440
+	Cost: 37440
 
 Name: Kagero
 	Size: 144L x 20W x 8H
@@ -81,7 +81,7 @@ Name: Kagero
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 35100
+	Cost: 35100
 
 Name: Gearing
 	Size: 141L x 24W x 13H
@@ -93,7 +93,7 @@ Name: Gearing
 	OverHeat Ratio: 48
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 47880
+	Cost: 47880
 
 Name: Tribal
 	Size: 129L x 24W x 8H
@@ -105,7 +105,7 @@ Name: Tribal
 	OverHeat Ratio: 58
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 45360
+	Cost: 45360
 
 Name: Akitsuki
 	Size: 150L x 24W x 8H
@@ -117,7 +117,7 @@ Name: Akitsuki
 	OverHeat Ratio: 33
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 51240
+	Cost: 51240
 
 Name: Z31 Class
 	Size: 148L x 24W x 10H
@@ -129,7 +129,7 @@ Name: Z31 Class
 	OverHeat Ratio: 63
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 50400
+	Cost: 50400
 
 Name: Fubuki
 	Size: 140L x 20W x 7H
@@ -141,7 +141,7 @@ Name: Fubuki
 	OverHeat Ratio: 78
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 49880
+	Cost: 49880
 
 Name: Simakaze
 	Size: 147L x 24W x 8H
@@ -153,7 +153,7 @@ Name: Simakaze
 	OverHeat Ratio: 90
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 249600
+	Cost: 249600
 
 Name: Dido
 	Size: 160L x 26W x 9H
@@ -165,7 +165,7 @@ Name: Dido
 	OverHeat Ratio: 53
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 133000
+	Cost: 133000
 
 Name: Agano
 	Size: 188L x 27W x 12H
@@ -177,7 +177,7 @@ Name: Agano
 	OverHeat Ratio: 73
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 157500
+	Cost: 157500
 
 Name: Koenigsberg
 	Size: 188L x 25W x 14H
@@ -189,7 +189,7 @@ Name: Koenigsberg
 	OverHeat Ratio: 55
 	Launchable Aircraft: 1
 	Aircraft Space: 100
-	ValueDefault: 161000
+	Cost: 161000
 
 Name: Atlanta
 	Size: 171L x 28W x 13H
@@ -201,7 +201,7 @@ Name: Atlanta
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 175000
+	Cost: 175000
 
 Name: Edinburgh
 	Size: 210L x 33W x 11H
@@ -213,7 +213,7 @@ Name: Edinburgh
 	OverHeat Ratio: 55
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 350000
+	Cost: 350000
 
 Name: Kuma
 	Size: 175L x 26W x 10H
@@ -225,7 +225,7 @@ Name: Kuma
 	OverHeat Ratio: 80
 	Launchable Aircraft: 1
 	Aircraft Space: 80
-	ValueDefault: 280000
+	Cost: 280000
 
 Name: Northampton
 	Size: 201L x 32W x 12H
@@ -237,7 +237,7 @@ Name: Northampton
 	OverHeat Ratio: 61
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 591500
+	Cost: 591500
 
 Name: County
 	Size: 214L x 30W x 11H
@@ -249,7 +249,7 @@ Name: County
 	OverHeat Ratio: 60
 	Launchable Aircraft: 1
 	Aircraft Space: 100
-	ValueDefault: 605500
+	Cost: 605500
 
 Name: Portland
 	Size: 201L x 32W x 12H
@@ -261,7 +261,7 @@ Name: Portland
 	OverHeat Ratio: 61
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 630000
+	Cost: 630000
 
 Name: Deutschland
 	Size: 208L x 29W x 12H
@@ -273,7 +273,7 @@ Name: Deutschland
 	OverHeat Ratio: 49
 	Launchable Aircraft: 1
 	Aircraft Space: 200
-	ValueDefault: 616000
+	Cost: 616000
 
 Name: New Orleans
 	Size: 201L x 37W x 14H
@@ -285,7 +285,7 @@ Name: New Orleans
 	OverHeat Ratio: 63
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 644000
+	Cost: 644000
 
 Name: Myoko
 	Size: 230L x 28W x 13H
@@ -297,7 +297,7 @@ Name: Myoko
 	OverHeat Ratio: 67
 	Launchable Aircraft: 2
 	Aircraft Space: 100
-	ValueDefault: 602000
+	Cost: 602000
 
 Name: Admiral Hipper
 	Size: 220L x 32W x 12H
@@ -309,7 +309,7 @@ Name: Admiral Hipper
 	OverHeat Ratio: 61
 	Launchable Aircraft: 1
 	Aircraft Space: 160
-	ValueDefault: 784000
+	Cost: 784000
 
 Name: Kongo
 	Size: 240L x 38W x 12H
@@ -321,7 +321,7 @@ Name: Kongo
 	OverHeat Ratio: 59
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 1001000
+	Cost: 1001000
 
 Name: Scharnhorst
 	Size: 252L x 40W x 14H
@@ -333,7 +333,7 @@ Name: Scharnhorst
 	OverHeat Ratio: 49
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 1260000
+	Cost: 1260000
 
 Name: Bogue
 	Size: 158L x 42W x 16H
@@ -345,7 +345,7 @@ Name: Bogue
 	OverHeat Ratio: 8
 	Launchable Aircraft: 6
 	Aircraft Space: 1850
-	ValueDefault: 1372000
+	Cost: 1372000
 
 Name: Attacker
 	Size: 158L x 42W x 16H
@@ -357,7 +357,7 @@ Name: Attacker
 	OverHeat Ratio: 8
 	Launchable Aircraft: 6
 	Aircraft Space: 2100
-	ValueDefault: 1372000
+	Cost: 1372000
 
 Name: Hosho
 	Size: 161L x 28W x 12H
@@ -369,7 +369,7 @@ Name: Hosho
 	OverHeat Ratio: 63
 	Launchable Aircraft: 6
 	Aircraft Space: 1600
-	ValueDefault: 1411200
+	Cost: 1411200
 
 Name: Gearing DDR
 	Size: 144L x 24W x 9H
@@ -381,7 +381,7 @@ Name: Gearing DDR
 	OverHeat Ratio: 48
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 52700
+	Cost: 52700
 
 Name: Timmerman
 	Size: 141L x 24W x 9H
@@ -393,7 +393,7 @@ Name: Timmerman
 	OverHeat Ratio: 78
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 59850
+	Cost: 59850
 
 Name: Akitsuki-Kai
 	Size: 150L x 24W x 8H
@@ -405,7 +405,7 @@ Name: Akitsuki-Kai
 	OverHeat Ratio: 65
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 58900
+	Cost: 58900
 
 Name: Z46 class
 	Size: 148L x 24W x 10H
@@ -417,7 +417,7 @@ Name: Z46 class
 	OverHeat Ratio: 73
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 55400
+	Cost: 55400
 
 Name: Z52 class
 	Size: 148L x 24W x 10H
@@ -429,7 +429,7 @@ Name: Z52 class
 	OverHeat Ratio: 73
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 55400
+	Cost: 55400
 
 Name: Somers
 	Size: 136L x 24W x 7H
@@ -441,7 +441,7 @@ Name: Somers
 	OverHeat Ratio: 68
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 72000
+	Cost: 72000
 
 Name: Mogami(1938)
 	Size: 228L x 30W x 16H
@@ -453,7 +453,7 @@ Name: Mogami(1938)
 	OverHeat Ratio: 32
 	Launchable Aircraft: 2
 	Aircraft Space: 165
-	ValueDefault: 550000
+	Cost: 550000
 
 Name: Mogami(1941)
 	Size: 228L x 30W x 16H
@@ -465,7 +465,7 @@ Name: Mogami(1941)
 	OverHeat Ratio: 43
 	Launchable Aircraft: 2
 	Aircraft Space: 165
-	ValueDefault: 823200
+	Cost: 823200
 
 Name: Mogami(1944)
 	Size: 228L x 30W x 16H
@@ -477,7 +477,7 @@ Name: Mogami(1944)
 	OverHeat Ratio: 43
 	Launchable Aircraft: 5
 	Aircraft Space: 1450
-	ValueDefault: 999600
+	Cost: 999600
 
 Name: Revenge
 	Size: 217L x 35W x 11H
@@ -489,7 +489,7 @@ Name: Revenge
 	OverHeat Ratio: 38
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 910000
+	Cost: 910000
 
 Name: Oakland
 	Size: 171L x 28W x 13H
@@ -501,7 +501,7 @@ Name: Oakland
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 227500
+	Cost: 227500
 
 Name: Juneau II
 	Size: 170L x 26W x 12H
@@ -513,7 +513,7 @@ Name: Juneau II
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 227500
+	Cost: 227500
 
 Name: Sirius
 	Size: 160L x 26W x 9H
@@ -525,7 +525,7 @@ Name: Sirius
 	OverHeat Ratio: 53
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 172900
+	Cost: 172900
 
 Name: Kitakami
 	Size: 170L x 20W x 11H
@@ -537,7 +537,7 @@ Name: Kitakami
 	OverHeat Ratio: 80
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 476000
+	Cost: 476000
 
 Name: Nevada
 	Size: 201L x 40W x 12H
@@ -549,7 +549,7 @@ Name: Nevada
 	OverHeat Ratio: 33
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 945000
+	Cost: 945000
 
 Name: Frigate-01 M1
 	Size: 99L x 16W x 7H
@@ -561,7 +561,7 @@ Name: Frigate-01 M1
 	OverHeat Ratio: 77
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150
+	Cost: 150
 
 Name: Frigate-01 M2
 	Size: 99L x 16W x 7H
@@ -573,7 +573,7 @@ Name: Frigate-01 M2
 	OverHeat Ratio: 38
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 151
+	Cost: 151
 
 Name: Frigate-01 M3
 	Size: 99L x 16W x 7H
@@ -585,7 +585,7 @@ Name: Frigate-01 M3
 	OverHeat Ratio: 115
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 152
+	Cost: 152
 
 Name: Frigate-02 M1
 	Size: 99L x 16W x 7H
@@ -597,7 +597,7 @@ Name: Frigate-02 M1
 	OverHeat Ratio: 115
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 250
+	Cost: 250
 
 Name: Frigate-02 M2
 	Size: 99L x 16W x 7H
@@ -609,7 +609,7 @@ Name: Frigate-02 M2
 	OverHeat Ratio: 77
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 251
+	Cost: 251
 
 Name: Frigate-02 M3
 	Size: 99L x 16W x 7H
@@ -621,7 +621,7 @@ Name: Frigate-02 M3
 	OverHeat Ratio: 154
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 252
+	Cost: 252
 
 Name: Destroyer-01 M1
 	Size: 111L x 17W x 7H
@@ -633,7 +633,7 @@ Name: Destroyer-01 M1
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2500
+	Cost: 2500
 
 Name: Destroyer-01 M2
 	Size: 111L x 17W x 7H
@@ -645,7 +645,7 @@ Name: Destroyer-01 M2
 	OverHeat Ratio: 58
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2600
+	Cost: 2600
 
 Name: Destroyer-01 M3
 	Size: 111L x 17W x 7H
@@ -657,7 +657,7 @@ Name: Destroyer-01 M3
 	OverHeat Ratio: 113
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2700
+	Cost: 2700
 
 Name: Destroyer-02
 	Size: 134L x 24W x 6H
@@ -669,7 +669,7 @@ Name: Destroyer-02
 	OverHeat Ratio: 68
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4000
+	Cost: 4000
 
 Name: Destroyer-02 M1
 	Size: 134L x 24W x 6H
@@ -681,7 +681,7 @@ Name: Destroyer-02 M1
 	OverHeat Ratio: 68
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4500
+	Cost: 4500
 
 Name: Destroyer-02 M2
 	Size: 134L x 24W x 6H
@@ -693,7 +693,7 @@ Name: Destroyer-02 M2
 	OverHeat Ratio: 40
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4600
+	Cost: 4600
 
 Name: Destroyer-02 M3
 	Size: 134L x 24W x 6H
@@ -705,7 +705,7 @@ Name: Destroyer-02 M3
 	OverHeat Ratio: 93
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4700
+	Cost: 4700
 
 Name: Spaehkreuzer(D38)
 	Size: 159L x 29W x 12H
@@ -717,7 +717,7 @@ Name: Spaehkreuzer(D38)
 	OverHeat Ratio: 42
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 70000
+	Cost: 70000
 
 Name: Spaehkreuzer(D40)
 	Size: 159L x 29W x 12H
@@ -729,7 +729,7 @@ Name: Spaehkreuzer(D40)
 	OverHeat Ratio: 82
 	Launchable Aircraft: 1
 	Aircraft Space: 80
-	ValueDefault: 100000
+	Cost: 100000
 
 Name: M Project
 	Size: 204L x 28W x 10H
@@ -741,7 +741,7 @@ Name: M Project
 	OverHeat Ratio: 55
 	Launchable Aircraft: 1
 	Aircraft Space: 100
-	ValueDefault: 225000
+	Cost: 225000
 
 Name: Brooklyn
 	Size: 201L x 31W x 18H
@@ -753,7 +753,7 @@ Name: Brooklyn
 	OverHeat Ratio: 55
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 385000
+	Cost: 385000
 
 Name: Colossus
 	Size: 222L x 32W x 18H
@@ -765,7 +765,7 @@ Name: Colossus
 	OverHeat Ratio: 20
 	Launchable Aircraft: 7
 	Aircraft Space: 3720
-	ValueDefault: 2479400
+	Cost: 2479400
 
 Name: Independence
 	Size: 215L x 39W x 16H
@@ -777,7 +777,7 @@ Name: Independence
 	OverHeat Ratio: 54
 	Launchable Aircraft: 7
 	Aircraft Space: 3780
-	ValueDefault: 2254000
+	Cost: 2254000
 
 Name: Ryujo
 	Size: 197L x 31W x 17H
@@ -789,7 +789,7 @@ Name: Ryujo
 	OverHeat Ratio: 39
 	Launchable Aircraft: 7
 	Aircraft Space: 3760
-	ValueDefault: 2125620
+	Cost: 2125620
 
 Name: Frigate-X
 	Size: 99L x 16W x 7H
@@ -801,7 +801,7 @@ Name: Frigate-X
 	OverHeat Ratio: 35
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 35200
+	Cost: 35200
 
 Name: Frigate-Y
 	Size: 99L x 16W x 7H
@@ -813,7 +813,7 @@ Name: Frigate-Y
 	OverHeat Ratio: 77
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 42000
+	Cost: 42000
 
 Name: Cleveland
 	Size: 203L x 30W x 20H
@@ -825,7 +825,7 @@ Name: Cleveland
 	OverHeat Ratio: 58
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 574000
+	Cost: 574000
 
 Name: Queen Elizabeth
 	Size: 222L x 40W x 12H
@@ -837,7 +837,7 @@ Name: Queen Elizabeth
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1312500
+	Cost: 1312500
 
 Name: Seydlitz
 	Size: 220L x 40W x 14H
@@ -849,7 +849,7 @@ Name: Seydlitz
 	OverHeat Ratio: 49
 	Launchable Aircraft: 7
 	Aircraft Space: 3700
-	ValueDefault: 2450000
+	Cost: 2450000
 
 Name: York
 	Size: 190L x 28W x 13H
@@ -861,7 +861,7 @@ Name: York
 	OverHeat Ratio: 60
 	Launchable Aircraft: 1
 	Aircraft Space: 100
-	ValueDefault: 540500
+	Cost: 540500
 
 Name: Pennsylvania(1930)
 	Size: 200L x 38W x 11H
@@ -873,7 +873,7 @@ Name: Pennsylvania(1930)
 	OverHeat Ratio: 26
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 1356000
+	Cost: 1356000
 
 Name: Pennsylvania(1943)
 	Size: 200L x 38W x 11H
@@ -885,7 +885,7 @@ Name: Pennsylvania(1943)
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1695300
+	Cost: 1695300
 
 Name: Renown
 	Size: 270L x 41W x 13H
@@ -897,7 +897,7 @@ Name: Renown
 	OverHeat Ratio: 43
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 854000
+	Cost: 854000
 
 Name: Nelson
 	Size: 235L x 40W x 13H
@@ -909,7 +909,7 @@ Name: Nelson
 	OverHeat Ratio: 41
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1501500
+	Cost: 1501500
 
 Name: Kuma-Kai
 	Size: 175L x 26W x 10H
@@ -921,7 +921,7 @@ Name: Kuma-Kai
 	OverHeat Ratio: 80
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 364000
+	Cost: 364000
 
 Name: Fuso
 	Size: 236L x 37W x 11H
@@ -933,7 +933,7 @@ Name: Fuso
 	OverHeat Ratio: 52
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1460500
+	Cost: 1460500
 
 Name: Surrey
 	Size: 195L x 30W x 10H
@@ -945,7 +945,7 @@ Name: Surrey
 	OverHeat Ratio: 51
 	Launchable Aircraft: 1
 	Aircraft Space: 100
-	ValueDefault: 621600
+	Cost: 621600
 
 Name: P Project
 	Size: 237L x 35W x 11H
@@ -957,7 +957,7 @@ Name: P Project
 	OverHeat Ratio: 63
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 896000
+	Cost: 896000
 
 Name: P Project II
 	Size: 237L x 35W x 11H
@@ -969,7 +969,7 @@ Name: P Project II
 	OverHeat Ratio: 70
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 1250000
+	Cost: 1250000
 
 Name: Baltimore
 	Size: 221L x 30W x 15H
@@ -981,7 +981,7 @@ Name: Baltimore
 	OverHeat Ratio: 64
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 756000
+	Cost: 756000
 
 Name: Frigate-11
 	Size: 99L x 16W x 7H
@@ -993,7 +993,7 @@ Name: Frigate-11
 	OverHeat Ratio: 28
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 5800
+	Cost: 5800
 
 Name: Frigate-21
 	Size: 99L x 16W x 7H
@@ -1005,7 +1005,7 @@ Name: Frigate-21
 	OverHeat Ratio: 54
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 6400
+	Cost: 6400
 
 Name: Oyodo
 	Size: 209L x 30W x 10H
@@ -1017,7 +1017,7 @@ Name: Oyodo
 	OverHeat Ratio: 73
 	Launchable Aircraft: 5
 	Aircraft Space: 1250
-	ValueDefault: 252000
+	Cost: 252000
 
 Name: O Project
 	Size: 276L x 34W x 13H
@@ -1029,7 +1029,7 @@ Name: O Project
 	OverHeat Ratio: 36
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1540000
+	Cost: 1540000
 
 Name: Alaska
 	Size: 279L x 39W x 11H
@@ -1041,7 +1041,7 @@ Name: Alaska
 	OverHeat Ratio: 61
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 910000
+	Cost: 910000
 
 Name: Courageous
 	Size: 266L x 38W x 12H
@@ -1053,7 +1053,7 @@ Name: Courageous
 	OverHeat Ratio: 49
 	Launchable Aircraft: 8
 	Aircraft Space: 4700
-	ValueDefault: 3430000
+	Cost: 3430000
 
 Name: Ise(1937)
 	Size: 232L x 43W x 15H
@@ -1065,7 +1065,7 @@ Name: Ise(1937)
 	OverHeat Ratio: 54
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1487400
+	Cost: 1487400
 
 Name: Ise(1943)
 	Size: 232L x 39W x 15H
@@ -1077,7 +1077,7 @@ Name: Ise(1943)
 	OverHeat Ratio: 54
 	Launchable Aircraft: 6
 	Aircraft Space: 2000
-	ValueDefault: 1859200
+	Cost: 1859200
 
 Name: Tennessee(1941)
 	Size: 213L x 39W x 9H
@@ -1089,7 +1089,7 @@ Name: Tennessee(1941)
 	OverHeat Ratio: 26
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 1400000
+	Cost: 1400000
 
 Name: Tennessee(1945)
 	Size: 213L x 42W x 9H
@@ -1101,7 +1101,7 @@ Name: Tennessee(1945)
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1750000
+	Cost: 1750000
 
 Name: Hood
 	Size: 308L x 40W x 13H
@@ -1113,7 +1113,7 @@ Name: Hood
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 1487500
+	Cost: 1487500
 
 Name: Prinz Eugen
 	Size: 220L x 32W x 12H
@@ -1125,7 +1125,7 @@ Name: Prinz Eugen
 	OverHeat Ratio: 61
 	Launchable Aircraft: 1
 	Aircraft Space: 160
-	ValueDefault: 1000000
+	Cost: 1000000
 
 Name: New Mexico(1930)
 	Size: 215L x 38W x 13H
@@ -1137,7 +1137,7 @@ Name: New Mexico(1930)
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 1470000
+	Cost: 1470000
 
 Name: New Mexico(1945)
 	Size: 215L x 38W x 13H
@@ -1149,7 +1149,7 @@ Name: New Mexico(1945)
 	OverHeat Ratio: 38
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1890000
+	Cost: 1890000
 
 Name: Nagato
 	Size: 241L x 44W x 13H
@@ -1161,7 +1161,7 @@ Name: Nagato
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 2307500
+	Cost: 2307500
 
 Name: Guam
 	Size: 279L x 39W x 11H
@@ -1173,7 +1173,7 @@ Name: Guam
 	OverHeat Ratio: 45
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 1211000
+	Cost: 1211000
 
 Name: Repulse
 	Size: 270L x 41W x 11H
@@ -1185,7 +1185,7 @@ Name: Repulse
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1190000
+	Cost: 1190000
 
 Name: Gneisenau
 	Size: 261L x 40W x 14H
@@ -1197,7 +1197,7 @@ Name: Gneisenau
 	OverHeat Ratio: 49
 	Launchable Aircraft: 2
 	Aircraft Space: 175
-	ValueDefault: 1610000
+	Cost: 1610000
 
 Name: King George V
 	Size: 244L x 42W x 15H
@@ -1209,7 +1209,7 @@ Name: King George V
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1520000
+	Cost: 1520000
 
 Name: Q Class
 	Size: 116L x 17W x 12H
@@ -1221,7 +1221,7 @@ Name: Q Class
 	OverHeat Ratio: 60
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 44460
+	Cost: 44460
 
 Name: Yorktown
 	Size: 279L x 39W x 26H
@@ -1233,7 +1233,7 @@ Name: Yorktown
 	OverHeat Ratio: 43
 	Launchable Aircraft: 8
 	Aircraft Space: 5860
-	ValueDefault: 3356000
+	Cost: 3356000
 
 Name: Hiryu
 	Size: 228L x 42W x 10H
@@ -1245,7 +1245,7 @@ Name: Hiryu
 	OverHeat Ratio: 38
 	Launchable Aircraft: 8
 	Aircraft Space: 5700
-	ValueDefault: 3263400
+	Cost: 3263400
 
 Name: Graf Zeppelin
 	Size: 280L x 42W x 20H
@@ -1257,7 +1257,7 @@ Name: Graf Zeppelin
 	OverHeat Ratio: 49
 	Launchable Aircraft: 8
 	Aircraft Space: 5200
-	ValueDefault: 3726000
+	Cost: 3726000
 
 Name: North Carolina
 	Size: 242L x 40W x 13H
@@ -1269,7 +1269,7 @@ Name: North Carolina
 	OverHeat Ratio: 26
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 2000000
+	Cost: 2000000
 
 Name: Destroyer MP
 	Size: 134L x 22W x 5H
@@ -1281,7 +1281,7 @@ Name: Destroyer MP
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Colorado
 	Size: 216L x 42W x 12H
@@ -1293,7 +1293,7 @@ Name: Colorado
 	OverHeat Ratio: 36
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1825000
+	Cost: 1825000
 
 Name: South Dakota
 	Size: 228L x 42W x 15H
@@ -1305,7 +1305,7 @@ Name: South Dakota
 	OverHeat Ratio: 40
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 2100000
+	Cost: 2100000
 
 Name: Junyo
 	Size: 227L x 41W x 14H
@@ -1317,7 +1317,7 @@ Name: Junyo
 	OverHeat Ratio: 48
 	Launchable Aircraft: 7
 	Aircraft Space: 4540
-	ValueDefault: 2691000
+	Cost: 2691000
 
 Name: Unryu
 	Size: 242L x 36W x 19H
@@ -1329,7 +1329,7 @@ Name: Unryu
 	OverHeat Ratio: 44
 	Launchable Aircraft: 8
 	Aircraft Space: 6100
-	ValueDefault: 3825000
+	Cost: 3825000
 
 Name: Initial 'B'
 	Size: 267L x 44W x 12H
@@ -1341,7 +1341,7 @@ Name: Initial 'B'
 	OverHeat Ratio: 49
 	Launchable Aircraft: 14
 	Aircraft Space: 9350
-	ValueDefault: 100000000
+	Cost: 100000000
 
 Name: Essex
 	Size: 306L x 55W x 24H
@@ -1353,7 +1353,7 @@ Name: Essex
 	OverHeat Ratio: 29
 	Launchable Aircraft: 9
 	Aircraft Space: 8200
-	ValueDefault: 4898800
+	Cost: 4898800
 
 Name: Illustrious
 	Size: 242L x 36W x 19H
@@ -1365,7 +1365,7 @@ Name: Illustrious
 	OverHeat Ratio: 31
 	Launchable Aircraft: 8
 	Aircraft Space: 5980
-	ValueDefault: 4261750
+	Cost: 4261750
 
 Name: Akagi(1927)
 	Size: 304L x 45W x 24H
@@ -1377,7 +1377,7 @@ Name: Akagi(1927)
 	OverHeat Ratio: 25
 	Launchable Aircraft: 8
 	Aircraft Space: 7320
-	ValueDefault: 4157370
+	Cost: 4157370
 
 Name: Taiho
 	Size: 299L x 39W x 25H
@@ -1389,7 +1389,7 @@ Name: Taiho
 	OverHeat Ratio: 30
 	Launchable Aircraft: 9
 	Aircraft Space: 7380
-	ValueDefault: 4864500
+	Cost: 4864500
 
 Name: Bismarck
 	Size: 267L x 44W x 12H
@@ -1401,7 +1401,7 @@ Name: Bismarck
 	OverHeat Ratio: 31
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 2350000
+	Cost: 2350000
 
 Name: O Project II
 	Size: 290L x 40W x 13H
@@ -1413,7 +1413,7 @@ Name: O Project II
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 2325000
+	Cost: 2325000
 
 Name: Vanguard
 	Size: 264L x 42W x 13H
@@ -1425,7 +1425,7 @@ Name: Vanguard
 	OverHeat Ratio: 27
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 2475000
+	Cost: 2475000
 
 Name: Iowa
 	Size: 311L x 39W x 10H
@@ -1437,7 +1437,7 @@ Name: Iowa
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 2510000
+	Cost: 2510000
 
 Name: Lion I
 	Size: 269L x 45W x 12H
@@ -1449,7 +1449,7 @@ Name: Lion I
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 2500000
+	Cost: 2500000
 
 Name: Yamato
 	Size: 300L x 49W x 14H
@@ -1461,7 +1461,7 @@ Name: Yamato
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 280
-	ValueDefault: 2766000
+	Cost: 2766000
 
 Name: H39 Class
 	Size: 318L x 44W x 17H
@@ -1473,7 +1473,7 @@ Name: H39 Class
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 195
-	ValueDefault: 2686000
+	Cost: 2686000
 
 Name: Akagi(1938)
 	Size: 308L x 47W x 24H
@@ -1485,7 +1485,7 @@ Name: Akagi(1938)
 	OverHeat Ratio: 25
 	Launchable Aircraft: 9
 	Aircraft Space: 7620
-	ValueDefault: 5196690
+	Cost: 5196690
 
 Name: Ark Royal
 	Size: 272L x 38W x 22H
@@ -1497,7 +1497,7 @@ Name: Ark Royal
 	OverHeat Ratio: 27
 	Launchable Aircraft: 9
 	Aircraft Space: 7900
-	ValueDefault: 5271250
+	Cost: 5271250
 
 Name: Graf Zeppelin II
 	Size: 288L x 44W x 22H
@@ -1509,7 +1509,7 @@ Name: Graf Zeppelin II
 	OverHeat Ratio: 28
 	Launchable Aircraft: 9
 	Aircraft Space: 7400
-	ValueDefault: 4522500
+	Cost: 4522500
 
 Name: Kaga(1928)
 	Size: 280L x 41W x 14H
@@ -1521,7 +1521,7 @@ Name: Kaga(1928)
 	OverHeat Ratio: 28
 	Launchable Aircraft: 9
 	Aircraft Space: 8200
-	ValueDefault: 5400000
+	Cost: 5400000
 
 Name: Shokaku
 	Size: 297L x 37W x 19H
@@ -1533,7 +1533,7 @@ Name: Shokaku
 	OverHeat Ratio: 30
 	Launchable Aircraft: 10
 	Aircraft Space: 9600
-	ValueDefault: 5467500
+	Cost: 5467500
 
 Name: Prince Of Wales
 	Size: 244L x 42W x 15H
@@ -1545,7 +1545,7 @@ Name: Prince Of Wales
 	OverHeat Ratio: 40
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 1700000
+	Cost: 1700000
 
 Name: Tsukikei
 	Size: 156L x 26W x 14H
@@ -1557,7 +1557,7 @@ Name: Tsukikei
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 65000
+	Cost: 65000
 
 Name: DDX Project
 	Size: 136L x 24W x 9H
@@ -1569,7 +1569,7 @@ Name: DDX Project
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 73000
+	Cost: 73000
 
 Name: L Class
 	Size: 130L x 22W x 13H
@@ -1581,7 +1581,7 @@ Name: L Class
 	OverHeat Ratio: 65
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 67000
+	Cost: 67000
 
 Name: Tatsuda
 	Size: 158L x 26W x 10H
@@ -1593,7 +1593,7 @@ Name: Tatsuda
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 80000
+	Cost: 80000
 
 Name: Z99 Class
 	Size: 148L x 23W x 12H
@@ -1605,7 +1605,7 @@ Name: Z99 Class
 	OverHeat Ratio: 73
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 60000
+	Cost: 60000
 
 Name: Randall_MissionShip
 	Size: 155L x 26W x 20H
@@ -1617,7 +1617,7 @@ Name: Randall_MissionShip
 	OverHeat Ratio: 27
 	Launchable Aircraft: 100
 	Aircraft Space: 0
-	ValueDefault: 90000
+	Cost: 90000
 
 Name: Texas
 	Size: 97L x 19W x 8H
@@ -1629,7 +1629,7 @@ Name: Texas
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Tiger
 	Size: 120L x 21W x 15H
@@ -1641,7 +1641,7 @@ Name: Tiger
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Dhonburi
 	Size: 97L x 23W x 7H
@@ -1653,7 +1653,7 @@ Name: Dhonburi
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Bayern
 	Size: 130L x 22W x 7H
@@ -1665,7 +1665,7 @@ Name: Bayern
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Pensacola
 	Size: 192L x 28W x 11H
@@ -1677,7 +1677,7 @@ Name: Pensacola
 	OverHeat Ratio: 43
 	Launchable Aircraft: 2
 	Aircraft Space: 160
-	ValueDefault: 0
+	Cost: 0
 
 Name: Furious
 	Size: 272L x 34W x 12H
@@ -1689,7 +1689,7 @@ Name: Furious
 	OverHeat Ratio: 43
 	Launchable Aircraft: 2
 	Aircraft Space: 160
-	ValueDefault: 0
+	Cost: 0
 
 Name: Asama
 	Size: 232L x 36W x 15H
@@ -1701,7 +1701,7 @@ Name: Asama
 	OverHeat Ratio: 46
 	Launchable Aircraft: 2
 	Aircraft Space: 160
-	ValueDefault: 0
+	Cost: 0
 
 Name: Moltke
 	Size: 215L x 30W x 13H
@@ -1713,7 +1713,7 @@ Name: Moltke
 	OverHeat Ratio: 46
 	Launchable Aircraft: 2
 	Aircraft Space: 160
-	ValueDefault: 0
+	Cost: 0
 
 Name: Lexington_MissionShip
 	Size: 312L x 38W x 16H
@@ -1725,7 +1725,7 @@ Name: Lexington_MissionShip
 	OverHeat Ratio: 30
 	Launchable Aircraft: 10
 	Aircraft Space: 12000
-	ValueDefault: 6000000
+	Cost: 6000000
 
 Name: FordBase
 	Size: 158L x 42W x 16H
@@ -1737,7 +1737,7 @@ Name: FordBase
 	OverHeat Ratio: 8
 	Launchable Aircraft: 10
 	Aircraft Space: 34464
-	ValueDefault: 8500000
+	Cost: 8500000
 
 Name: MS_PE
 	Size: 220L x 32W x 12H
@@ -1749,7 +1749,7 @@ Name: MS_PE
 	OverHeat Ratio: 61
 	Launchable Aircraft: 0
 	Aircraft Space: 200
-	ValueDefault: 8000000
+	Cost: 8000000
 
 Name: MS_GS
 	Size: 208L x 29W x 12H
@@ -1761,7 +1761,7 @@ Name: MS_GS
 	OverHeat Ratio: 49
 	Launchable Aircraft: 0
 	Aircraft Space: 100
-	ValueDefault: 8000000
+	Cost: 8000000
 
 Name: Omaha
 	Size: 195L x 32W x 18H
@@ -1773,7 +1773,7 @@ Name: Omaha
 	OverHeat Ratio: 20
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 110000
+	Cost: 110000
 
 Name: Emerald
 	Size: 184L x 27W x 25H
@@ -1785,7 +1785,7 @@ Name: Emerald
 	OverHeat Ratio: 36
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 100000
+	Cost: 100000
 
 Name: Yubari
 	Size: 176L x 23W x 30H
@@ -1797,7 +1797,7 @@ Name: Yubari
 	OverHeat Ratio: 36
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 70000
+	Cost: 70000
 
 Name: Emden
 	Size: 178L x 27W x 22H
@@ -1809,7 +1809,7 @@ Name: Emden
 	OverHeat Ratio: 20
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 90000
+	Cost: 90000
 
 Name: Montana
 	Size: 320L x 46W x 15H
@@ -1821,7 +1821,7 @@ Name: Montana
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 275
-	ValueDefault: 4312500
+	Cost: 4312500
 
 Name: Lion II
 	Size: 275L x 44W x 13H
@@ -1833,7 +1833,7 @@ Name: Lion II
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 4125000
+	Cost: 4125000
 
 Name: Super Yamato
 	Size: 300L x 49W x 14H
@@ -1845,7 +1845,7 @@ Name: Super Yamato
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 4500000
+	Cost: 4500000
 
 Name: H44 Class
 	Size: 320L x 48W x 14H
@@ -1857,7 +1857,7 @@ Name: H44 Class
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 4432500
+	Cost: 4432500
 
 Name: Lexington
 	Size: 312L x 38W x 16H
@@ -1869,7 +1869,7 @@ Name: Lexington
 	OverHeat Ratio: 28
 	Launchable Aircraft: 10
 	Aircraft Space: 9840
-	ValueDefault: 6642000
+	Cost: 6642000
 
 Name: Malta Project
 	Size: 320L x 48W x 19H
@@ -1881,7 +1881,7 @@ Name: Malta Project
 	OverHeat Ratio: 28
 	Launchable Aircraft: 10
 	Aircraft Space: 9700
-	ValueDefault: 6986000
+	Cost: 6986000
 
 Name: Kaga(1935)
 	Size: 284L x 40W x 24H
@@ -1893,7 +1893,7 @@ Name: Kaga(1935)
 	OverHeat Ratio: 28
 	Launchable Aircraft: 10
 	Aircraft Space: 9800
-	ValueDefault: 6417000
+	Cost: 6417000
 
 Name: Shinano.CV
 	Size: 305L x 52W x 21H
@@ -1905,7 +1905,7 @@ Name: Shinano.CV
 	OverHeat Ratio: 28
 	Launchable Aircraft: 10
 	Aircraft Space: 10900
-	ValueDefault: 6615000
+	Cost: 6615000
 
 Name: Europa
 	Size: 333L x 42W x 15H
@@ -1917,7 +1917,7 @@ Name: Europa
 	OverHeat Ratio: 28
 	Launchable Aircraft: 10
 	Aircraft Space: 9600
-	ValueDefault: 6174500
+	Cost: 6174500
 
 Name: Nevada
 	Size: 201L x 40W x 12H
@@ -1929,7 +1929,7 @@ Name: Nevada
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 350000
+	Cost: 350000
 
 Name: Colorado
 	Size: 216L x 42W x 12H
@@ -1941,7 +1941,7 @@ Name: Colorado
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 420000
+	Cost: 420000
 
 Name: New Mexico(1945)
 	Size: 215L x 38W x 13H
@@ -1953,7 +1953,7 @@ Name: New Mexico(1945)
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 580000
+	Cost: 580000
 
 Name: North Carolina
 	Size: 242L x 40W x 13H
@@ -1965,7 +1965,7 @@ Name: North Carolina
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 690000
+	Cost: 690000
 
 Name: Massachusetts
 	Size: 228L x 42W x 15H
@@ -1977,7 +1977,7 @@ Name: Massachusetts
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 690000
+	Cost: 690000
 
 Name: Iowa
 	Size: 311L x 39W x 10H
@@ -1989,7 +1989,7 @@ Name: Iowa
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 850000
+	Cost: 850000
 
 Name: Montana
 	Size: 320L x 46W x 30H
@@ -2001,7 +2001,7 @@ Name: Montana
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 960000
+	Cost: 960000
 
 Name: Randall
 	Size: 155L x 26W x 20H
@@ -2013,7 +2013,7 @@ Name: Randall
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: Revenge
 	Size: 217L x 35W x 11H
@@ -2025,7 +2025,7 @@ Name: Revenge
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 320000
+	Cost: 320000
 
 Name: Queen Elizabeth
 	Size: 222L x 40W x 12H
@@ -2037,7 +2037,7 @@ Name: Queen Elizabeth
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 470000
+	Cost: 470000
 
 Name: Hood
 	Size: 308L x 40W x 13H
@@ -2049,7 +2049,7 @@ Name: Hood
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 570000
+	Cost: 570000
 
 Name: King George V
 	Size: 244L x 42W x 15H
@@ -2061,7 +2061,7 @@ Name: King George V
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 680000
+	Cost: 680000
 
 Name: Rodney
 	Size: 235L x 40W x 13H
@@ -2073,7 +2073,7 @@ Name: Rodney
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 680000
+	Cost: 680000
 
 Name: Vanguard
 	Size: 264L x 42W x 13H
@@ -2085,7 +2085,7 @@ Name: Vanguard
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 820000
+	Cost: 820000
 
 Name: Lion II
 	Size: 275L x 44W x 13H
@@ -2097,7 +2097,7 @@ Name: Lion II
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 980000
+	Cost: 980000
 
 Name: Pitt
 	Size: 155L x 26W x 20H
@@ -2109,7 +2109,7 @@ Name: Pitt
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: Kongo
 	Size: 240L x 38W x 12H
@@ -2121,7 +2121,7 @@ Name: Kongo
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 310000
+	Cost: 310000
 
 Name: Ise (1937)
 	Size: 232L x 43W x 15H
@@ -2133,7 +2133,7 @@ Name: Ise (1937)
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 450000
+	Cost: 450000
 
 Name: Fuso
 	Size: 236L x 37W x 11H
@@ -2145,7 +2145,7 @@ Name: Fuso
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 610000
+	Cost: 610000
 
 Name: Nagato
 	Size: 241L x 44W x 13H
@@ -2157,7 +2157,7 @@ Name: Nagato
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 720000
+	Cost: 720000
 
 Name: Mutsu
 	Size: 241L x 44W x 13H
@@ -2169,7 +2169,7 @@ Name: Mutsu
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 720000
+	Cost: 720000
 
 Name: Yamato
 	Size: 300L x 49W x 14H
@@ -2181,7 +2181,7 @@ Name: Yamato
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 860000
+	Cost: 860000
 
 Name: Super Yamato
 	Size: 300L x 49W x 14H
@@ -2193,7 +2193,7 @@ Name: Super Yamato
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 940000
+	Cost: 940000
 
 Name: Shinshumaru
 	Size: 155L x 26W x 20H
@@ -2205,7 +2205,7 @@ Name: Shinshumaru
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: Scharnhorst
 	Size: 252L x 40W x 14H
@@ -2217,7 +2217,7 @@ Name: Scharnhorst
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 330000
+	Cost: 330000
 
 Name: Gneisenau
 	Size: 261L x 40W x 14H
@@ -2229,7 +2229,7 @@ Name: Gneisenau
 	OverHeat Ratio: 3
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 480000
+	Cost: 480000
 
 Name: O Project II
 	Size: 276L x 34W x 13H
@@ -2241,7 +2241,7 @@ Name: O Project II
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 550000
+	Cost: 550000
 
 Name: Bismarck
 	Size: 267L x 44W x 12H
@@ -2253,7 +2253,7 @@ Name: Bismarck
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 730000
+	Cost: 730000
 
 Name: Tirpitz
 	Size: 267L x 44W x 12H
@@ -2265,7 +2265,7 @@ Name: Tirpitz
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 730000
+	Cost: 730000
 
 Name: H39 Class
 	Size: 318L x 44W x 17H
@@ -2277,7 +2277,7 @@ Name: H39 Class
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 840000
+	Cost: 840000
 
 Name: H44 Class
 	Size: 320L x 48W x 14H
@@ -2289,7 +2289,7 @@ Name: H44 Class
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 950000
+	Cost: 950000
 
 Name: Atlantis
 	Size: 155L x 26W x 20H
@@ -2301,7 +2301,7 @@ Name: Atlantis
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: Omaha Minelayer
 	Size: 195L x 32W x 18H
@@ -2313,7 +2313,7 @@ Name: Omaha Minelayer
 	OverHeat Ratio: 18
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 100000
+	Cost: 100000
 
 Name: Emerald Minelayer
 	Size: 184L x 27W x 25H
@@ -2325,7 +2325,7 @@ Name: Emerald Minelayer
 	OverHeat Ratio: 15
 	Launchable Aircraft: 1
 	Aircraft Space: 80
-	ValueDefault: 100000
+	Cost: 100000
 
 Name: Yubari Minelayer
 	Size: 176L x 23W x 30H
@@ -2337,7 +2337,7 @@ Name: Yubari Minelayer
 	OverHeat Ratio: 8
 	Launchable Aircraft: 1
 	Aircraft Space: 80
-	ValueDefault: 100000
+	Cost: 100000
 
 Name: Emden Minelayer
 	Size: 178L x 27W x 22H
@@ -2349,7 +2349,7 @@ Name: Emden Minelayer
 	OverHeat Ratio: 15
 	Launchable Aircraft: 1
 	Aircraft Space: 80
-	ValueDefault: 100000
+	Cost: 100000
 
 Name: USN_Sevastopol
 	Size: 219L x 36W x 12H
@@ -2361,7 +2361,7 @@ Name: USN_Sevastopol
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: RN_Dunkerque
 	Size: 242L x 44W x 13H
@@ -2373,7 +2373,7 @@ Name: RN_Dunkerque
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: B65 Project
 	Size: 276L x 47W x 11H
@@ -2385,7 +2385,7 @@ Name: B65 Project
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: KM_Andrea Doria
 	Size: 214L x 36W x 11H
@@ -2397,7 +2397,7 @@ Name: KM_Andrea Doria
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Turtle Ship 
 	Size: 125L x 34W x 34H
@@ -2409,7 +2409,7 @@ Name: Turtle Ship
 	OverHeat Ratio: 93
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: New York
 	Size: 201L x 36W x 22H
@@ -2421,7 +2421,7 @@ Name: New York
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Dreadnought
 	Size: 184L x 30W x 22H
@@ -2433,7 +2433,7 @@ Name: Dreadnought
 	OverHeat Ratio: 43
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Mikasa
 	Size: 158L x 34W x 10H
@@ -2445,7 +2445,7 @@ Name: Mikasa
 	OverHeat Ratio: 43
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Nassau
 	Size: 165L x 38W x 11H
@@ -2457,7 +2457,7 @@ Name: Nassau
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Nebraska
 	Size: 321L x 43W x 14H
@@ -2469,7 +2469,7 @@ Name: Nebraska
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Queen Victoria
 	Size: 310L x 41W x 13H
@@ -2481,7 +2481,7 @@ Name: Queen Victoria
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Amagi
 	Size: 319L x 44W x 16H
@@ -2493,7 +2493,7 @@ Name: Amagi
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 385
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Kaiser
 	Size: 321L x 42W x 17H
@@ -2505,7 +2505,7 @@ Name: Kaiser
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 290
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Midway
 	Size: 326L x 47W x 20H
@@ -2517,7 +2517,7 @@ Name: Midway
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Midway
 	Size: 326L x 47W x 20H
@@ -2529,7 +2529,7 @@ Name: Midway
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: De Grasse
 	Size: 337L x 42W x 22H
@@ -2541,7 +2541,7 @@ Name: De Grasse
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: De Grasse
 	Size: 337L x 42W x 22H
@@ -2553,7 +2553,7 @@ Name: De Grasse
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Super Yamato.M
 	Size: 300L x 49W x 14H
@@ -2565,7 +2565,7 @@ Name: Super Yamato.M
 	OverHeat Ratio: 22
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 10
+	Cost: 10
 
 Name: O Type
 	Size: 115L x 22W x 8H
@@ -2577,7 +2577,7 @@ Name: O Type
 	OverHeat Ratio: 53
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 462000
+	Cost: 462000
 
 Name: H Type
 	Size: 113L x 23W x 6H
@@ -2589,7 +2589,7 @@ Name: H Type
 	OverHeat Ratio: 60
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 420000
+	Cost: 420000
 
 Name: Vickers L3
 	Size: 120L x 24W x 6H
@@ -2601,7 +2601,7 @@ Name: Vickers L3
 	OverHeat Ratio: 28
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 336000
+	Cost: 336000
 
 Name: Type - II
 	Size: 97L x 18W x 4H
@@ -2613,7 +2613,7 @@ Name: Type - II
 	OverHeat Ratio: 35
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 270000
+	Cost: 270000
 
 Name: S Type
 	Size: 137L x 22W x 7H
@@ -2625,7 +2625,7 @@ Name: S Type
 	OverHeat Ratio: 56
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 726000
+	Cost: 726000
 
 Name: Oberon
 	Size: 131L x 24W x 6H
@@ -2637,7 +2637,7 @@ Name: Oberon
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 746000
+	Cost: 746000
 
 Name: Junsen Type - I
 	Size: 152L x 22W x 9H
@@ -2649,7 +2649,7 @@ Name: Junsen Type - I
 	OverHeat Ratio: 43
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 790000
+	Cost: 790000
 
 Name: Type - VIIA
 	Size: 131L x 20W x 6H
@@ -2661,7 +2661,7 @@ Name: Type - VIIA
 	OverHeat Ratio: 46
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 650000
+	Cost: 650000
 
 Name: Barracuda
 	Size: 151L x 22W x 11H
@@ -2673,7 +2673,7 @@ Name: Barracuda
 	OverHeat Ratio: 59
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1163000
+	Cost: 1163000
 
 Name: P Type
 	Size: 135L x 24W x 5H
@@ -2685,7 +2685,7 @@ Name: P Type
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1260000
+	Cost: 1260000
 
 Name: Kaidai - VIA
 	Size: 161L x 23W x 8H
@@ -2697,7 +2697,7 @@ Name: Kaidai - VIA
 	OverHeat Ratio: 45
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1420000
+	Cost: 1420000
 
 Name: Type - VIIC
 	Size: 135L x 20W x 7H
@@ -2709,7 +2709,7 @@ Name: Type - VIIC
 	OverHeat Ratio: 49
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1200000
+	Cost: 1200000
 
 Name: Ticonderoga
 	Size: 310L x 44W x 20H
@@ -2721,7 +2721,7 @@ Name: Ticonderoga
 	OverHeat Ratio: 40
 	Launchable Aircraft: 11
 	Aircraft Space: 11800
-	ValueDefault: 0
+	Cost: 0
 
 Name: Implacable
 	Size: 267L x 47W x 16H
@@ -2733,7 +2733,7 @@ Name: Implacable
 	OverHeat Ratio: 40
 	Launchable Aircraft: 11
 	Aircraft Space: 11650
-	ValueDefault: 0
+	Cost: 0
 
 Name: Zuikaku
 	Size: 293L x 38W x 17H
@@ -2745,7 +2745,7 @@ Name: Zuikaku
 	OverHeat Ratio: 40
 	Launchable Aircraft: 11
 	Aircraft Space: 12000
-	ValueDefault: 0
+	Cost: 0
 
 Name: Hindenburg
 	Size: 289L x 40W x 20H
@@ -2757,7 +2757,7 @@ Name: Hindenburg
 	OverHeat Ratio: 40
 	Launchable Aircraft: 11
 	Aircraft Space: 11500
-	ValueDefault: 0
+	Cost: 0
 
 Name: Jaguar
 	Size: 133L x 22W x 10H
@@ -2769,7 +2769,7 @@ Name: Jaguar
 	OverHeat Ratio: 64
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 37000
+	Cost: 37000
 
 Name: L'Adroit
 	Size: 113L x 20W x 14H
@@ -2781,7 +2781,7 @@ Name: L'Adroit
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 53000
+	Cost: 53000
 
 Name: Le Fantasque
 	Size: 140L x 26W x 12H
@@ -2793,7 +2793,7 @@ Name: Le Fantasque
 	OverHeat Ratio: 71
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 41000
+	Cost: 41000
 
 Name: Mogador
 	Size: 145L x 24W x 12H
@@ -2805,7 +2805,7 @@ Name: Mogador
 	OverHeat Ratio: 69
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 60000
+	Cost: 60000
 
 Name: Pluton
 	Size: 152L x 24W x 11H
@@ -2817,7 +2817,7 @@ Name: Pluton
 	OverHeat Ratio: 52
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 145000
+	Cost: 145000
 
 Name: Duguay Trouin
 	Size: 191L x 26W x 16H
@@ -2829,7 +2829,7 @@ Name: Duguay Trouin
 	OverHeat Ratio: 54
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 178000
+	Cost: 178000
 
 Name: Jeanne D' Arc
 	Size: 179L x 26W x 13H
@@ -2841,7 +2841,7 @@ Name: Jeanne D' Arc
 	OverHeat Ratio: 62
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 211000
+	Cost: 211000
 
 Name: Emile Bertin
 	Size: 186L x 32W x 17H
@@ -2853,7 +2853,7 @@ Name: Emile Bertin
 	OverHeat Ratio: 52
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 309000
+	Cost: 309000
 
 Name: La Galissonniere
 	Size: 188L x 28W x 11H
@@ -2865,7 +2865,7 @@ Name: La Galissonniere
 	OverHeat Ratio: 52
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 407000
+	Cost: 407000
 
 Name: Suffren
 	Size: 206L x 31W x 14H
@@ -2877,7 +2877,7 @@ Name: Suffren
 	OverHeat Ratio: 48
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 420000
+	Cost: 420000
 
 Name: Algerie
 	Size: 194L x 34W x 11H
@@ -2889,7 +2889,7 @@ Name: Algerie
 	OverHeat Ratio: 52
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 680000
+	Cost: 680000
 
 Name: Tourville
 	Size: 202L x 28W x 13H
@@ -2901,7 +2901,7 @@ Name: Tourville
 	OverHeat Ratio: 48
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 633000
+	Cost: 633000
 
 Name: Bretagne
 	Size: 175L x 39W x 11H
@@ -2913,7 +2913,7 @@ Name: Bretagne
 	OverHeat Ratio: 40
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 1006250
+	Cost: 1006250
 
 Name: Courbet
 	Size: 175L x 40W x 14H
@@ -2925,7 +2925,7 @@ Name: Courbet
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 1439450
+	Cost: 1439450
 
 Name: Normandie
 	Size: 179L x 28W x 10H
@@ -2937,7 +2937,7 @@ Name: Normandie
 	OverHeat Ratio: 45
 	Launchable Aircraft: 2
 	Aircraft Space: 175
-	ValueDefault: 1124375
+	Cost: 1124375
 
 Name: Lyon
 	Size: 203L x 32W x 10H
@@ -2949,7 +2949,7 @@ Name: Lyon
 	OverHeat Ratio: 45
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1483125
+	Cost: 1483125
 
 Name: Lorraine
 	Size: 175L x 34W x 11H
@@ -2961,7 +2961,7 @@ Name: Lorraine
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 175
-	ValueDefault: 1610600
+	Cost: 1610600
 
 Name: Paris
 	Size: 202L x 38W x 12H
@@ -2973,7 +2973,7 @@ Name: Paris
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 175
-	ValueDefault: 1877625
+	Cost: 1877625
 
 Name: StrasBourg
 	Size: 228L x 34W x 11H
@@ -2985,7 +2985,7 @@ Name: StrasBourg
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 2301875
+	Cost: 2301875
 
 Name: Richelieu
 	Size: 261L x 44W x 15H
@@ -2997,7 +2997,7 @@ Name: Richelieu
 	OverHeat Ratio: 29
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 2615500
+	Cost: 2615500
 
 Name: Alsace
 	Size: 265L x 44W x 16H
@@ -3009,7 +3009,7 @@ Name: Alsace
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 4200000
+	Cost: 4200000
 
 Name: Dixmude
 	Size: 151L x 31W x 15H
@@ -3021,7 +3021,7 @@ Name: Dixmude
 	OverHeat Ratio: 8
 	Launchable Aircraft: 6
 	Aircraft Space: 1980
-	ValueDefault: 1764000
+	Cost: 1764000
 
 Name: Bearn
 	Size: 194L x 39W x 17H
@@ -3033,7 +3033,7 @@ Name: Bearn
 	OverHeat Ratio: 32
 	Launchable Aircraft: 7
 	Aircraft Space: 4340
-	ValueDefault: 3118925
+	Cost: 3118925
 
 Name: Joffre
 	Size: 249L x 37W x 15H
@@ -3045,7 +3045,7 @@ Name: Joffre
 	OverHeat Ratio: 28
 	Launchable Aircraft: 9
 	Aircraft Space: 7800
-	ValueDefault: 4797625
+	Cost: 4797625
 
 Name: Arromanches
 	Size: 223L x 46W x 15H
@@ -3057,7 +3057,7 @@ Name: Arromanches
 	OverHeat Ratio: 36
 	Launchable Aircraft: 10
 	Aircraft Space: 9900
-	ValueDefault: 6788125
+	Cost: 6788125
 
 Name: Belfort
 	Size: 155L x 26W x 20H
@@ -3069,7 +3069,7 @@ Name: Belfort
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: Sirene
 	Size: 116L x 14W x 6H
@@ -3081,7 +3081,7 @@ Name: Sirene
 	OverHeat Ratio: 49
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 372000
+	Cost: 372000
 
 Name: Requin
 	Size: 141L x 22W x 5H
@@ -3093,7 +3093,7 @@ Name: Requin
 	OverHeat Ratio: 49
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 728000
+	Cost: 728000
 
 Name: Redoutable
 	Size: 166L x 17W x 9H
@@ -3105,7 +3105,7 @@ Name: Redoutable
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1260750
+	Cost: 1260750
 
 Name: Cachalot
 	Size: 139L x 19W x 10H
@@ -3117,7 +3117,7 @@ Name: Cachalot
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1630000
+	Cost: 1630000
 
 Name: R Type
 	Size: 149L x 22W x 7H
@@ -3129,7 +3129,7 @@ Name: R Type
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1765000
+	Cost: 1765000
 
 Name: HEI Type I
 	Size: 158L x 22W x 9H
@@ -3141,7 +3141,7 @@ Name: HEI Type I
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1990000
+	Cost: 1990000
 
 Name: MN_Dunkerque
 	Size: 242L x 44W x 13H
@@ -3153,7 +3153,7 @@ Name: MN_Dunkerque
 	OverHeat Ratio: 43
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Type U - Flak I
 	Size: 135L x 21W x 6H
@@ -3165,7 +3165,7 @@ Name: Type U - Flak I
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1680000
+	Cost: 1680000
 
 Name: Argonaute
 	Size: 119L x 18W x 5H
@@ -3177,7 +3177,7 @@ Name: Argonaute
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1765000
+	Cost: 1765000
 
 Name: Mississippi
 	Size: 215L x 38W x 13H
@@ -3189,7 +3189,7 @@ Name: Mississippi
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 0
+	Cost: 0
 
 Name: Resolution
 	Size: 217L x 35W x 11H
@@ -3201,7 +3201,7 @@ Name: Resolution
 	OverHeat Ratio: 38
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 0
+	Cost: 0
 
 Name: Haruna
 	Size: 240L x 38W x 12H
@@ -3213,7 +3213,7 @@ Name: Haruna
 	OverHeat Ratio: 59
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 0
+	Cost: 0
 
 Name: Gneisenau (1943)
 	Size: 261L x 40W x 14H
@@ -3225,7 +3225,7 @@ Name: Gneisenau (1943)
 	OverHeat Ratio: 49
 	Launchable Aircraft: 2
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Le Havre
 	Size: 203L x 32W x 10H
@@ -3237,7 +3237,7 @@ Name: Le Havre
 	OverHeat Ratio: 45
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Reynaud
 	Size: 178L x 27W x 22H
@@ -3249,7 +3249,7 @@ Name: Reynaud
 	OverHeat Ratio: 52
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 120000
+	Cost: 120000
 
 Name: Gamelin
 	Size: 103L x 22W x 7H
@@ -3261,7 +3261,7 @@ Name: Gamelin
 	OverHeat Ratio: 52
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Mandel
 	Size: 215L x 30W x 13H
@@ -3273,7 +3273,7 @@ Name: Mandel
 	OverHeat Ratio: 48
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 0
+	Cost: 0
 
 Name: Daladier
 	Size: 289L x 40W x 20H
@@ -3285,7 +3285,7 @@ Name: Daladier
 	OverHeat Ratio: 36
 	Launchable Aircraft: 11
 	Aircraft Space: 12020
-	ValueDefault: 0
+	Cost: 0
 
 Name: Charlemagne
 	Size: 310L x 48W x 16H
@@ -3297,7 +3297,7 @@ Name: Charlemagne
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 385
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Liberte
 	Size: 311L x 51W x 24H
@@ -3309,7 +3309,7 @@ Name: Liberte
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Maryland
 	Size: 216L x 42W x 12H
@@ -3321,7 +3321,7 @@ Name: Maryland
 	OverHeat Ratio: 36
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Valiant
 	Size: 222L x 40W x 12H
@@ -3333,7 +3333,7 @@ Name: Valiant
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Hyuga
 	Size: 232L x 43W x 15H
@@ -3345,7 +3345,7 @@ Name: Hyuga
 	OverHeat Ratio: 54
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: O Project II (1942)
 	Size: 290L x 40W x 13H
@@ -3357,7 +3357,7 @@ Name: O Project II (1942)
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Storozevoj
 	Size: 120L x 20W x 11H
@@ -3369,7 +3369,7 @@ Name: Storozevoj
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 37000
+	Cost: 37000
 
 Name: Gnevnyj
 	Size: 119L x 18W x 8H
@@ -3381,7 +3381,7 @@ Name: Gnevnyj
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 45100
+	Cost: 45100
 
 Name: Leningrad
 	Size: 134L x 20W x 10H
@@ -3393,7 +3393,7 @@ Name: Leningrad
 	OverHeat Ratio: 65
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 60000
+	Cost: 60000
 
 Name: Tashkent
 	Size: 148L x 22W x 11H
@@ -3405,7 +3405,7 @@ Name: Tashkent
 	OverHeat Ratio: 65
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 66000
+	Cost: 66000
 
 Name: Bogatyr
 	Size: 142L x 24W x 10H
@@ -3417,7 +3417,7 @@ Name: Bogatyr
 	OverHeat Ratio: 60
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 159500
+	Cost: 159500
 
 Name: Svetlana
 	Size: 167L x 28W x 12H
@@ -3429,7 +3429,7 @@ Name: Svetlana
 	OverHeat Ratio: 60
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 195800
+	Cost: 195800
 
 Name: Pallada
 	Size: 129L x 24W x 11H
@@ -3441,7 +3441,7 @@ Name: Pallada
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 284700
+	Cost: 284700
 
 Name: Krasny Kavkaz
 	Size: 180L x 24W x 11H
@@ -3453,7 +3453,7 @@ Name: Krasny Kavkaz
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 500000
+	Cost: 500000
 
 Name: Rurik
 	Size: 134L x 24W x 10H
@@ -3465,7 +3465,7 @@ Name: Rurik
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 550000
+	Cost: 550000
 
 Name: Kirov
 	Size: 201L x 26W x 11H
@@ -3477,7 +3477,7 @@ Name: Kirov
 	OverHeat Ratio: 45
 	Launchable Aircraft: 1
 	Aircraft Space: 170
-	ValueDefault: 650000
+	Cost: 650000
 
 Name: Maxim Gorki
 	Size: 202L x 24W x 11H
@@ -3489,7 +3489,7 @@ Name: Maxim Gorki
 	OverHeat Ratio: 45
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 900000
+	Cost: 900000
 
 Name: Andrei Pervozvanny
 	Size: 152L x 34W x 12H
@@ -3501,7 +3501,7 @@ Name: Andrei Pervozvanny
 	OverHeat Ratio: 45
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 972500
+	Cost: 972500
 
 Name: Gangut
 	Size: 193L x 38W x 11H
@@ -3513,7 +3513,7 @@ Name: Gangut
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1597200
+	Cost: 1597200
 
 Name: Izmail
 	Size: 237L x 40W x 16H
@@ -3525,7 +3525,7 @@ Name: Izmail
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1872400
+	Cost: 1872400
 
 Name: Imperatritsa Mariya
 	Size: 180L x 32W x 8H
@@ -3537,7 +3537,7 @@ Name: Imperatritsa Mariya
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 2047300
+	Cost: 2047300
 
 Name: Kronshtadt
 	Size: 263L x 38W x 10H
@@ -3549,7 +3549,7 @@ Name: Kronshtadt
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 2237500
+	Cost: 2237500
 
 Name: Stalingrad
 	Size: 291L x 38W x 17H
@@ -3561,7 +3561,7 @@ Name: Stalingrad
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 195
-	ValueDefault: 2532000
+	Cost: 2532000
 
 Name: Sovietsky Soyuz
 	Size: 285L x 44W x 18H
@@ -3573,7 +3573,7 @@ Name: Sovietsky Soyuz
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 4375000
+	Cost: 4375000
 
 Name: Project 24
 	Size: 297L x 46W x 20H
@@ -3585,7 +3585,7 @@ Name: Project 24
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 290
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Komsomolets
 	Size: 189L x 40W x 20H
@@ -3597,7 +3597,7 @@ Name: Komsomolets
 	OverHeat Ratio: 27
 	Launchable Aircraft: 7
 	Aircraft Space: 3700
-	ValueDefault: 1852200
+	Cost: 1852200
 
 Name: Project 71
 	Size: 205L x 36W x 16H
@@ -3609,7 +3609,7 @@ Name: Project 71
 	OverHeat Ratio: 30
 	Launchable Aircraft: 8
 	Aircraft Space: 5440
-	ValueDefault: 3274800
+	Cost: 3274800
 
 Name: Project 72
 	Size: 239L x 47W x 18H
@@ -3621,7 +3621,7 @@ Name: Project 72
 	OverHeat Ratio: 30
 	Launchable Aircraft: 9
 	Aircraft Space: 7800
-	ValueDefault: 5037500
+	Cost: 5037500
 
 Name: Kosrtomitinova
 	Size: 276L x 52W x 20H
@@ -3633,7 +3633,7 @@ Name: Kosrtomitinova
 	OverHeat Ratio: 30
 	Launchable Aircraft: 10
 	Aircraft Space: 9700
-	ValueDefault: 7127500
+	Cost: 7127500
 
 Name: Tsar
 	Size: 300L x 50W x 18H
@@ -3645,7 +3645,7 @@ Name: Tsar
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Type "LCT"
 	Size: 155L x 26W x 20H
@@ -3657,7 +3657,7 @@ Name: Type "LCT"
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: Shch
 	Size: 119L x 25W x 7H
@@ -3669,7 +3669,7 @@ Name: Shch
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 473000
+	Cost: 473000
 
 Name: L
 	Size: 142L x 20W x 9H
@@ -3681,7 +3681,7 @@ Name: L
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 784000
+	Cost: 784000
 
 Name: P
 	Size: 171L x 20W x 10H
@@ -3693,7 +3693,7 @@ Name: P
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1325000
+	Cost: 1325000
 
 Name: S
 	Size: 147L x 18W x 6H
@@ -3705,7 +3705,7 @@ Name: S
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1830000
+	Cost: 1830000
 
 Name: D
 	Size: 119L x 16W x 7H
@@ -3717,7 +3717,7 @@ Name: D
 	OverHeat Ratio: 52
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2745000
+	Cost: 2745000
 
 Name: K
 	Size: 143L x 17W x 15H
@@ -3729,7 +3729,7 @@ Name: K
 	OverHeat Ratio: 52
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4117500
+	Cost: 4117500
 
 Name: Chapayev
 	Size: 211L x 27W x 11H
@@ -3741,7 +3741,7 @@ Name: Chapayev
 	OverHeat Ratio: 55
 	Launchable Aircraft: 1
 	Aircraft Space: 130
-	ValueDefault: 130000
+	Cost: 130000
 
 Name: -
 	Size: 0L x 0W x 0H
@@ -3753,7 +3753,7 @@ Name: -
 	OverHeat Ratio: 0
 	Launchable Aircraft: 0
 	Aircraft Space: 120
-	ValueDefault: 300000
+	Cost: 300000
 
 Name: Petropavlovsk
 	Size: 212L x 32W x 13H
@@ -3765,7 +3765,7 @@ Name: Petropavlovsk
 	OverHeat Ratio: 45
 	Launchable Aircraft: 1
 	Aircraft Space: 140
-	ValueDefault: 0
+	Cost: 0
 
 Name: Project 69AV
 	Size: 255L x 54W x 23H
@@ -3777,7 +3777,7 @@ Name: Project 69AV
 	OverHeat Ratio: 40
 	Launchable Aircraft: 11
 	Aircraft Space: 11700
-	ValueDefault: 0
+	Cost: 0
 
 Name: SN_Sevastopol
 	Size: 219L x 36W x 12H
@@ -3789,7 +3789,7 @@ Name: SN_Sevastopol
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Borodino
 	Size: 129L x 28W x 23H
@@ -3801,7 +3801,7 @@ Name: Borodino
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Danton
 	Size: 168L x 35W x 13H
@@ -3813,7 +3813,7 @@ Name: Danton
 	OverHeat Ratio: 42
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Baram[GM]
 	Size: 303L x 30W x 13H
@@ -3825,7 +3825,7 @@ Name: Baram[GM]
 	OverHeat Ratio: 99
 	Launchable Aircraft: 16
 	Aircraft Space: 25600
-	ValueDefault: 10000000
+	Cost: 10000000
 
 Name: Gato
 	Size: 142L x 20W x 8H
@@ -3837,7 +3837,7 @@ Name: Gato
 	OverHeat Ratio: 52
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2524000
+	Cost: 2524000
 
 Name: M Type
 	Size: 140L x 16W x 4H
@@ -3849,7 +3849,7 @@ Name: M Type
 	OverHeat Ratio: 51
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 2824000
+	Cost: 2824000
 
 Name: Kai-Kou Type
 	Size: 172L x 25W x 11H
@@ -3861,7 +3861,7 @@ Name: Kai-Kou Type
 	OverHeat Ratio: 50
 	Launchable Aircraft: 3
 	Aircraft Space: 800
-	ValueDefault: 3184000
+	Cost: 3184000
 
 Name: Type - IX D2
 	Size: 133L x 14W x 7H
@@ -3873,7 +3873,7 @@ Name: Type - IX D2
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2856000
+	Cost: 2856000
 
 Name: Surcouf
 	Size: 158L x 20W x 6H
@@ -3885,7 +3885,7 @@ Name: Surcouf
 	OverHeat Ratio: 51
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 2647500
+	Cost: 2647500
 
 Name: Leone
 	Size: 119L x 18W x 9H
@@ -3897,7 +3897,7 @@ Name: Leone
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 37000
+	Cost: 37000
 
 Name: Turbine
 	Size: 99L x 18W x 10H
@@ -3909,7 +3909,7 @@ Name: Turbine
 	OverHeat Ratio: 67
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 48100
+	Cost: 48100
 
 Name: Navigatori
 	Size: 112L x 20W x 11H
@@ -3921,7 +3921,7 @@ Name: Navigatori
 	OverHeat Ratio: 67
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 62550
+	Cost: 62550
 
 Name: Oriani
 	Size: 112L x 20W x 11H
@@ -3933,7 +3933,7 @@ Name: Oriani
 	OverHeat Ratio: 64
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 81300
+	Cost: 81300
 
 Name: Soldati I
 	Size: 114L x 20W x 11H
@@ -3945,7 +3945,7 @@ Name: Soldati I
 	OverHeat Ratio: 61
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 105700
+	Cost: 105700
 
 Name: Soldati II
 	Size: 113L x 18W x 10H
@@ -3957,7 +3957,7 @@ Name: Soldati II
 	OverHeat Ratio: 61
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 137500
+	Cost: 137500
 
 Name: Di Giussano
 	Size: 178L x 26W x 12H
@@ -3969,7 +3969,7 @@ Name: Di Giussano
 	OverHeat Ratio: 58
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 207000
+	Cost: 207000
 
 Name: Montecuccoli
 	Size: 205L x 28W x 11H
@@ -3981,7 +3981,7 @@ Name: Montecuccoli
 	OverHeat Ratio: 55
 	Launchable Aircraft: 1
 	Aircraft Space: 95
-	ValueDefault: 269500
+	Cost: 269500
 
 Name: Duca d'Aosta
 	Size: 197L x 24W x 10H
@@ -3993,7 +3993,7 @@ Name: Duca d'Aosta
 	OverHeat Ratio: 55
 	Launchable Aircraft: 1
 	Aircraft Space: 95
-	ValueDefault: 350000
+	Cost: 350000
 
 Name: Capitani Romani
 	Size: 151L x 25W x 12H
@@ -4005,7 +4005,7 @@ Name: Capitani Romani
 	OverHeat Ratio: 52
 	Launchable Aircraft: 1
 	Aircraft Space: 95
-	ValueDefault: 455500
+	Cost: 455500
 
 Name: Trento
 	Size: 208L x 34W x 13H
@@ -4017,7 +4017,7 @@ Name: Trento
 	OverHeat Ratio: 49
 	Launchable Aircraft: 1
 	Aircraft Space: 95
-	ValueDefault: 683500
+	Cost: 683500
 
 Name: Bolzano(1942)
 	Size: 208L x 36W x 11H
@@ -4029,7 +4029,7 @@ Name: Bolzano(1942)
 	OverHeat Ratio: 46
 	Launchable Aircraft: 1
 	Aircraft Space: 95
-	ValueDefault: 888500
+	Cost: 888500
 
 Name: Regina Margherita
 	Size: 146L x 30W x 12H
@@ -4041,7 +4041,7 @@ Name: Regina Margherita
 	OverHeat Ratio: 43
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1333000
+	Cost: 1333000
 
 Name: Ammiraglio di Saint bon
 	Size: 128L x 33W x 9H
@@ -4053,7 +4053,7 @@ Name: Ammiraglio di Saint bon
 	OverHeat Ratio: 43
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1467000
+	Cost: 1467000
 
 Name: Dante Alighieri
 	Size: 177L x 32W x 14H
@@ -4065,7 +4065,7 @@ Name: Dante Alighieri
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1614000
+	Cost: 1614000
 
 Name: Regina Elena
 	Size: 157L x 36W x 17H
@@ -4077,7 +4077,7 @@ Name: Regina Elena
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1776000
+	Cost: 1776000
 
 Name: Caio Duilio (1915)
 	Size: 179L x 54W x 13H
@@ -4089,7 +4089,7 @@ Name: Caio Duilio (1915)
 	OverHeat Ratio: 37
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 1954000
+	Cost: 1954000
 
 Name: Conte di Cavour (1915)
 	Size: 206L x 42W x 10H
@@ -4101,7 +4101,7 @@ Name: Conte di Cavour (1915)
 	OverHeat Ratio: 37
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 2150000
+	Cost: 2150000
 
 Name: Caracciolo
 	Size: 224L x 45W x 14H
@@ -4113,7 +4113,7 @@ Name: Caracciolo
 	OverHeat Ratio: 34
 	Launchable Aircraft: 2
 	Aircraft Space: 180
-	ValueDefault: 2365000
+	Cost: 2365000
 
 Name: Caio Duilio (1937)
 	Size: 260L x 42W x 14H
@@ -4125,7 +4125,7 @@ Name: Caio Duilio (1937)
 	OverHeat Ratio: 31
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 2600000
+	Cost: 2600000
 
 Name: Conte di Cavour (1940)
 	Size: 252L x 42W x 14H
@@ -4137,7 +4137,7 @@ Name: Conte di Cavour (1940)
 	OverHeat Ratio: 31
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 2860000
+	Cost: 2860000
 
 Name: Vittorio Veneto
 	Size: 251L x 46W x 12H
@@ -4149,7 +4149,7 @@ Name: Vittorio Veneto
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 4275000
+	Cost: 4275000
 
 Name: Progetto UP41
 	Size: 326L x 44W x 16H
@@ -4161,7 +4161,7 @@ Name: Progetto UP41
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: Bolzano(1943)
 	Size: 208L x 40W x 10H
@@ -4173,7 +4173,7 @@ Name: Bolzano(1943)
 	OverHeat Ratio: 46
 	Launchable Aircraft: 7
 	Aircraft Space: 3500
-	ValueDefault: 1687000
+	Cost: 1687000
 
 Name: Rota
 	Size: 191L x 36W x 19H
@@ -4185,7 +4185,7 @@ Name: Rota
 	OverHeat Ratio: 27
 	Launchable Aircraft: 8
 	Aircraft Space: 5200
-	ValueDefault: 2780000
+	Cost: 2780000
 
 Name: Sparviero
 	Size: 215L x 28W x 21H
@@ -4197,7 +4197,7 @@ Name: Sparviero
 	OverHeat Ratio: 35
 	Launchable Aircraft: 9
 	Aircraft Space: 7500
-	ValueDefault: 4587000
+	Cost: 4587000
 
 Name: Aquila
 	Size: 246L x 51W x 17H
@@ -4209,7 +4209,7 @@ Name: Aquila
 	OverHeat Ratio: 30
 	Launchable Aircraft: 10
 	Aircraft Space: 9500
-	ValueDefault: 7560000
+	Cost: 7560000
 
 Name: Bonfiglietti
 	Size: 290L x 47W x 15H
@@ -4221,7 +4221,7 @@ Name: Bonfiglietti
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: San Giorgio
 	Size: 155L x 26W x 20H
@@ -4233,7 +4233,7 @@ Name: San Giorgio
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: Bragadin
 	Size: 133L x 18W x 9H
@@ -4245,7 +4245,7 @@ Name: Bragadin
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 390000
+	Cost: 390000
 
 Name: Perla
 	Size: 113L x 12W x 6H
@@ -4257,7 +4257,7 @@ Name: Perla
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 740000
+	Cost: 740000
 
 Name: Argo
 	Size: 119L x 16W x 8H
@@ -4269,7 +4269,7 @@ Name: Argo
 	OverHeat Ratio: 60
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1275000
+	Cost: 1275000
 
 Name: Brin
 	Size: 136L x 14W x 5H
@@ -4281,7 +4281,7 @@ Name: Brin
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1780000
+	Cost: 1780000
 
 Name: Marcello
 	Size: 149L x 18W x 8H
@@ -4293,7 +4293,7 @@ Name: Marcello
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2796750
+	Cost: 2796750
 
 Name: Re Umberto
 	Size: 132L x 32W x 6H
@@ -4305,7 +4305,7 @@ Name: Re Umberto
 	OverHeat Ratio: 45
 	Launchable Aircraft: 1
 	Aircraft Space: 120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Duca degli Abruzzi
 	Size: 198L x 30W x 12H
@@ -4317,7 +4317,7 @@ Name: Duca degli Abruzzi
 	OverHeat Ratio: 55
 	Launchable Aircraft: 1
 	Aircraft Space: 95
-	ValueDefault: 0
+	Cost: 0
 
 Name: Zara
 	Size: 204L x 36W x 12H
@@ -4329,7 +4329,7 @@ Name: Zara
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 160
-	ValueDefault: 0
+	Cost: 0
 
 Name: RM_Andrea Doria
 	Size: 214L x 36W x 11H
@@ -4341,7 +4341,7 @@ Name: RM_Andrea Doria
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Progetto Gagnotto
 	Size: 247L x 38W x 13H
@@ -4353,7 +4353,7 @@ Name: Progetto Gagnotto
 	OverHeat Ratio: 35
 	Launchable Aircraft: 11
 	Aircraft Space: 11500
-	ValueDefault: 0
+	Cost: 0
 
 Name: Indiana
 	Size: 228L x 42W x 15H
@@ -4365,7 +4365,7 @@ Name: Indiana
 	OverHeat Ratio: 34
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Missouri
 	Size: 311L x 39W x 10H
@@ -4377,7 +4377,7 @@ Name: Missouri
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: Enterprise
 	Size: 279L x 39W x 26H
@@ -4389,7 +4389,7 @@ Name: Enterprise
 	OverHeat Ratio: 43
 	Launchable Aircraft: 8
 	Aircraft Space: 7030
-	ValueDefault: 0
+	Cost: 0
 
 Name: Hood (1939)
 	Size: 308L x 40W x 13H
@@ -4401,7 +4401,7 @@ Name: Hood (1939)
 	OverHeat Ratio: 34
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Victorious
 	Size: 242L x 36W x 19H
@@ -4413,7 +4413,7 @@ Name: Victorious
 	OverHeat Ratio: 31
 	Launchable Aircraft: 8
 	Aircraft Space: 6940
-	ValueDefault: 0
+	Cost: 0
 
 Name: Mutsu
 	Size: 241L x 44W x 13H
@@ -4425,7 +4425,7 @@ Name: Mutsu
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Katsuragi
 	Size: 242L x 36W x 19H
@@ -4437,7 +4437,7 @@ Name: Katsuragi
 	OverHeat Ratio: 44
 	Launchable Aircraft: 8
 	Aircraft Space: 6660
-	ValueDefault: 0
+	Cost: 0
 
 Name: Bismarck (1943)
 	Size: 267L x 44W x 12H
@@ -4449,7 +4449,7 @@ Name: Bismarck (1943)
 	OverHeat Ratio: 26
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: H41 Project
 	Size: 318L x 44W x 17H
@@ -4461,7 +4461,7 @@ Name: H41 Project
 	OverHeat Ratio: 26
 	Launchable Aircraft: 2
 	Aircraft Space: 195
-	ValueDefault: 0
+	Cost: 0
 
 Name: Alvensleben
 	Size: 220L x 40W x 14H
@@ -4473,7 +4473,7 @@ Name: Alvensleben
 	OverHeat Ratio: 49
 	Launchable Aircraft: 7
 	Aircraft Space: 4600
-	ValueDefault: 0
+	Cost: 0
 
 Name: Richthofen
 	Size: 280L x 42W x 20H
@@ -4485,7 +4485,7 @@ Name: Richthofen
 	OverHeat Ratio: 49
 	Launchable Aircraft: 8
 	Aircraft Space: 6300
-	ValueDefault: 0
+	Cost: 0
 
 Name: Bearn (1944)
 	Size: 194L x 39W x 17H
@@ -4497,7 +4497,7 @@ Name: Bearn (1944)
 	OverHeat Ratio: 32
 	Launchable Aircraft: 8
 	Aircraft Space: 6070
-	ValueDefault: 0
+	Cost: 0
 
 Name: Joffre (1943)
 	Size: 249L x 37W x 15H
@@ -4509,7 +4509,7 @@ Name: Joffre (1943)
 	OverHeat Ratio: 28
 	Launchable Aircraft: 9
 	Aircraft Space: 8800
-	ValueDefault: 0
+	Cost: 0
 
 Name: Bretagne
 	Size: 175L x 39W x 11H
@@ -4521,7 +4521,7 @@ Name: Bretagne
 	OverHeat Ratio: 5
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 340000
+	Cost: 340000
 
 Name: Normandie
 	Size: 179L x 28W x 10H
@@ -4533,7 +4533,7 @@ Name: Normandie
 	OverHeat Ratio: 5
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 440000
+	Cost: 440000
 
 Name: Lorraine
 	Size: 175L x 34W x 11H
@@ -4545,7 +4545,7 @@ Name: Lorraine
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 560000
+	Cost: 560000
 
 Name: StrasBourg
 	Size: 228L x 34W x 11H
@@ -4557,7 +4557,7 @@ Name: StrasBourg
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 710000
+	Cost: 710000
 
 Name: StrasBourg (1944)
 	Size: 228L x 34W x 11H
@@ -4569,7 +4569,7 @@ Name: StrasBourg (1944)
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 710000
+	Cost: 710000
 
 Name: Richelieu
 	Size: 261L x 44W x 15H
@@ -4581,7 +4581,7 @@ Name: Richelieu
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 810000
+	Cost: 810000
 
 Name: Alsace
 	Size: 265L x 44W x 16H
@@ -4593,7 +4593,7 @@ Name: Alsace
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 1000000
+	Cost: 1000000
 
 Name: Andrei Pervozvanny
 	Size: 152L x 34W x 12H
@@ -4605,7 +4605,7 @@ Name: Andrei Pervozvanny
 	OverHeat Ratio: 5
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 290000
+	Cost: 290000
 
 Name: Izmail
 	Size: 237L x 40W x 16H
@@ -4617,7 +4617,7 @@ Name: Izmail
 	OverHeat Ratio: 5
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 430000
+	Cost: 430000
 
 Name: Imperatritsa Mariya
 	Size: 180L x 32W x 8H
@@ -4629,7 +4629,7 @@ Name: Imperatritsa Mariya
 	OverHeat Ratio: 7
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 590000
+	Cost: 590000
 
 Name: Kronshtadt
 	Size: 263L x 38W x 10H
@@ -4641,7 +4641,7 @@ Name: Kronshtadt
 	OverHeat Ratio: 7
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 700000
+	Cost: 700000
 
 Name: Kronshtadt (1942)
 	Size: 263L x 38W x 10H
@@ -4653,7 +4653,7 @@ Name: Kronshtadt (1942)
 	OverHeat Ratio: 7
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 700000
+	Cost: 700000
 
 Name: Stalingrad
 	Size: 291L x 38W x 17H
@@ -4665,7 +4665,7 @@ Name: Stalingrad
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 870000
+	Cost: 870000
 
 Name: Sovietsky Soyuz
 	Size: 285L x 44W x 18H
@@ -4677,7 +4677,7 @@ Name: Sovietsky Soyuz
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 990000
+	Cost: 990000
 
 Name: Regina Margherita
 	Size: 146L x 30W x 12H
@@ -4689,7 +4689,7 @@ Name: Regina Margherita
 	OverHeat Ratio: 5
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 300000
+	Cost: 300000
 
 Name: Dante Alighieri
 	Size: 177L x 32W x 14H
@@ -4701,7 +4701,7 @@ Name: Dante Alighieri
 	OverHeat Ratio: 5
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 460000
+	Cost: 460000
 
 Name: Caio Duilio (1915)
 	Size: 179L x 54W x 13H
@@ -4713,7 +4713,7 @@ Name: Caio Duilio (1915)
 	OverHeat Ratio: 7
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 600000
+	Cost: 600000
 
 Name: Caracciolo
 	Size: 224L x 45W x 14H
@@ -4725,7 +4725,7 @@ Name: Caracciolo
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 740000
+	Cost: 740000
 
 Name: Caracciolo (1943)
 	Size: 224L x 45W x 14H
@@ -4737,7 +4737,7 @@ Name: Caracciolo (1943)
 	OverHeat Ratio: 7
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 740000
+	Cost: 740000
 
 Name: Caio Duilio (1937)
 	Size: 260L x 42W x 14H
@@ -4749,7 +4749,7 @@ Name: Caio Duilio (1937)
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 830000
+	Cost: 830000
 
 Name: Vittorio Veneto
 	Size: 251L x 46W x 12H
@@ -4761,7 +4761,7 @@ Name: Vittorio Veneto
 	OverHeat Ratio: 11
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 970000
+	Cost: 970000
 
 Name: Poltava
 	Size: 193L x 38W x 11H
@@ -4773,7 +4773,7 @@ Name: Poltava
 	OverHeat Ratio: 34
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Komsomolets(1927)
 	Size: 189L x 40W x 20H
@@ -4785,7 +4785,7 @@ Name: Komsomolets(1927)
 	OverHeat Ratio: 27
 	Launchable Aircraft: 7
 	Aircraft Space: 4600
-	ValueDefault: 0
+	Cost: 0
 
 Name: Project 71C
 	Size: 205L x 36W x 16H
@@ -4797,7 +4797,7 @@ Name: Project 71C
 	OverHeat Ratio: 30
 	Launchable Aircraft: 8
 	Aircraft Space: 6440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Dante Alighieri(1914)
 	Size: 205L x 37W x 15H
@@ -4809,7 +4809,7 @@ Name: Dante Alighieri(1914)
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Rota(1925)
 	Size: 191L x 36W x 19H
@@ -4821,7 +4821,7 @@ Name: Rota(1925)
 	OverHeat Ratio: 31
 	Launchable Aircraft: 8
 	Aircraft Space: 6200
-	ValueDefault: 0
+	Cost: 0
 
 Name: Sparviero(1943)
 	Size: 218L x 28W x 18H
@@ -4833,7 +4833,7 @@ Name: Sparviero(1943)
 	OverHeat Ratio: 35
 	Launchable Aircraft: 9
 	Aircraft Space: 8500
-	ValueDefault: 0
+	Cost: 0
 
 Name: Provence
 	Size: 201L x 42W x 11H
@@ -4845,7 +4845,7 @@ Name: Provence
 	OverHeat Ratio: 31
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: StrasBourg(1938)
 	Size: 228L x 34W x 11H
@@ -4857,7 +4857,7 @@ Name: StrasBourg(1938)
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Clemenceau
 	Size: 261L x 44W x 15H
@@ -4869,7 +4869,7 @@ Name: Clemenceau
 	OverHeat Ratio: 29
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: Izmail(1916)
 	Size: 237L x 40W x 16H
@@ -4881,7 +4881,7 @@ Name: Izmail(1916)
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Kronshtadt(1940)
 	Size: 263L x 38W x 10H
@@ -4893,7 +4893,7 @@ Name: Kronshtadt(1940)
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Stalingrad(1953)
 	Size: 291L x 38W x 17H
@@ -4905,7 +4905,7 @@ Name: Stalingrad(1953)
 	OverHeat Ratio: 33
 	Launchable Aircraft: 2
 	Aircraft Space: 195
-	ValueDefault: 0
+	Cost: 0
 
 Name: Giulio Cesare(1914)
 	Size: 206L x 42W x 10H
@@ -4917,7 +4917,7 @@ Name: Giulio Cesare(1914)
 	OverHeat Ratio: 37
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Caracciolo(1919)
 	Size: 248L x 46W x 14H
@@ -4929,7 +4929,7 @@ Name: Caracciolo(1919)
 	OverHeat Ratio: 34
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Giulio Cesare(1940)
 	Size: 252L x 42W x 14H
@@ -4941,7 +4941,7 @@ Name: Giulio Cesare(1940)
 	OverHeat Ratio: 31
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: Belleau Wood
 	Size: 215L x 39W x 16H
@@ -4953,7 +4953,7 @@ Name: Belleau Wood
 	OverHeat Ratio: 54
 	Launchable Aircraft: 7
 	Aircraft Space: 4720
-	ValueDefault: 0
+	Cost: 0
 
 Name: Vanguard(1946)
 	Size: 264L x 42W x 13H
@@ -4965,7 +4965,7 @@ Name: Vanguard(1946)
 	OverHeat Ratio: 27
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: Warrior
 	Size: 222L x 32W x 18H
@@ -4977,7 +4977,7 @@ Name: Warrior
 	OverHeat Ratio: 20
 	Launchable Aircraft: 7
 	Aircraft Space: 4660
-	ValueDefault: 0
+	Cost: 0
 
 Name: Musashi
 	Size: 300L x 49W x 14H
@@ -4989,7 +4989,7 @@ Name: Musashi
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 280
-	ValueDefault: 0
+	Cost: 0
 
 Name: Hiyo
 	Size: 227L x 41W x 14H
@@ -5001,7 +5001,7 @@ Name: Hiyo
 	OverHeat Ratio: 48
 	Launchable Aircraft: 7
 	Aircraft Space: 4850
-	ValueDefault: 0
+	Cost: 0
 
 Name: Temeraire
 	Size: 269L x 45W x 12H
@@ -5013,7 +5013,7 @@ Name: Temeraire
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 0
+	Cost: 0
 
 Name: Balao
 	Size: 141L x 18W x 12H
@@ -5025,7 +5025,7 @@ Name: Balao
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 3786000
+	Cost: 3786000
 
 Name: A Type
 	Size: 142L x 17W x 14H
@@ -5037,7 +5037,7 @@ Name: A Type
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4236000
+	Cost: 4236000
 
 Name: I 400
 	Size: 172L x 21W x 17H
@@ -5049,7 +5049,7 @@ Name: I 400
 	OverHeat Ratio: 55
 	Launchable Aircraft: 4
 	Aircraft Space: 1200
-	ValueDefault: 4457600
+	Cost: 4457600
 
 Name: Type - XXI
 	Size: 118L x 15W x 14H
@@ -5061,7 +5061,7 @@ Name: Type - XXI
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4284000
+	Cost: 4284000
 
 Name: L'Aurore
 	Size: 121L x 15W x 11H
@@ -5073,7 +5073,7 @@ Name: L'Aurore
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 3971250
+	Cost: 3971250
 
 Name: Ammiraglio Cagni
 	Size: 132L x 15W x 16H
@@ -5085,7 +5085,7 @@ Name: Ammiraglio Cagni
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4195125
+	Cost: 4195125
 
 Name: Washington
 	Size: 242L x 40W x 13H
@@ -5097,7 +5097,7 @@ Name: Washington
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: Shinano
 	Size: 300L x 49W x 14H
@@ -5109,7 +5109,7 @@ Name: Shinano
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 275
-	ValueDefault: 0
+	Cost: 0
 
 Name: J39 Class
 	Size: 318L x 44W x 17H
@@ -5121,7 +5121,7 @@ Name: J39 Class
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 0
+	Cost: 0
 
 Name: Jean Bart
 	Size: 261L x 44W x 15H
@@ -5133,7 +5133,7 @@ Name: Jean Bart
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: Arkhangelsk
 	Size: 217L x 35W x 11H
@@ -5145,7 +5145,7 @@ Name: Arkhangelsk
 	OverHeat Ratio: 38
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 0
+	Cost: 0
 
 Name: Leonardo da Vinci
 	Size: 252L x 42W x 14H
@@ -5157,7 +5157,7 @@ Name: Leonardo da Vinci
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: California
 	Size: 310L x 48W x 19H
@@ -5169,7 +5169,7 @@ Name: California
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 275
-	ValueDefault: 0
+	Cost: 0
 
 Name: Duke of Edinburgh
 	Size: 274L x 49W x 17H
@@ -5181,7 +5181,7 @@ Name: Duke of Edinburgh
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: Mikawa
 	Size: 310L x 51W x 13H
@@ -5193,7 +5193,7 @@ Name: Mikawa
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 0
+	Cost: 0
 
 Name: Stresemann
 	Size: 310L x 51W x 16H
@@ -5205,7 +5205,7 @@ Name: Stresemann
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: Thermidor
 	Size: 288L x 45W x 11H
@@ -5217,7 +5217,7 @@ Name: Thermidor
 	OverHeat Ratio: 21
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 0
+	Cost: 0
 
 Name: Proletariat
 	Size: 291L x 45W x 18H
@@ -5229,7 +5229,7 @@ Name: Proletariat
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: Cesare Borgia
 	Size: 267L x 49W x 12H
@@ -5241,7 +5241,7 @@ Name: Cesare Borgia
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: Georgia
 	Size: 271L x 41W x 26H
@@ -5253,7 +5253,7 @@ Name: Georgia
 	OverHeat Ratio: 29
 	Launchable Aircraft: 12
 	Aircraft Space: 11800
-	ValueDefault: 0
+	Cost: 0
 
 Name: Adventurous
 	Size: 269L x 43W x 27H
@@ -5265,7 +5265,7 @@ Name: Adventurous
 	OverHeat Ratio: 29
 	Launchable Aircraft: 12
 	Aircraft Space: 11650
-	ValueDefault: 0
+	Cost: 0
 
 Name: Izumi
 	Size: 287L x 49W x 26H
@@ -5277,7 +5277,7 @@ Name: Izumi
 	OverHeat Ratio: 29
 	Launchable Aircraft: 12
 	Aircraft Space: 12000
-	ValueDefault: 0
+	Cost: 0
 
 Name: Franz
 	Size: 271L x 40W x 25H
@@ -5289,7 +5289,7 @@ Name: Franz
 	OverHeat Ratio: 29
 	Launchable Aircraft: 12
 	Aircraft Space: 11500
-	ValueDefault: 0
+	Cost: 0
 
 Name: Truguet
 	Size: 270L x 41W x 23H
@@ -5301,7 +5301,7 @@ Name: Truguet
 	OverHeat Ratio: 33
 	Launchable Aircraft: 12
 	Aircraft Space: 12020
-	ValueDefault: 0
+	Cost: 0
 
 Name: Project 73
 	Size: 272L x 40W x 23H
@@ -5313,7 +5313,7 @@ Name: Project 73
 	OverHeat Ratio: 30
 	Launchable Aircraft: 12
 	Aircraft Space: 11700
-	ValueDefault: 0
+	Cost: 0
 
 Name: Storione
 	Size: 270L x 36W x 47H
@@ -5325,7 +5325,7 @@ Name: Storione
 	OverHeat Ratio: 30
 	Launchable Aircraft: 12
 	Aircraft Space: 11500
-	ValueDefault: 0
+	Cost: 0
 
 Name: New Jersey
 	Size: 321L x 43W x 14H
@@ -5337,7 +5337,7 @@ Name: New Jersey
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 0
+	Cost: 0
 
 Name: Thunderer
 	Size: 310L x 41W x 13H
@@ -5349,7 +5349,7 @@ Name: Thunderer
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 0
+	Cost: 0
 
 Name: Atago
 	Size: 319L x 44W x 16H
@@ -5361,7 +5361,7 @@ Name: Atago
 	OverHeat Ratio: 23
 	Launchable Aircraft: 8
 	Aircraft Space: 6500
-	ValueDefault: 0
+	Cost: 0
 
 Name: Koenig Albert
 	Size: 321L x 42W x 17H
@@ -5373,7 +5373,7 @@ Name: Koenig Albert
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 290
-	ValueDefault: 0
+	Cost: 0
 
 Name: Clemenceau (1943)
 	Size: 310L x 48W x 16H
@@ -5385,7 +5385,7 @@ Name: Clemenceau (1943)
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 385
-	ValueDefault: 0
+	Cost: 0
 
 Name: Project 25
 	Size: 297L x 46W x 20H
@@ -5397,7 +5397,7 @@ Name: Project 25
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 290
-	ValueDefault: 0
+	Cost: 0
 
 Name: Roma
 	Size: 326L x 44W x 16H
@@ -5409,7 +5409,7 @@ Name: Roma
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 0
+	Cost: 0
 
 Name: Kerberos[GM]
 	Size: 303L x 30W x 13H
@@ -5421,7 +5421,7 @@ Name: Kerberos[GM]
 	OverHeat Ratio: 99
 	Launchable Aircraft: 16
 	Aircraft Space: 25600
-	ValueDefault: 10000000
+	Cost: 10000000
 
 Name: Project X-D
 	Size: 165L x 38W x 11H
@@ -5433,7 +5433,7 @@ Name: Project X-D
 	OverHeat Ratio: 20
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Project X-G[GM]
 	Size: 165L x 38W x 11H
@@ -5445,7 +5445,7 @@ Name: Project X-G[GM]
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1000000
+	Cost: 1000000
 
 Name: Project X[GM]
 	Size: 303L x 30W x 13H
@@ -5457,7 +5457,7 @@ Name: Project X[GM]
 	OverHeat Ratio: 99
 	Launchable Aircraft: 16
 	Aircraft Space: 25600
-	ValueDefault: 10000000
+	Cost: 10000000
 
 Name: Project AYM[GM]
 	Size: 303L x 30W x 13H
@@ -5469,7 +5469,7 @@ Name: Project AYM[GM]
 	OverHeat Ratio: 99
 	Launchable Aircraft: 16
 	Aircraft Space: 25600
-	ValueDefault: 10000000
+	Cost: 10000000
 
 Name: Tambor
 	Size: 140L x 18W x 15H
@@ -5481,7 +5481,7 @@ Name: Tambor
 	OverHeat Ratio: 57
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Safari
 	Size: 129L x 18W x 15H
@@ -5493,7 +5493,7 @@ Name: Safari
 	OverHeat Ratio: 56
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: I 54
 	Size: 156L x 18W x 18H
@@ -5505,7 +5505,7 @@ Name: I 54
 	OverHeat Ratio: 55
 	Launchable Aircraft: 3
 	Aircraft Space: 1000
-	ValueDefault: 0
+	Cost: 0
 
 Name: Type - IX C/40
 	Size: 137L x 16W x 15H
@@ -5517,7 +5517,7 @@ Name: Type - IX C/40
 	OverHeat Ratio: 56
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Minerve
 	Size: 159L x 21W x 16H
@@ -5529,7 +5529,7 @@ Name: Minerve
 	OverHeat Ratio: 56
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: L XI
 	Size: 130L x 16W x 15H
@@ -5541,7 +5541,7 @@ Name: L XI
 	OverHeat Ratio: 57
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Liuzzi
 	Size: 160L x 30W x 18H
@@ -5553,7 +5553,7 @@ Name: Liuzzi
 	OverHeat Ratio: 55
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Oklahoma
 	Size: 320L x 46W x 15H
@@ -5565,7 +5565,7 @@ Name: Oklahoma
 	OverHeat Ratio: 23
 	Launchable Aircraft: 2
 	Aircraft Space: 286
-	ValueDefault: 0
+	Cost: 0
 
 Name: Conqueror
 	Size: 275L x 44W x 13H
@@ -5577,7 +5577,7 @@ Name: Conqueror
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 286
-	ValueDefault: 0
+	Cost: 0
 
 Name: Yamato (1945)
 	Size: 300L x 49W x 14H
@@ -5589,7 +5589,7 @@ Name: Yamato (1945)
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 291
-	ValueDefault: 0
+	Cost: 0
 
 Name: J44 Class
 	Size: 320L x 48W x 14H
@@ -5601,7 +5601,7 @@ Name: J44 Class
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 254
-	ValueDefault: 0
+	Cost: 0
 
 Name: Bourgogne
 	Size: 265L x 44W x 16H
@@ -5613,7 +5613,7 @@ Name: Bourgogne
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 343
-	ValueDefault: 0
+	Cost: 0
 
 Name: Sovietsky Spiral
 	Size: 285L x 44W x 18H
@@ -5625,7 +5625,7 @@ Name: Sovietsky Spiral
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 254
-	ValueDefault: 0
+	Cost: 0
 
 Name: Impero
 	Size: 251L x 46W x 12H
@@ -5637,7 +5637,7 @@ Name: Impero
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 286
-	ValueDefault: 0
+	Cost: 0
 
 Name: Saratoga
 	Size: 312L x 38W x 16H
@@ -5649,7 +5649,7 @@ Name: Saratoga
 	OverHeat Ratio: 31
 	Launchable Aircraft: 15
 	Aircraft Space: 14170
-	ValueDefault: 0
+	Cost: 0
 
 Name: Indefatigable
 	Size: 267L x 47W x 16H
@@ -5661,7 +5661,7 @@ Name: Indefatigable
 	OverHeat Ratio: 33
 	Launchable Aircraft: 15
 	Aircraft Space: 14000
-	ValueDefault: 0
+	Cost: 0
 
 Name: Tosa
 	Size: 284L x 40W x 24H
@@ -5673,7 +5673,7 @@ Name: Tosa
 	OverHeat Ratio: 31
 	Launchable Aircraft: 15
 	Aircraft Space: 14120
-	ValueDefault: 0
+	Cost: 0
 
 Name: Eurasien
 	Size: 333L x 42W x 15H
@@ -5685,7 +5685,7 @@ Name: Eurasien
 	OverHeat Ratio: 31
 	Launchable Aircraft: 15
 	Aircraft Space: 13830
-	ValueDefault: 0
+	Cost: 0
 
 Name: Calais
 	Size: 223L x 46W x 15H
@@ -5697,7 +5697,7 @@ Name: Calais
 	OverHeat Ratio: 39
 	Launchable Aircraft: 15
 	Aircraft Space: 14260
-	ValueDefault: 0
+	Cost: 0
 
 Name: Fevral
 	Size: 276L x 52W x 20H
@@ -5709,7 +5709,7 @@ Name: Fevral
 	OverHeat Ratio: 33
 	Launchable Aircraft: 15
 	Aircraft Space: 13970
-	ValueDefault: 0
+	Cost: 0
 
 Name: Falco
 	Size: 246L x 51W x 17H
@@ -5721,7 +5721,7 @@ Name: Falco
 	OverHeat Ratio: 33
 	Launchable Aircraft: 15
 	Aircraft Space: 13680
-	ValueDefault: 0
+	Cost: 0
 
 Name: Connecticut
 	Size: 321L x 43W x 14H
@@ -5733,7 +5733,7 @@ Name: Connecticut
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 340
-	ValueDefault: 0
+	Cost: 0
 
 Name: King George VI
 	Size: 310L x 41W x 13H
@@ -5745,7 +5745,7 @@ Name: King George VI
 	OverHeat Ratio: 21
 	Launchable Aircraft: 2
 	Aircraft Space: 340
-	ValueDefault: 0
+	Cost: 0
 
 Name: Izmi
 	Size: 319L x 44W x 16H
@@ -5757,7 +5757,7 @@ Name: Izmi
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 396
-	ValueDefault: 0
+	Cost: 0
 
 Name: Admiral Scheer
 	Size: 321L x 42W x 17H
@@ -5769,7 +5769,7 @@ Name: Admiral Scheer
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 298
-	ValueDefault: 0
+	Cost: 0
 
 Name: Versailles
 	Size: 310L x 48W x 16H
@@ -5781,7 +5781,7 @@ Name: Versailles
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 396
-	ValueDefault: 0
+	Cost: 0
 
 Name: Krasnaya ploshchad
 	Size: 297L x 46W x 20H
@@ -5793,7 +5793,7 @@ Name: Krasnaya ploshchad
 	OverHeat Ratio: 22
 	Launchable Aircraft: 2
 	Aircraft Space: 298
-	ValueDefault: 0
+	Cost: 0
 
 Name: Italia
 	Size: 326L x 44W x 16H
@@ -5805,7 +5805,7 @@ Name: Italia
 	OverHeat Ratio: 24
 	Launchable Aircraft: 2
 	Aircraft Space: 339
-	ValueDefault: 0
+	Cost: 0
 
 Name: Franklin D. Roosevelt
 	Size: 326L x 47W x 20H
@@ -5817,7 +5817,7 @@ Name: Franklin D. Roosevelt
 	OverHeat Ratio: 29
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Queen Mother
 	Size: 326L x 47W x 20H
@@ -5829,7 +5829,7 @@ Name: Queen Mother
 	OverHeat Ratio: 29
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Gawachi
 	Size: 337L x 42W x 22H
@@ -5841,7 +5841,7 @@ Name: Gawachi
 	OverHeat Ratio: 29
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Clausewitz
 	Size: 337L x 42W x 22H
@@ -5853,7 +5853,7 @@ Name: Clausewitz
 	OverHeat Ratio: 29
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Egalite
 	Size: 311L x 51W x 24H
@@ -5865,7 +5865,7 @@ Name: Egalite
 	OverHeat Ratio: 29
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Oktyabrya
 	Size: 300L x 50W x 18H
@@ -5877,7 +5877,7 @@ Name: Oktyabrya
 	OverHeat Ratio: 29
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Garibaldi
 	Size: 290L x 47W x 15H
@@ -5889,7 +5889,7 @@ Name: Garibaldi
 	OverHeat Ratio: 29
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Black Pearl
 	Size: 125L x 34W x 34H
@@ -5901,7 +5901,7 @@ Name: Black Pearl
 	OverHeat Ratio: 93
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Pirate King[GM]
 	Size: 165L x 38W x 11H
@@ -5913,7 +5913,7 @@ Name: Pirate King[GM]
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1000000
+	Cost: 1000000
 
 Name: Varyag
 	Size: 330L x 21W x 33H
@@ -5925,7 +5925,7 @@ Name: Varyag
 	OverHeat Ratio: 26
 	Launchable Aircraft: 17
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Kuznetsov
 	Size: 330L x 21W x 33H
@@ -5937,7 +5937,7 @@ Name: Kuznetsov
 	OverHeat Ratio: 28
 	Launchable Aircraft: 18
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: LiaoNing
 	Size: 330L x 21W x 33H
@@ -5949,7 +5949,7 @@ Name: LiaoNing
 	OverHeat Ratio: 29
 	Launchable Aircraft: 18
 	Aircraft Space: 17440
-	ValueDefault: 0
+	Cost: 0
 
 Name: Moon Cake[GM]
 	Size: 99L x 16W x 7H
@@ -5961,7 +5961,7 @@ Name: Moon Cake[GM]
 	OverHeat Ratio: 120
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Boxer
 	Size: 310L x 44W x 20H
@@ -5973,7 +5973,7 @@ Name: Boxer
 	OverHeat Ratio: 35
 	Launchable Aircraft: 12
 	Aircraft Space: 11300
-	ValueDefault: 0
+	Cost: 0
 
 Name: Aberdeen
 	Size: 267L x 47W x 16H
@@ -5985,7 +5985,7 @@ Name: Aberdeen
 	OverHeat Ratio: 35
 	Launchable Aircraft: 12
 	Aircraft Space: 11300
-	ValueDefault: 0
+	Cost: 0
 
 Name: Hirakaku
 	Size: 293L x 38W x 17H
@@ -5997,7 +5997,7 @@ Name: Hirakaku
 	OverHeat Ratio: 35
 	Launchable Aircraft: 12
 	Aircraft Space: 11580
-	ValueDefault: 0
+	Cost: 0
 
 Name: Scheidemann
 	Size: 289L x 40W x 20H
@@ -6009,7 +6009,7 @@ Name: Scheidemann
 	OverHeat Ratio: 35
 	Launchable Aircraft: 12
 	Aircraft Space: 11350
-	ValueDefault: 0
+	Cost: 0
 
 Name: La Fayett
 	Size: 289L x 40W x 20H
@@ -6021,7 +6021,7 @@ Name: La Fayett
 	OverHeat Ratio: 31
 	Launchable Aircraft: 12
 	Aircraft Space: 11820
-	ValueDefault: 0
+	Cost: 0
 
 Name: Bryansk
 	Size: 255L x 54W x 23H
@@ -6033,7 +6033,7 @@ Name: Bryansk
 	OverHeat Ratio: 35
 	Launchable Aircraft: 12
 	Aircraft Space: 11620
-	ValueDefault: 0
+	Cost: 0
 
 Name: Castagnito
 	Size: 247L x 38W x 13H
@@ -6045,7 +6045,7 @@ Name: Castagnito
 	OverHeat Ratio: 30
 	Launchable Aircraft: 12
 	Aircraft Space: 11420
-	ValueDefault: 0
+	Cost: 0
 
 Name: Xmas Rodney
 	Size: 235L x 40W x 13H
@@ -6057,7 +6057,7 @@ Name: Xmas Rodney
 	OverHeat Ratio: 20
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 880000
+	Cost: 880000
 
 Name: Xmas Ship
 	Size: 155L x 26W x 20H
@@ -6069,7 +6069,7 @@ Name: Xmas Ship
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Xmas Ship[GM]
 	Size: 155L x 26W x 20H
@@ -6081,7 +6081,7 @@ Name: Xmas Ship[GM]
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1000000
+	Cost: 1000000
 
 Name: Illinois
 	Size: 311L x 39W x 10H
@@ -6093,7 +6093,7 @@ Name: Illinois
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 275
-	ValueDefault: 0
+	Cost: 0
 
 Name: Duke of Cornwall
 	Size: 269L x 45W x 12H
@@ -6105,7 +6105,7 @@ Name: Duke of Cornwall
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: Izumo
 	Size: 300L x 49W x 14H
@@ -6117,7 +6117,7 @@ Name: Izumo
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 0
+	Cost: 0
 
 Name: K39 Class
 	Size: 318L x 44W x 17H
@@ -6129,7 +6129,7 @@ Name: K39 Class
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: Gascogne
 	Size: 261L x 44W x 15H
@@ -6141,7 +6141,7 @@ Name: Gascogne
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 0
+	Cost: 0
 
 Name: Moskva
 	Size: 291L x 38W x 17H
@@ -6153,7 +6153,7 @@ Name: Moskva
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: Gaius Duilius
 	Size: 260L x 42W x 14H
@@ -6165,7 +6165,7 @@ Name: Gaius Duilius
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 250
-	ValueDefault: 0
+	Cost: 0
 
 Name: TITANIC[GM]
 	Size: 263L x 37W x 15H
@@ -6177,7 +6177,7 @@ Name: TITANIC[GM]
 	OverHeat Ratio: 22
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Britannic[GM]
 	Size: 263L x 37W x 15H
@@ -6189,7 +6189,7 @@ Name: Britannic[GM]
 	OverHeat Ratio: 22
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Bismarck(1945)
 	Size: 267L x 44W x 12H
@@ -6201,7 +6201,7 @@ Name: Bismarck(1945)
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 188
-	ValueDefault: 0
+	Cost: 0
 
 Name: Hood(1943)
 	Size: 308L x 40W x 13H
@@ -6213,7 +6213,7 @@ Name: Hood(1943)
 	OverHeat Ratio: 32
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 0
+	Cost: 0
 
 Name: West Virginia
 	Size: 216L x 42W x 10H
@@ -6225,7 +6225,7 @@ Name: West Virginia
 	OverHeat Ratio: 38
 	Launchable Aircraft: 2
 	Aircraft Space: 175
-	ValueDefault: 2573500
+	Cost: 2573500
 
 Name: Arizona(1941)
 	Size: 200L x 38W x 11H
@@ -6237,7 +6237,7 @@ Name: Arizona(1941)
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 275
-	ValueDefault: 0
+	Cost: 0
 
 Name: Richelieu(1951)
 	Size: 261L x 45W x 13H
@@ -6249,7 +6249,7 @@ Name: Richelieu(1951)
 	OverHeat Ratio: 28
 	Launchable Aircraft: 2
 	Aircraft Space: 240
-	ValueDefault: 0
+	Cost: 0
 
 Name: Kirishima
 	Size: 240L x 38W x 12H
@@ -6261,7 +6261,7 @@ Name: Kirishima
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 2573500
+	Cost: 2573500
 
 Name: ChongQing[Memorial ship]
 	Size: 162L x 26W x 12H
@@ -6273,7 +6273,7 @@ Name: ChongQing[Memorial ship]
 	OverHeat Ratio: 53
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: Project 69SE
 	Size: 290L x 46W x 12H
@@ -6285,7 +6285,7 @@ Name: Project 69SE
 	OverHeat Ratio: 25
 	Launchable Aircraft: 7
 	Aircraft Space: 2500
-	ValueDefault: 0
+	Cost: 0
 
 Name: Italy Project41-B
 	Size: 216L x 28W x 11H
@@ -6297,7 +6297,7 @@ Name: Italy Project41-B
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 188
-	ValueDefault: 0
+	Cost: 0
 
 Name: Hiraga Project
 	Size: 314L x 43W x 12H
@@ -6309,7 +6309,7 @@ Name: Hiraga Project
 	OverHeat Ratio: 35
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 0
+	Cost: 0
 
 Name: Monster"Nian"[GM]
 	Size: 165L x 38W x 11H
@@ -6321,7 +6321,7 @@ Name: Monster"Nian"[GM]
 	OverHeat Ratio: 85
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1000000
+	Cost: 1000000
 
 Name: XianNing
 	Size: 147L x 23W x 9H
@@ -6333,7 +6333,7 @@ Name: XianNing
 	OverHeat Ratio: 80
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 55790
+	Cost: 55790
 
 Name: YongSui
 	Size: 146L x 23W x 11H
@@ -6345,7 +6345,7 @@ Name: YongSui
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 62950
+	Cost: 62950
 
 Name: MinQuan
 	Size: 152L x 24W x 10H
@@ -6357,7 +6357,7 @@ Name: MinQuan
 	OverHeat Ratio: 75
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 64500
+	Cost: 64500
 
 Name: FuWei
 	Size: 228L x 32W x 16H
@@ -6369,7 +6369,7 @@ Name: FuWei
 	OverHeat Ratio: 50
 	Launchable Aircraft: 8
 	Aircraft Space: 6000
-	ValueDefault: 335590
+	Cost: 335590
 
 Name: DingYuan[Memorial ship]
 	Size: 157L x 31W x 11H
@@ -6381,7 +6381,7 @@ Name: DingYuan[Memorial ship]
 	OverHeat Ratio: 70
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 0
+	Cost: 0
 
 Name: MinSheng
 	Size: 152L x 24W x 11H
@@ -6393,7 +6393,7 @@ Name: MinSheng
 	OverHeat Ratio: 75
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 75600
+	Cost: 75600
 
 Name: ChongQing
 	Size: 162L x 26W x 12H
@@ -6405,7 +6405,7 @@ Name: ChongQing
 	OverHeat Ratio: 53
 	Launchable Aircraft: 1
 	Aircraft Space: 100
-	ValueDefault: 87500
+	Cost: 87500
 
 Name: ZhongShan[Memorial ship]
 	Size: 145L x 24W x 10H
@@ -6417,7 +6417,7 @@ Name: ZhongShan[Memorial ship]
 	OverHeat Ratio: 53
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 87500
+	Cost: 87500
 
 Name: Greyhound[Memorial ship]
 	Size: 148L x 19W x 10H
@@ -6429,7 +6429,7 @@ Name: Greyhound[Memorial ship]
 	OverHeat Ratio: 65
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 36504
+	Cost: 36504
 
 Name: Anson
 	Size: 244L x 42W x 15H
@@ -6441,7 +6441,7 @@ Name: Anson
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 3000000
+	Cost: 3000000
 
 Name: Spearhead
 	Size: 264L x 42W x 13H
@@ -6453,7 +6453,7 @@ Name: Spearhead
 	OverHeat Ratio: 35
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 2800000
+	Cost: 2800000
 
 Name: Ashitaka
 	Size: 264L x 39W x 9H
@@ -6465,7 +6465,7 @@ Name: Ashitaka
 	OverHeat Ratio: 39
 	Launchable Aircraft: 1
 	Aircraft Space: 200
-	ValueDefault: 3000000
+	Cost: 3000000
 
 Name: Kii
 	Size: 264L x 39W x 9H
@@ -6477,7 +6477,7 @@ Name: Kii
 	OverHeat Ratio: 38
 	Launchable Aircraft: 1
 	Aircraft Space: 200
-	ValueDefault: 2800000
+	Cost: 2800000
 
 Name: YiXian
 	Size: 156L x 24W x 13H
@@ -6489,7 +6489,7 @@ Name: YiXian
 	OverHeat Ratio: 53
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 87500
+	Cost: 87500
 
 Name: PingHai
 	Size: 160L x 24W x 13H
@@ -6501,7 +6501,7 @@ Name: PingHai
 	OverHeat Ratio: 50
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 88600
+	Cost: 88600
 
 Name: NingHai
 	Size: 160L x 24W x 13H
@@ -6513,7 +6513,7 @@ Name: NingHai
 	OverHeat Ratio: 45
 	Launchable Aircraft: 1
 	Aircraft Space: 150
-	ValueDefault: 91300
+	Cost: 91300
 
 Name: HaiGou
 	Size: 97L x 18W x 4H
@@ -6525,7 +6525,7 @@ Name: HaiGou
 	OverHeat Ratio: 35
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 270000
+	Cost: 270000
 
 Name: CN Kiev
 	Size: 240L x 45W x 17H
@@ -6537,7 +6537,7 @@ Name: CN Kiev
 	OverHeat Ratio: 35
 	Launchable Aircraft: 9
 	Aircraft Space: 7650
-	ValueDefault: 5137200
+	Cost: 5137200
 
 Name: CN Minsk[Memorial ship]
 	Size: 240L x 45W x 17H
@@ -6549,7 +6549,7 @@ Name: CN Minsk[Memorial ship]
 	OverHeat Ratio: 35
 	Launchable Aircraft: 11
 	Aircraft Space: 11350
-	ValueDefault: 0
+	Cost: 0
 
 Name: Jiguang
 	Size: 230L x 27W x 16H
@@ -6561,7 +6561,7 @@ Name: Jiguang
 	OverHeat Ratio: 67
 	Launchable Aircraft: 2
 	Aircraft Space: 100
-	ValueDefault: 602000
+	Cost: 602000
 
 Name: Gaoxiong
 	Size: 230L x 27W x 16H
@@ -6573,7 +6573,7 @@ Name: Gaoxiong
 	OverHeat Ratio: 67
 	Launchable Aircraft: 2
 	Aircraft Space: 100
-	ValueDefault: 602000
+	Cost: 602000
 
 Name: Yuanpei
 	Size: 201L x 32W x 12H
@@ -6585,7 +6585,7 @@ Name: Yuanpei
 	OverHeat Ratio: 61
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 630000
+	Cost: 630000
 
 Name: ShiLang
 	Size: 239L x 47W x 18H
@@ -6597,7 +6597,7 @@ Name: ShiLang
 	OverHeat Ratio: 30
 	Launchable Aircraft: 10
 	Aircraft Space: 10000
-	ValueDefault: 5037500
+	Cost: 5037500
 
 Name: ChengGong
 	Size: 300L x 50W x 18H
@@ -6609,7 +6609,7 @@ Name: ChengGong
 	OverHeat Ratio: 30
 	Launchable Aircraft: 14
 	Aircraft Space: 16000
-	ValueDefault: 50000000
+	Cost: 50000000
 
 Name: 033-Type[Memorial ship]
 	Size: 155L x 19W x 30H
@@ -6621,7 +6621,7 @@ Name: 033-Type[Memorial ship]
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4284000
+	Cost: 4284000
 
 Name: John Rabe[Memorial ship]
 	Size: 215L x 30W x 13H
@@ -6633,7 +6633,7 @@ Name: John Rabe[Memorial ship]
 	OverHeat Ratio: 46
 	Launchable Aircraft: 2
 	Aircraft Space: 160
-	ValueDefault: 0
+	Cost: 0
 
 Name: ShangZhi
 	Size: 222L x 40W x 12H
@@ -6645,7 +6645,7 @@ Name: ShangZhi
 	OverHeat Ratio: 50
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1312500
+	Cost: 1312500
 
 Name: ZhongXiang
 	Size: 216L x 42W x 12H
@@ -6657,7 +6657,7 @@ Name: ZhongXiang
 	OverHeat Ratio: 36
 	Launchable Aircraft: 1
 	Aircraft Space: 175
-	ValueDefault: 1825000
+	Cost: 1825000
 
 Name: HanQing
 	Size: 180L x 32W x 8H
@@ -6669,7 +6669,7 @@ Name: HanQing
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 2047300
+	Cost: 2047300
 
 Name: YanGong
 	Size: 269L x 45W x 12H
@@ -6681,7 +6681,7 @@ Name: YanGong
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 220
-	ValueDefault: 2500000
+	Cost: 2500000
 
 Name: MingZhao
 	Size: 265L x 44W x 16H
@@ -6693,7 +6693,7 @@ Name: MingZhao
 	OverHeat Ratio: 25
 	Launchable Aircraft: 2
 	Aircraft Space: 330
-	ValueDefault: 4200000
+	Cost: 4200000
 
 Name: MaAnShan
 	Size: 155L x 26W x 20H
@@ -6705,7 +6705,7 @@ Name: MaAnShan
 	OverHeat Ratio: 27
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 150000
+	Cost: 150000
 
 Name: HaiLang
 	Size: 116L x 14W x 6H
@@ -6717,7 +6717,7 @@ Name: HaiLang
 	OverHeat Ratio: 49
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 372000
+	Cost: 372000
 
 Name: HaiBao
 	Size: 135L x 20W x 7H
@@ -6729,7 +6729,7 @@ Name: HaiBao
 	OverHeat Ratio: 49
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1200000
+	Cost: 1200000
 
 Name: HaiShi
 	Size: 139L x 19W x 10H
@@ -6741,7 +6741,7 @@ Name: HaiShi
 	OverHeat Ratio: 51
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 1630000
+	Cost: 1630000
 
 Name: HaiXiang
 	Size: 142L x 20W x 8H
@@ -6753,7 +6753,7 @@ Name: HaiXiang
 	OverHeat Ratio: 52
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 2524000
+	Cost: 2524000
 
 Name: HaiLong
 	Size: 143L x 17W x 15H
@@ -6765,7 +6765,7 @@ Name: HaiLong
 	OverHeat Ratio: 52
 	Launchable Aircraft: 0
 	Aircraft Space: 0
-	ValueDefault: 4117500
+	Cost: 4117500
 
 Name: S-H44 Class[GM]
 	Size: 343L x 59W x 17H
@@ -6777,7 +6777,7 @@ Name: S-H44 Class[GM]
 	OverHeat Ratio: 20
 	Launchable Aircraft: 2
 	Aircraft Space: 300
-	ValueDefault: 0
+	Cost: 0
 
 Name: Xmas JingHaiHou
 	Size: 219L x 36W x 12H
@@ -6789,7 +6789,7 @@ Name: Xmas JingHaiHou
 	OverHeat Ratio: 30
 	Launchable Aircraft: 1
 	Aircraft Space: 185
-	ValueDefault: 880000
+	Cost: 880000
 
 Name: Lyon(1943)
 	Size: 204L x 32W x 11H
@@ -6801,7 +6801,7 @@ Name: Lyon(1943)
 	OverHeat Ratio: 40
 	Launchable Aircraft: 1
 	Aircraft Space: 200
-	ValueDefault: 3000000
+	Cost: 3000000
 
 Name: Gascogne(1941)
 	Size: 258L x 40W x 23H
@@ -6813,7 +6813,7 @@ Name: Gascogne(1941)
 	OverHeat Ratio: 29
 	Launchable Aircraft: 1
 	Aircraft Space: 240
-	ValueDefault: 2800000
+	Cost: 2800000
 
 Name: Scharnhorst(1942)
 	Size: 252L x 40W x 14H
@@ -6825,7 +6825,7 @@ Name: Scharnhorst(1942)
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 200
-	ValueDefault: 0
+	Cost: 0
 
 Name: Prinz Eugen (1942)
 	Size: 220L x 32W x 12H
@@ -6837,7 +6837,7 @@ Name: Prinz Eugen (1942)
 	OverHeat Ratio: 30
 	Launchable Aircraft: 2
 	Aircraft Space: 150
-	ValueDefault: 0
+	Cost: 0
 
 Name: Novorossiysk
 	Size: 263L x 44W x 15H
@@ -6849,7 +6849,7 @@ Name: Novorossiysk
 	OverHeat Ratio: 38
 	Launchable Aircraft: 1
 	Aircraft Space: 180
-	ValueDefault: 0
+	Cost: 0
 
 Name: Project 21
 	Size: 261L x 44W x 13H
@@ -6861,7 +6861,7 @@ Name: Project 21
 	OverHeat Ratio: 38
 	Launchable Aircraft: 1
 	Aircraft Space: 200
-	ValueDefault: 0
+	Cost: 0
 
 Name: Fr.Morosini
 	Size: 248L x 46W x 14H
@@ -6873,7 +6873,7 @@ Name: Fr.Morosini
 	OverHeat Ratio: 35
 	Launchable Aircraft: 1
 	Aircraft Space: 170
-	ValueDefault: 0
+	Cost: 0
 
 Name: Caracciolo(1939)
 	Size: 248L x 46W x 14H
@@ -6885,4 +6885,4 @@ Name: Caracciolo(1939)
 	OverHeat Ratio: 35
 	Launchable Aircraft: 1
 	Aircraft Space: 170
-	ValueDefault: 0
+	Cost: 0
