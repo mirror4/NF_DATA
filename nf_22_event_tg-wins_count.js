@@ -88,5 +88,5 @@ ${__PL(this.getMinutes())}:${__PL(this.getSeconds())}`
         timestamp: _timestamp.format(),
         win: _win
     });
-    window.alert(`final: win ${_win} before ${_timestamp.format()}`);
+    window.alert(`final: win ${_win} till ${_timestamp.format()}`);
 })()
