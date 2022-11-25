@@ -1,5 +1,5 @@
 /*
-  last edit:  2022-11-25 15:38:26
+  last edit:  2022-11-25 16:02:26
   function:
     count all battles that fulfill the criteria listed under https://forum.navyfield.com/thread-2997-1-1.html
   
@@ -40,7 +40,7 @@ ${__PL(this.getMinutes())}:${__PL(this.getSeconds())}`
             let _c = $(this).children();
             if (parseInt(_c.eq(2).text()) < 5000) return false;
             if (new Date(_c.first().text()) <= _lasttimer) return false;
-            return _c.last().text() == 'Victory';
+            return _c.last().text() == 'Victory' || _c.last().text() == '胜';;
         });
         if (_battles.length > 0){
             _win += _battles.length;
