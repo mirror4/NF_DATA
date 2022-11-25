@@ -1,5 +1,5 @@
 /*
-  last edit:  2022-11-25 10:20 pm
+  last edit:  2022-11-25 10:37 pm
   function:
     count all battles that fulfill the criteria listed under https://forum.navyfield.com/thread-2997-1-1.html
   
