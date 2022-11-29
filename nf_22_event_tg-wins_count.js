@@ -41,10 +41,10 @@ javascript:(function(){
             if (parseInt(_c.eq(4).text().match(/(\d{1,2})[^\d]+\d{1,2}/m)[1]) < 5) return false;
             return _c.last().text() == 'Victory' || _c.last().text() == '胜';;
         });
-        if (_battles.length > 0){
+        if (_battles.length > 0)
             _win += $.unique(_battles.find("td:first").map(function(){return this.innerText})).length;
-            if(_timestamp<_pagefirstdate)_timestamp =_pagefirstdate;
-        }
+        if(_timestamp<_pagefirstdate)
+            _timestamp =_pagefirstdate;
     };
 
     let getHtml = function(url){
