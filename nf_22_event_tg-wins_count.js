@@ -10,9 +10,7 @@
 javascript:(function(){
     Date.prototype.format = function(){
         const __PL = (nr, len = 2, chr = `0`) => `${nr}`.padStart(2, chr);
-        return `${this.getFullYear()}-${__PL(this.getMonth()+1)}-\
-${__PL(this.getDate())} ${__PL(this.getHours())}:\
-${__PL(this.getMinutes())}:${__PL(this.getSeconds())}`
+        return `${this.getFullYear()}-${__PL(this.getMonth()+1)}-${__PL(this.getDate())} ${__PL(this.getHours())}:${__PL(this.getMinutes())}:${__PL(this.getSeconds())}`
     };
 
     if ($ !== jQuery) $ = jQuery;
