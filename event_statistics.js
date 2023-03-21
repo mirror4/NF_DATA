@@ -55,7 +55,7 @@
                 console.log(`got ${Math.floor(attack/500000)} box(es) already, need ${(500000-attack%500000).format()} attack to get another one`);
             else if (attack < 2500000)
                 console.log(`haven't got anything, need ${(500000-attack%500000).format()} attack to get one gift box`);
-            esle
+            else
                 console.log('enough today.');
         }
     };
