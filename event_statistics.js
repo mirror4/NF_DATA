@@ -52,7 +52,7 @@
             //console.log(`battles: ${wins}/${this.page.length};win rate: ${(wins/this.page.length * 100).toFixed(2)}%`);
             console.log(`total valid attack today: ${attack.format()}, killed: ${killed}`);
             if (attack > 500000)
-                console.log(`got ${Math.floor(attack/500000)} box(es) already, need ${(500000-attack%500000).format()} attack to get another one`);
+                console.log(`got ${Math.floor(attack/500000)} box${attack>1000000?'es':''} already, need ${(500000-attack%500000).format()} attack to get another one`);
             else if (attack < 2500000)
                 console.log(`haven't got anything, need ${(500000-attack%500000).format()} attack to get one gift box`);
             else
