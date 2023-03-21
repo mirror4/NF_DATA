@@ -38,23 +38,23 @@
 
         this.showEvent = function(){
             let attack = 0, killed = 0;
-            let wins = 0;
+            let wins = 0, battles = 0;
 
             this.page.each(function(){
-                if (this.outcome) wins += 1 ;
                 if (!this.isToday()) return;
+                battles += 1;
+                if (this.outcome) wins += 1 ;
                 if (this.duration < 300) return;
 
                 attack += this.attack;
                 killed += this.killed;
             });
 
-            //console.log(`battles: ${wins}/${this.page.length};win rate: ${(wins/this.page.length * 100).toFixed(2)}%`);
-            console.log(`total valid attack today: ${attack.format()}, killed: ${killed}`);
-            if (attack > 500000)
-                console.log(`got ${Math.floor(attack/500000)} box${attack>1000000?'es':''} already, need ${(500000-attack%500000).format()} attack to get another one`);
-            else if (attack < 2500000)
+            console.log(`battles: ${wins}/${battles}(${(wins/battles * 100).toFixed(2)}%);total valid attack: ${attack.format()}, killed: ${killed}`);
+            if (attack < 2500000)
                 console.log(`haven't got anything, need ${(500000-attack%500000).format()} attack to get one gift box`);
+            else if (attack < 500000)
+                console.log(`got ${Math.floor(attack/500000)} box${attack>1000000?'es':''} already, need ${(500000-attack%500000).format()} attack to get another one`);
             else
                 console.log('enough today.');
         }
