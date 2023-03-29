@@ -83,6 +83,7 @@
     var battles = [];
 
     let _parsePage = function(page){
+        if (_stop) return;
         let _html = getHtml(page);
         let _parser = new DOMParser();
         let _doc = _parser.parseFromString(_html, "text/html");
@@ -96,16 +97,15 @@
         return !_stop;
     });
 
-    if (!_stop){
-        let nf = new NAVYFIELD(document.body);
-        $.merge( battles, nf.battles );
-        if (nf.hasOtherDays()) _stop = true;
 
-        $('div.pg strong').nextAll("a:not([class])").each(function(i, _page){
-            _parsePage($(_page).prop('href'));
-            return !_stop;
-        });
-    };
+    let nf = new NAVYFIELD(document.body);
+    $.merge( battles, nf.battles );
+    if (nf.hasOtherDays()) _stop = true;
+
+    $('div.pg strong').nextAll("a:not([class])").each(function(i, _page){
+        _parsePage($(_page).prop('href'));
+        return !_stop;
+    });
 
     let showResult = function(){
         let attack = 0, killed = 0;
