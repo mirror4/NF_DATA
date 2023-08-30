@@ -29,7 +29,7 @@
         this.attack = Number(_c.eq(2).text());
         this.killed = Number(_c.eq(3).text());
         this.duration = _c.eq(4).text().split(':').reduce((acc,time) => (60 * acc) + +time);
-        this.outcome = /Victory|胜/g.test(_c.eq(5).text());
+        this.outcome = /Victory|胜|勝/g.test(_c.eq(5).text());
 
         this.info = function(){
             console.log(`${this.date} - ${this.ship} - ${this.attack} - ${this.killed} - ${this.duration} - ${this.outcome} `);
