@@ -5,11 +5,9 @@
         return this.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     };
 
-    if ($ !== jQuery) $ = jQuery;
-
     let getHtml = function(url){
         let _html = null;
-        $.ajax({
+        jQuery.ajax({
             'async': false,
             'type': "GET",
             'global': false,
@@ -23,7 +21,7 @@
     };
 
     let Battle = function(ele){
-        let _c = $(ele).children();
+        let _c = jQuery(ele).children();
         this.date = new Date(_c.first().text());
         this.ship = _c.eq(1).text();
         this.attack = Number(_c.eq(2).text());
@@ -46,7 +44,7 @@
     };
 
     let NAVYFIELD = function(body){
-        this.battles = $(body).find('#bannedtable tr').map(function(){
+        this.battles = jQuery(body).find('#bannedtable tr').map(function(){
             return new Battle(this);
         });
 
@@ -88,22 +86,22 @@
         let _parser = new DOMParser();
         let _doc = _parser.parseFromString(_html, "text/html");
         let nf = new NAVYFIELD(_doc.body);
-        $.merge( battles, nf.battles );
+        jQuery.merge( battles, nf.battles );
         if (nf.hasOtherDays()) _stop = true;
     };
 
-    $($('div.pg strong').prevAll("a:not([class])").get().reverse()).each(function(i, _page){
-        _parsePage($(_page).prop('href'));
+    jQuery(jQuery('div.pg strong').prevAll("a:not([class])").get().reverse()).each(function(i, _page){
+        _parsePage(jQuery(_page).prop('href'));
         return !_stop;
     });
 
 
     let nf = new NAVYFIELD(document.body);
-    $.merge( battles, nf.battles );
+    jQuery.merge( battles, nf.battles );
     if (nf.hasOtherDays()) _stop = true;
 
-    $('div.pg strong').nextAll("a:not([class])").each(function(i, _page){
-        _parsePage($(_page).prop('href'));
+    jQuery('div.pg strong').nextAll("a:not([class])").each(function(i, _page){
+        _parsePage(jQuery(_page).prop('href'));
         return !_stop;
     });
 
@@ -111,7 +109,7 @@
         let attack = 0, killed = 0;
         let wins = 0, totalbattles = 0;
 
-        $(battles).each(function(){
+        jQuery(battles).each(function(){
             if (!this.isToday()) return;
             if (this.attack == 0) return;
             totalbattles += 1;
@@ -122,13 +120,13 @@
             killed += this.killed;
         });
 
-        console.log(`battles: ${wins}/${totalbattles}(${(wins/totalbattles * 100).toFixed(2)}%);total valid attack: ${attack.format()}, killed: ${killed}`);
-        if (attack < 500000)
-            console.log(`haven't got anything, need ${(500000-attack%500000).format()} attack to get one gift box`);
-        else if (attack < 2500000)
-            console.log(`got ${Math.floor(attack/500000)} box${attack>1000000?'es':''} already, need ${(500000-attack%500000).format()} attack to get another one`);
-        else
-            console.log('enough today.');
+        if (totalbattles == 0){
+            showDialog('Go conquer the ocean NOW!', 'notice', 'Daily Statistics');
+            return
+        }else{
+            let _msg = `battles: ${wins}/${totalbattles}(${(wins/totalbattles * 100).toFixed(2)}%)</br>total valid attacks: ${attack.format()}</br>killed: ${killed}`;
+            showDialog(_msg, 'notice', 'Daily Statistics');
+        }
     };
 
     showResult();
