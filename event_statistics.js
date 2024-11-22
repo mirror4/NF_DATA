@@ -40,6 +40,11 @@
               }
             
               return false;
+        };
+
+        this.highlight = function(number){
+            _c.eq(5).css("background-color", this.outcome?"lightgreen":"#FFCCCB");
+            if (this.outcome) _c.eq(5).html(`${_c.eq(5).children().remove().end().text()}<sup>${number}</sup>`);
         }
     };
 
@@ -112,12 +117,14 @@
         jQuery(battles).each(function(){
             if (!this.isToday()) return;
             if (this.attack == 0) return;
+            if (this.duration < 300) return;
             totalbattles += 1;
             if (this.outcome) wins += 1 ;
-            if (this.duration < 300) return;
 
             attack += this.attack;
             killed += this.killed;
+
+            this.highlight(wins);
         });
 
         if (totalbattles == 0){
