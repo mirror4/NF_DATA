@@ -117,7 +117,7 @@
 
         jQuery(battles).each(function(){
             if (!this.isToday()) return;
-            if (this.attack == 0) return;
+            if (this.attack == 0 && this.duration < 300) return;
             totalbattles += 1;
             if (this.outcome) wins += 1 ;
 
