@@ -113,6 +113,7 @@
     let showResult = function(){
         let attack = 0, killed = 0;
         let wins = 0, totalbattles = 0;
+        let e_wins = 0, e_battles = 0, e_attack = 0, e_killed = 0;
 
         jQuery(battles).each(function(){
             if (!this.isToday()) return;
@@ -124,7 +125,12 @@
             attack += this.attack;
             killed += this.killed;
 
-            this.highlight(wins);
+            if (this.attack > 0 && this.duration >= 300){
+                e_battles += 1;e_attack += this.attack;e_killed += this.killed;
+                if (this.outcome) e_wins += 1 ;
+
+                this.highlight(`[${e_wins}] ${e_killed}/${e_attack.format()}`);
+            }
         });
 
         if (totalbattles == 0){
