@@ -55,31 +55,7 @@
 
         this.hasOtherDays = function(){
             return this.battles.filter(function(){return !this.isToday();}).length > 0;
-        }
-
-        this.showEvent = function(){
-            //console.log(this.battles);return false;
-            let attack = 0, killed = 0;
-            let wins = 0, battles = 0;
-
-            this.battles.each(function(){
-                if (!this.isToday()) return;
-                battles += 1;
-                if (this.outcome) wins += 1 ;
-                if (this.duration < 300) return;
-
-                attack += this.attack;
-                killed += this.killed;
-            });
-
-            console.log(`battles: ${wins}/${battles}(${(wins/battles * 100).toFixed(2)}%);total valid attack: ${attack.format()}, killed: ${killed}`);
-            if (attack < 500000)
-                console.log(`haven't got anything, need ${(500000-attack%500000).format()} attack to get one gift box`);
-            else if (attack < 2500000)
-                console.log(`got ${Math.floor(attack/500000)} box${attack>1000000?'es':''} already, need ${(500000-attack%500000).format()} attack to get another one`);
-            else
-                console.log('enough today.');
-        }
+        };
     };
 
     let _stop = false;
@@ -115,7 +91,7 @@
         let wins = 0, totalbattles = 0;
         let e_wins = 0, e_battles = 0, e_attack = 0, e_killed = 0;
 
-        jQuery(battles).each(function(){
+        jQuery(battles.reverse()).each(function(){
             if (!this.isToday()) return;
             if (this.attack == 0 && this.duration < 300) return;
             totalbattles += 1;
