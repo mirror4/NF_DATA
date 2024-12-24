@@ -44,7 +44,7 @@
 
         this.highlight = function(number){
             _c.eq(5).css("background-color", this.outcome?"lightgreen":"#FFCCCB");
-            if (this.outcome) _c.eq(5).html(`${_c.eq(5).children().remove().end().text()}<sup>${number}</sup>`);
+            _c.eq(5).html(`${_c.eq(5).children().remove().end().text()}<sup>${number}</sup>`);
         }
     };
 
@@ -102,9 +102,12 @@
 
             if (this.attack > 0 && this.duration >= 300){
                 e_battles += 1;e_attack += this.attack;e_killed += this.killed;
-                if (this.outcome) e_wins += 1 ;
-
-                this.highlight(`[${e_wins}] ${e_killed}/${e_attack.format()}`);
+                if (this.outcome){
+                    e_wins += 1 ;
+                    this.highlight(`[${e_wins}] ${e_killed}/${e_attack.format()}`);
+                }else{
+                    this.highlight(`${e_battles-e_wins}`);
+                }
             }
         });
 
